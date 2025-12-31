@@ -103,4 +103,30 @@ Created two new columns:
        .str.replace(",", "")
        .astype("Int64")
    )
+   ## 🚙 Data Cleaning: Filling Missing Prices (Group Median Imputation)
+
+To avoid losing valuable data due to missing values in the `Actual_price` column, a **group-based median filling strategy** was implemented. This approach ensures that price estimations remain realistic and consistent with the vehicle's category, making the dataset more suitable for machine learning.
+
+### 1️⃣ Imputation Strategy
+The logic uses a hierarchical approach to fill missing values, moving from specific to general categories:
+
+* **Step 1 (Brand-based):** Missing prices are first filled using the median price of the same **car brand**.
+* **Step 2 (Model-based Fallback):** As a secondary check, any remaining missing values are filled using the median price of the same **car model**.
+* **Step 3 (Final Cleanup):** Rows that still contain `NaN` values (where neither brand nor model median data is available) are dropped to maintain data integrity.
+
+### 2️⃣ Python Implementation
+
+```python
+# 1️⃣ Fill missing price using median of the same car brand
+df["Actual_price"] = df["Actual_price"].fillna(
+    df.groupby("car_brand")["Actual_price"].transform("median")
+)
+
+# 2️⃣ Fallback: fill using median price of the same model
+df["Actual_price"] = df["Actual_price"].fillna(
+    df.groupby("model")["Actual_price"].transform("median")
+)
+
+# 3️⃣ Final fallback: drop remaining NaN values
+df = df.dropna(subset=["Actual_price"]).reset_index(drop=True)
 
