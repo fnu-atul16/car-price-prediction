@@ -1,0 +1,894 @@
+﻿name,location,mileage,price,Exterior color,interior color,Drivetrain,MPG,Fuel type,Transmission,Engine,Accidents or damage,1-owner vehicle,Personal use only
+2022 Lexus IS 500 F SPORT Performance,"1035 N Clark St Chicago, IL 60610","11,633 mi.","$56,888 ",Gray,Black,Rear-wheel Drive,17–25,Gasoline,8-Speed Automatic,5.0L V8 32V PDI DOHC,None reported,No,No
+2021 Mercedes-Benz E-Class E 350,"1520 W North Ave Chicago, IL 60642","13,501 mi.","$43,492 $1,341 price drop",Polar White,Macchiato Beige,Rear-wheel Drive,22–31,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,No,No
+2023 Volkswagen Tiguan 2.0T S,"5330 W. Irving Park Road Chicago, IL 60641","2,132 mi.","$25,119 $876 price drop",Platinum Gray Metallic,Titan Black,All-wheel Drive,22–29,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2023 Volkswagen Tiguan 2.0T SE R-Line Black,"5330 W. Irving Park Road Chicago, IL 60641","13,295 mi.","$29,154 $641 price drop",Deep Black Pearl Effect,Black,Front-wheel Drive,23–30,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2024 Toyota Corolla Hybrid LE,"6941 S. Western Ave Chicago, IL 60636",2 mi.,"$26,743 MSRP $27,043",Classic Silver Metallic,Black,Front-wheel Drive,53–46,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,,,
+2023 Jeep Grand Cherokee Overland,"1140 Garfield St Oak Park, IL 60304","19,310 mi.","$47,990 $990 price drop",Velvet Red Pearlcoat,Global Black,Four-wheel Drive,19–26,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,Yes,No
+2013 Volvo XC70 3.2 Platinum,"1140 Garfield St Oak Park, IL 60304","95,028 mi.","$16,990 $1,990 price drop",Seashell Metallic,Soft Beige,All-wheel Drive,18–24,Gasoline,6-Speed Automatic,3.2L I6 24V MPFI DOHC,None reported,Yes,No
+2021 INFINITI QX80 Luxe,"2100 Harlem Ave North Riverside, IL 60546","55,423 mi.","$30,584 ",Liquid Platinum,Graphite,Four-wheel Drive,13–19,Gasoline,7-Speed Automatic,"5.6L V-8 gasoline direct injection, DOHC, VVEL variable valve co",None reported,Yes,No
+2020 GMC Acadia SLT,"7400 W. Cermak North Riverside, IL 60546","76,106 mi.","$24,277 $100 price drop",Summit White,Jet Black,All-wheel Drive,21–27,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,No
+2021 Honda Odyssey Touring,"6900 McCormick Blvd Lincolnwood, IL 60712","30,177 mi.","$33,600 ",Crystal Black Pearl,Gray,Front-wheel Drive,19–28,Gasoline,Automatic,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",None reported,Yes,Yes
+2018 Hyundai IONIQ Hybrid SEL,"3340 Oakton St Skokie, IL 60076","21,451 mi.","$18,408 $364 price drop",Electric Blue Metallic,Black,Front-wheel Drive,55–54,Hybrid,6-Speed Automatic with Auto-Shift,1.6L I4 16V GDI DOHC Hybrid,At least 1 accident or damage reported,Yes,No
+2013 Subaru BRZ 2.0 PREMIUM,"7405 S. Harlem Bridgeview, IL 60455","177,493 mi.","$8,995 ",BLUE,Black,Rear-wheel Drive,25–0,Gasoline,Automatic,"2L H-4 port/direct injection, DOHC, variable valve control, prem",At least 1 accident or damage reported,No,No
+2022 Toyota Highlander XLE,"4320 W 95th St Oak Lawn, IL 60453","22,212 mi.","$39,856 $639 price drop",White,Black,All-wheel Drive,20–27,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,None reported,Yes,No
+2016 Chevrolet Tahoe LT,,"45,374 mi.","$30,895 $2,605 price drop",Siren Red Tintcoat,Black,Four-wheel Drive,16–22,Gasoline,6-Speed Automatic,5.3L V8 16V GDI OHV,,,
+2021 Cadillac Escalade Sport,,,,,,,,,,,,,
+2020 Acura RDX Base,,,,,,,,,,,,,
+2013 MINI Convertible Cooper S,"101 N Wolf Rd Hillside, IL 60162","36,897 mi.","$17,998 ",Blue,Black,Front-wheel Drive,26–35,Gasoline,6-Speed Automatic,1.6L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2021 Audi Q7 45 Premium Plus,"101 N Wolf Rd Hillside, IL 60162","39,732 mi.","$39,998 ",Orca Black Metallic,Black,AWD,19–23,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2020 Ford Explorer Limited,"101 N Wolf Rd Hillside, IL 60162","30,997 mi.","$28,998 $1,000 price drop",Green,Tan,Rear-wheel Drive,21–28,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2023 Jeep Grand Cherokee Summit,"5859 South La Grange Road Countryside, IL 60525","12,870 mi.","$56,066 $498 price drop",Bright White Clearcoat,Global Black,Four-wheel Drive,19–26,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,No,No
+2019 Chevrolet Corvette Grand Sport,,,,,,,,,,,,,
+2022 Jeep Grand Wagoneer Series III,"6201 South La Grange Road Hodgkins, IL 60525","44,245 mi.","$65,898 $2,101 price drop",Bright White Clearcoat,Tupelo,Four-wheel Drive,13–18,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,None reported,Yes,No
+2022 Subaru Ascent Onyx Edition,"6191 Joliet Rd Countryside, IL 60525","54,454 mi.","$30,999 $400 price drop",Crystal White Pearl,Gray,All-wheel Drive,20–26,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,None reported,Yes,No
+2021 Tesla Model X Long Range,"336 E Ogden Ave Hinsdale, IL 60521","40,616 mi.","$50,497 $1,948 price drop",Pearl White Multi,Black,All-wheel Drive,,Electric,5YJXCBE2XMF319604,C2316P,None reported,Yes,No
+2021 Land Rover Range Rover Sport HSE Silver Edition,"336 E Ogden Ave Hinsdale, IL 60521","26,819 mi.","$56,997 $980 price drop",Santorini Black,Ebony,Four-wheel Drive,19–24,Gasoline,Automatic,V6,At least 1 accident or damage reported,Yes,No
+2022 Tesla Model 3 Base,"2170 S Mannheim Rd Des Plaines, IL 60018","64,761 mi.","$24,091 ",Deep Blue,–,Rear-wheel Drive,Automatic,Electric,5YJ3E1EA3NF190228,55870,None reported,Yes,Yes
+2010 Honda CR-V EX-L,"1509 S River Rd Des Plaines, IL 60018","150,247 mi.","$8,988 ",Crystal Black Pearl,Black,Four-wheel Drive,21–27,Gasoline,5-Speed Automatic,2.4L I4 16V MPFI DOHC,At least 1 accident or damage reported,Yes,No
+2020 Mazda Mazda3 AWD w/Preferred Package,"200 W Grand Ave Elmhurst, IL 60126","29,830 mi.","$22,903 $1,595 price drop",Machine Gray Metallic,Black,All-wheel Drive,24–32,Gasoline,Automatic,"SKYACTIV-G 2.5L I-4 gasoline direct injection, DOHC, variable va",None reported,Yes,No
+2021 Porsche Panamera 4,,"9,860 mi.","$81,987 $347 price drop",,,,,,,,,,
+2021 Jeep Wrangler Willys,"200 W Grand Ave Elmhurst, IL 60126","50,989 mi.","$33,199 $296 price drop",Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,21–24,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, intercooled turbo, premi",At least 1 accident or damage reported,Yes,No
+2020 Genesis G70 3.3T RWD,"200 W Grand Ave Elmhurst, IL 60126","37,391 mi.","$28,497 $418 price drop",Himalayan Gray,Black w/Gray Stitching,Rear-wheel Drive,17–26,Gasoline,Automatic,"Lambda 3.3L V-6 gasoline direct injection, DOHC, D-CVVT variable",At least 1 accident or damage reported,No,No
+2023 Jeep Grand Cherokee L Summit Reserve,"200 W Grand Ave Elmhurst, IL 60126","9,716 mi.","$62,990 ",Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,18–25,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",None reported,Yes,No
+2023 Ford F-150 Raptor,"200 W Grand Ave Elmhurst, IL 60126","7,230 mi.","$77,944 ",Oxford White,Black,Four-wheel Drive,15–16,Gasoline,Automatic,"EcoBoost 3.5L V-6 port/direct injection, DOHC, variable valve co",None reported,No,No
+2020 Lincoln MKZ Reserve,"1610 N Waukegan Rd Glenview, IL 60025","26,077 mi.","$29,609 ",Infinite Black Metallic,Ebony,All-wheel Drive,20–29,Gasoline,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2023 BMW X7 xDrive40i,"500 West Lake Street Elmhurst, IL 60126","29,833 mi.","$70,992 $2,500 price drop",White Metallic,Black,All-wheel Drive,21–25,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,None reported,Yes,No
+2017 Volkswagen Passat 1.8T S,"2038 Waukegan Rd Glenview, IL 60025","83,661 mi.","$11,695 $300 price drop",Pure White,Titan Black,Front-wheel Drive,23–34,Gasoline,6-Speed Automatic,1.8L I4 16V GDI DOHC Turbo,None reported,No,No
+2017 Mercedes-Benz GLS 550 Base 4MATIC,"3160 Commercial Ave Northbrook, IL 60062","71,154 mi.","$33,550 $1,445 price drop",White,Saddle Brown / Black,All-wheel Drive,14–18,Gasoline,9-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo,None reported,No,No
+2017 Subaru WRX Limited,"3160 Commercial Ave Northbrook, IL 60062","93,618 mi.","$18,495 $500 price drop",Blue,Black,All-wheel Drive,18–24,Gasoline,Automatic CVT,2.0L H4 16V GDI DOHC Turbo,None reported,Yes,No
+2013 Porsche Panamera 4,,,,,,,,,,,,,
+2007 BMW Z4 3.0i Roadster,"3160 Commercial Ave Northbrook, IL 60062","65,262 mi.","$15,995 ",Black,Black,Rear-wheel Drive,20–30,Gasoline,6-Speed Manual,3.0L I6 24V MPFI DOHC,None reported,No,No
+2002 Mercedes-Benz CL-Class CL55 AMG,,,,,,,,,,,,,
+2019 Mercedes-Benz SL 550 Base,"3160 Commercial Ave Northbrook, IL 60062","31,807 mi.","$60,995 $1,000 price drop",Gray,Black,Rear-wheel Drive,17–25,Gasoline,9-Speed Automatic,4.7L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2020 Subaru Outback Premium,"770 Frontage Rd Northfield, IL 60093","69,137 mi.","$18,989 $1,000 price drop",Ice Silver Metallic,Black,All-wheel Drive,26–33,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,At least 1 accident or damage reported,Yes,No
+2017 Mercedes-Benz C-Class C300 4MATIC Coupe,"13901 S Cicero Ave Crestwood, IL 60445","64,811 mi.","$21,995 ",Black,Brown,All-wheel Drive,23–29,Gasoline,Automatic,2.0L L4 DOHC 16V TURBO,At least 1 accident or damage reported,No,No
+2021 BMW X1 xDrive28i,"430 E. Ogden Ave. Westmont, IL 60559","24,699 mi.","$29,491 $1,299 price drop",Mineral White Metallic,Black,All-wheel Drive,23–31,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,No
+2021 Audi Q7 55 Prestige,"430 E. Ogden Ave. Westmont, IL 60559","46,594 mi.","$46,179 ",Navarra Blue Metallic,Black,All-wheel Drive,18–23,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo,None reported,Yes,No
+2019 Mercedes-Benz E-Class E 300,"430 E. Ogden Ave. Westmont, IL 60559","27,815 mi.","$34,760 ",Polar White,Black,All-wheel Drive,21–29,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,No,No
+2020 Honda HR-V EX-L,"415 Ogden Ave Clarendon Hills, IL 60514","24,964 mi.","$21,901 ",Lunar Silver Metallic,Black,All-wheel Drive,26–31,Gasoline,Automatic CVT,1.8L I4 16V MPFI SOHC,At least 1 accident or damage reported,Yes,No
+2021 INFINITI Q60 3.0t LUXE,"415 Ogden Ave Clarendon Hills, IL 60514","40,170 mi.","$36,135 ",Midnight Black,Graphite,All-wheel Drive,19–27,Gasoline,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,None reported,Yes,No
+2021 BMW X5 M50i,"1313 Rand Road Des Plaines, IL 60016","48,076 mi.","$49,977 $1,001 price drop",Mineral White Metallic,Ivory White,All-wheel Drive,16–22,Gasoline,8-Speed Automatic Sport,"4.4L V-8 gasoline direct injection, DOHC, Double VANOS variable",None reported,Yes,No
+2024 Audi Q3 45 S line Premium,"276 Ogden Ave Westmont, IL 60559",10 mi.,"$44,990 ",Navarra Blue Metallic,Black,All-wheel Drive,20–28,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",8 mi.,"$87,515 ",Gray Metallic,Black,All-wheel Drive,,Electric,,,,,
+2023 Porsche Cayenne Turbo,"201 E Ogden Ave Westmont, IL 60559","3,821 mi.","$138,000 $400 price drop",White,Black,All-wheel Drive,14–19,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2020 GMC Acadia AT4,"2000 Frontage Rd Glencoe, IL 60022","37,884 mi.","$29,998 $1,000 price drop",White,Black,All-wheel Drive,18–25,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,Yes
+2023 Ford F-150 Lightning Pro,"2000 Frontage Rd Glencoe, IL 60022","9,198 mi.","$45,998 $2,000 price drop",Black,Gray,All-wheel Drive,1-Speed Automatic,2.0L I4 OHV Electric,,24927101,None reported,Yes,Yes
+2020 Ford Explorer Limited,"2000 Frontage Rd Glencoe, IL 60022","38,946 mi.","$33,998 ",Black,Black,Four-wheel Drive,20–27,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2019 BMW M850 i xDrive,,,,,,,,,,,,,
+2020 Tesla Model X Long Range,"555 Executive Dr Willowbrook, IL 60527","78,563 mi.","$38,995 $1,000 price drop",Pearl White Multi,Black,All-wheel Drive,,Electric,,HL7583,None reported,Yes,No
+2021 GMC Acadia SLE,"300 W Roosevelt Rd Villa Park, IL 60181","22,280 mi.","$29,999 ",Summit White,Jet Black,All-wheel Drive,22–27,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,No
+2023 Kia Telluride EX X-Line,"2800 Patriot Blvd Glenview, IL 60026","5,268 mi.","$41,500 $400 price drop",Ebony Black,Black,All-wheel Drive,18–24,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,None reported,Yes,Yes
+2023 Toyota Highlander XSE,,,,,,,,,,,,,
+2019 Audi A5 2.0T Premium Plus,"870 S Fiene Dr. Addison, IL 60101","37,923 mi.","$24,985 $2,000 price drop",Manhattan Gray Metallic,Black,All-wheel Drive,23–34,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2022 Lincoln Aviator Reserve AWD,"217 E Ogden Ave Downers Grove, IL 60515","12,147 mi.","$57,000 $899 price drop",Pristine White Metallic Tri-Coat,Ebony,All-wheel Drive,17–24,Gasoline,10-Speed Automatic,3.0L V6,None reported,No,No
+2018 Tesla Model 3 Long Range,"505 Ogden Ave Downers Grove, IL 60515","27,147 mi.","$25,985 $1,000 price drop",Gray,Black,All-wheel Drive,,ELECTRIC MOTOR,,A866,None reported,Yes,No
+2020 Tesla Model 3 Long Range,,,,,,,,,,,,,
+2011 BMW Z4 sDrive30i,"1030 Republic Dr Addison, IL 60101","48,288 mi.","$24,750 ",Alpine White,Beige Kansas Leather,Rear-wheel Drive,18–28,Gasoline,Automatic,"3L I-6 DOHC, Double VANOS variable valve control, premium unlead",At least 1 accident or damage reported,Yes,No
+2023 Cadillac XT6 Premium Luxury AWD,"100 Skokie Blvd Northbrook, IL 60062","29,231 mi.","$45,989 ",Wilder Metallic,Dark Auburn,All-wheel Drive,18–25,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,No
+2021 Cadillac XT6 Premium Luxury AWD,"100 Skokie Blvd Northbrook, IL 60062","42,528 mi.","$35,989 ",Wilder Metallic,Cirrus,All-wheel Drive,18–25,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,No
+2013 Honda CR-Z Base,"1543 Ogden Ave Downers Grove, IL 60515","105,139 mi.","$8,888 $1,000 price drop",Gray,Black,Front-wheel Drive,–,Hybrid,Automatic,1.5L I4 16V MPFI SOHC Hybrid,None reported,No,No
+2014 Audi A7 3.0T Prestige quattro,"1543 Ogden Ave Downers Grove, IL 60515","139,741 mi.","$13,777 $1,111 price drop",White,Nougat Brown,All-wheel Drive,18–28,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,At least 1 accident or damage reported,No,No
+2022 Mitsubishi Mirage G4 LE,"1601 Ogden Ave. Downers Grove, IL 60515","35,674 mi.","$13,197 ",Mercury Gray Metallic,–,Front-wheel Drive,35–41,Gasoline,CVT,"1.2L I-3 DOHC, MIVEC variable valve control, regular unleaded, e",At least 1 accident or damage reported,Yes,No
+2016 INFINITI QX50 Base,"1601 Ogden Ave. Downers Grove, IL 60515","47,076 mi.","$17,697 ",Hagane Blue,Graphite,All-wheel Drive,17–24,Gasoline,7-Speed Automatic,"VQ 3.7L V-6 VVEL DOHC, variable valve control, premium unleaded,",None reported,Yes,No
+2022 Nissan Leaf SL PLUS 62 kWh,"1601 Ogden Ave. Downers Grove, IL 60515","10,676 mi.","$21,169 $815 price drop",Gun Metallic,Black,Front-wheel Drive,,Electric,,N8489,None reported,No,No
+2022 Toyota RAV4 Hybrid LE,"175 N Arlington Heights Rd Elk Grove Village, IL 60007","68,349 mi.","$24,577 $1,400 price drop",Midnight Black Metallic,Black,All-wheel Drive,41–38,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,At least 1 accident or damage reported,Yes,No
+2021 Mazda CX-30 Premium Package,"1644 Ogden Ave Downers Grove, IL 60515","27,653 mi.","$22,400 $100 price drop",Machine Gray Metallic,–,All-wheel Drive,24–31,Gasoline,Automatic,"SKYACTIV-G 2.5L I-4 gasoline direct injection, DOHC, variable va",None reported,Yes,Yes
+2016 Audi A6 2.0T Premium Plus,"3201 167th St Hazel Crest, IL 60429","129,666 mi.","$12,849 $150 price drop",Black,Black,All-wheel Drive,22–32,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, variable valve control,",None reported,Yes,No
+2024 Hyundai Santa Fe Limited,"1866 Ogden Avenue Downers Grove, IL 60515",11 mi.,"$48,085 MSRP $48,085",Earthy Brass Matte,Black,All-wheel Drive,20–28,Gasoline,Shiftronic,"Smartstream 2.5L I-4 port/direct injection, DOHC, CVVT variable",,,
+2021 Audi A5 45 S line Premium,,,,,,,,,,,,,
+2023 Chrysler 300,,,,,,,,,,,,,
+2018 Ford Edge Titanium,"8821 W 159th St Orland Hills, IL 60487","172,158 mi.","$12,795 $200 price drop",White Platinum,Ebony,Front-wheel Drive,20–29,Gasoline,6-Speed Automatic,EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT,At least 1 accident or damage reported,Yes,No
+2022 BMW X4 xDrive30i,,,,,,,,,,,,,
+2024 Audi A5 Sportback S line Premium,"2490 Skokie Valley Rd Highland Park, IL 60035",25 mi.,"$52,205 MSRP $52,205",Black,Black,All-wheel Drive,24–32,Hybrid,Automatic,Intercooled Turbo Gas/Electric I-4 2.0 L/121,,,
+2024 Audi A6 allroad Prestige,"2490 Skokie Valley Rd Highland Park, IL 60035",9 mi.,"$83,715 MSRP $83,715",Brown,Brown,All-wheel Drive,22–30,Hybrid,Automatic,Intercooled Turbo Gas/Electric V-6 3.0 L/183,,,
+2000 Lexus SC 300,"88 E Dundee Rd Buffalo Grove, IL 60089","94,984 mi.","$13,795 $1,180 price drop",Black Onyx,Ivory,Rear-wheel Drive,19–23,Gasoline,4-Speed Automatic,3.0L I6 24V MPFI DOHC,None reported,No,No
+2008 BMW 335 i,"2110 Ogden Ave Lisle, IL 60532","43,651 mi.","$12,979 $450 price drop",Platinum Bronze Metallic,Beige,Rear-wheel Drive,17–26,Gasoline,6-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,At least 1 accident or damage reported,No,No
+2006 Mazda MX-5 Miata Grand Touring,"2110 Ogden Ave Lisle, IL 60532","58,714 mi.","$12,990 $436 price drop",Marble White,Tan,Rear-wheel Drive,23–30,Gasoline,6-Speed Automatic,2.0L I4 16V MPFI DOHC,At least 1 accident or damage reported,No,No
+2011 Dodge Durango Express,"2110 Ogden Ave Lisle, IL 60532","85,260 mi.","$11,596 $150 price drop",Stone White Clearcoat,Black,Rear-wheel Drive,16–23,Gasoline,5-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,No,No
+2012 Honda Civic LX,"2110 Ogden Ave Lisle, IL 60532","140,616 mi.","$8,453 ",Crystal Black Pearl,Gray,Front-wheel Drive,28–39,Gasoline,5-Speed Automatic,1.8L I4 16V MPFI SOHC,At least 1 accident or damage reported,Yes,No
+2021 BMW X5 M Base,"2699 Skokie Valley Road Highland Park, IL 60035","43,791 mi.","$71,000 $899 price drop",Donington Grey Metallic,Silverstone,All-wheel Drive,13–18,Gasoline,8-Speed Automatic Sport,"4.4L V-8 gasoline direct injection, DOHC, Double VANOS variable",None reported,Yes,No
+2019 Audi SQ5 3.0T Premium,"2699 Skokie Valley Road Highland Park, IL 60035","61,268 mi.","$33,724 $1,275 price drop",Quantum Gray,Black,All-wheel Drive,19–24,Gasoline,8-Speed Automatic with Tiptronic,"3L V-6 gasoline direct injection, DOHC, variable valve control,",None reported,No,No
+2023 Nissan Armada SL,"18800 South Oak Park Ave Tinley Park, IL 60477","9,263 mi.","$46,998 $1,000 price drop",Blue,Black,Four-wheel Drive,13–18,Gasoline,7-Speed Automatic,5.6L V8 32V GDI DOHC,None reported,Yes,Yes
+2023 Ford Explorer ST,"18800 South Oak Park Ave Tinley Park, IL 60477","22,406 mi.","$42,998 $1,000 price drop",Black,Black,Rear-wheel Drive,18–25,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,None reported,Yes,Yes
+2023 Jeep Grand Cherokee Altitude,"18800 South Oak Park Ave Tinley Park, IL 60477","13,009 mi.","$39,998 $3,000 price drop",White,Black,Four-wheel Drive,19–26,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,Yes,Yes
+2020 Dodge Challenger GT,"18800 South Oak Park Ave Tinley Park, IL 60477","47,846 mi.","$29,998 ",Red,Black,All-wheel Drive,18–27,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,At least 1 accident or damage reported,Yes,No
+2022 Kia Sorento SX,"18800 South Oak Park Ave Tinley Park, IL 60477","27,623 mi.","$35,998 ",Black,Black,All-wheel Drive,22–27,Gasoline,8-Speed Automatic with Auto-Shift,2.5L I4 16V PDI DOHC Turbo,None reported,Yes,Yes
+2020 INFINITI QX50 Luxe,"18800 South Oak Park Ave Tinley Park, IL 60477","56,586 mi.","$26,998 ",Majestic White,Wheat,All-wheel Drive,22–28,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC Turbo,None reported,Yes,Yes
+2020 INFINITI QX50 Luxe,"18800 South Oak Park Ave Tinley Park, IL 60477","56,586 mi.","$26,998 ",Majestic White,Wheat,All-wheel Drive,22–28,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC Turbo,None reported,Yes,Yes
+2013 Kia Sorento SX,"250 E Golf Rd Schaumburg, IL 60173","103,703 mi.","$15,998 ",White,Black,All-wheel Drive,18–24,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI DOHC,None reported,Yes,Yes
+2017 Audi A5 2.0T Sport,"250 E Golf Rd Schaumburg, IL 60173","46,016 mi.","$23,998 $1,000 price drop",Daytona Gray Pearl Effect,Black,All-wheel Drive,22–30,E85 Flex Fuel,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,At least 1 accident or damage reported,Yes,No
+2019 Kia Niro LX,"250 E Golf Rd Schaumburg, IL 60173","70,535 mi.","$17,998 ",White,Black,Front-wheel Drive,51–46,Hybrid,6-Speed Automatic with Auto-Shift,1.6L I4 16V GDI DOHC Hybrid,At least 1 accident or damage reported,Yes,No
+2022 Ford Explorer Limited,"250 E Golf Rd Schaumburg, IL 60173","19,860 mi.","$32,998 $1,000 price drop",Gray,Black,Rear-wheel Drive,21–28,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2021 Audi S5 3.0T Premium Plus,"250 E Golf Rd Schaumburg, IL 60173","13,949 mi.","$44,998 ",Daytona Gray Pearl Effect,Black,All-wheel Drive,20–28,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo,None reported,Yes,Yes
+2020 Mercedes-Benz S-Class S 450,"250 E Golf Rd Schaumburg, IL 60173","52,382 mi.","$41,998 $1,000 price drop",Black,Black,Rear-wheel Drive,19–28,Gasoline,9-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,None reported,Yes,No
+2022 Jeep Wrangler Unlimited 4xe Sahara,"250 E Golf Rd Schaumburg, IL 60173","32,927 mi.","$41,998 ",Black,Dark Saddle / Black,Four-wheel Drive,–,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,None reported,Yes,Yes
+2021 BMW 228 Gran Coupe i xDrive,"250 E Golf Rd Schaumburg, IL 60173","35,178 mi.","$26,998 ",White,Black,All-wheel Drive,23–33,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,Yes
+2005 Chevrolet Impala LS,"9700 Indianapolis Blvd Highland, IN 46322","62,675 mi.","$8,900 ",Laser Blue Metallic,Medium Gray,Front-wheel Drive,20–30,Gasoline,Automatic,"3.8L V-6 regular unleaded, engine with 200HP",None reported,Yes,No
+2021 GMC Yukon SLT,"9700 Indianapolis Blvd Highland, IN 46322","34,159 mi.","$55,300 $700 price drop",Satin Steel Metallic,Jet Black,Four-wheel Drive,16–20,Gasoline,Automatic,"EcoTec3 5.3L V-8 gasoline direct injection, variable valve contr",None reported,Yes,No
+2017 Ford Shelby GT350 Base,"9700 Indianapolis Blvd Highland, IN 46322","34,114 mi.","$51,000 ",Grabber Blue,Ebony,Rear-wheel Drive,14–21,Gasoline,Manual,"5.2L V-8 DOHC, Ti-VCT variable valve control, premium unleaded,",At least 1 accident or damage reported,No,No
+2010 Jeep Patriot Sport,"9700 Indianapolis Blvd Highland, IN 46322","85,097 mi.","$8,400 $1,565 price drop",Light Sandstone Metallic Clearcoat,Dark Slate Gray,Front-wheel Drive,23–27,Gasoline,Automatic,"2L I-4 DOHC, variable valve control, regular unleaded, engine wi",None reported,Yes,No
+2023 Kia Carnival SX,"1400 E Dundee Rd Palatine, IL 60074","13,333 mi.","$42,590 ",Astra Blue,Tuscan Umber,Front-wheel Drive,19–26,Gasoline,Automatic,"3.5L V-6 port/direct injection, DOHC, CVVT variable valve contro",None reported,Yes,No
+2021 RAM ProMaster 1500 Low Roof,,,,,,,,,,,,,
+2023 Mercedes-Benz EQE 350 Base 4MATIC,,,,,,,,,,,,,
+2020 Tesla Model S Long Range,"1000 W Golf Road Hoffman Estates, IL 60169","56,761 mi.","$39,999 ",Black,Black,All-wheel Drive,,Electric,,PM4183A,None reported,Yes,No
+2021 Ford Bronco Wildtrak,"1075 W Golf Road Hoffman Estates, IL 60169","12,161 mi.","$51,845 ",Area 51,Medium Sandstone,Four-wheel Drive,18–20,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,None reported,Yes,Yes
+2017 Genesis G80 3.8,"1075 W Golf Road Hoffman Estates, IL 60169","48,839 mi.","$21,066 ",Casablanca White,Black,All-wheel Drive,16–25,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,At least 1 accident or damage reported,Yes,No
+2021 Acura RDX Technology Package,,,,,,,,,,,,,
+2024 Acura MDX w/Advance Package,"1149 West Golf Road Hoffman Estates, IL 60169","6,914 mi.","$61,850 ",Majestic Black Pearl,Ebony,All-wheel Drive,19–25,Gasoline,Automatic,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",None reported,Yes,No
+2020 Ford Fusion SE,"1811 N Rand Rd Palatine, IL 60074","38,003 mi.","$19,495 $300 price drop",Oxford White,Ebony,Front-wheel Drive,23–34,Gasoline,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2016 BMW M4 Base,"1811 N Rand Rd Palatine, IL 60074","50,900 mi.","$39,495 $498 price drop",Mineral Gray Metallic,Sakhir Orange,Rear-wheel Drive,17–26,Gasoline,6-Speed Manual,3.0L I6 24V GDI DOHC Twin Turbo,None reported,No,No
+2014 Scion FR-S Base,"1811 N Rand Rd Palatine, IL 60074","81,205 mi.","$15,295 $200 price drop",Orange,Black,Rear-wheel Drive,25–34,Gasoline,6-Speed Automatic,2.0L H4 16V PDI DOHC,At least 1 accident or damage reported,No,No
+2011 Audi A5 2.0T Premium,"1911 N Rand Rd Palatine, IL 60074","133,323 mi.","$8,933 ",Silver,Black,All-wheel Drive,21–29,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2024 Hyundai Santa Fe Limited,"221 E Lake Cook Rd Palatine, IL 60074",45 mi.,"$47,755 MSRP $47,755",Earthy Brass Matte,Gray,All-wheel Drive,20–28,Gasoline,Automatic,Intercooled Turbo Regular Unleaded I-4 2.5 L/152,,,
+2016 BMW X1 xDrive 28i,"1349 Indianapolis Blvd Schererville, IN 46375","83,797 mi.","$15,136 $100 price drop",Mediterranean Blue Metallic,Black,All-wheel Drive,22–32,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,Yes
+2022 Volvo S60 MOMENTUM,"1349 Indianapolis Blvd Schererville, IN 46375","34,435 mi.","$46,684 $100 price drop",Ice White,Charcoal,All-wheel Drive,19–28,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC,None reported,Yes,Yes
+2021 Volvo XC90 T6 Inscription 6 Passenger,"1349 Indianapolis Blvd Schererville, IN 46375","22,517 mi.","$31,731 $101 price drop",Pine Green,–,Front-wheel Drive,26–35,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2020 GMC Yukon XL Denali,"1349 Indianapolis Blvd Schererville, IN 46375","72,623 mi.","$43,576 $929 price drop",Onyx Black,Cocoa,Four-wheel Drive,14–20,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,None reported,Yes,Yes
+2024 BMW i7 xDrive60,"1400 Indianapolis Blvd Schererville, IN 46375",14 mi.,Not Priced,Mineral White Metallic,Smoke,All-wheel Drive,,Electric,WBY53EJ01RCR64707,24490,,,
+2018 BMW X5 xDrive35i,,,,,,,,,,,,,
+2015 INFINITI Q60 Base,"1550 W Ogden Ave Naperville, IL 60540","42,663 mi.","$33,745 ",Majestic White,Monaco Red,Rear-wheel Drive,18–26,Gasoline,Automatic,"VQ 3.7L V-6 DOHC, variable valve control, premium unleaded, engi",At least 1 accident or damage reported,No,No
+2021 Mazda CX-5 Signature,"1515 W Ogden Ave Naperville, IL 60540","61,844 mi.","$22,992 $1,357 price drop",Deep Crystal Blue Mica,Caturra Brown,All-wheel Drive,22–27,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,No
+2019 Tesla Model X 100D,"1515 W Ogden Ave Naperville, IL 60540","41,907 mi.","$39,999 $4,995 price drop",Red Multi,Black,All-wheel Drive,,Electric,,P9784,None reported,No,No
+2024 Land Rover Defender 110 P400 X-Dynamic SE,"1559 West Ogden Avenue Naperville, IL 60540",8 mi.,"$89,518 MSRP $89,518",Fuji White,Ebony,Four-wheel Drive,18–23.0,Gasoline,Automatic,"3L I-6 gasoline direct injection, DOHC, variable valve control,",,,
+2021 Land Rover Range Rover Velar P250 S,"1559 West Ogden Avenue Naperville, IL 60540","28,004 mi.","$42,994 $1,004 price drop",Hakuba Silver Metallic,Ebony,Four-wheel Drive,20–26.0,Gasoline,Automatic,"Ingenium 2L I-4 gasoline direct injection, DOHC, variable valve",None reported,Yes,No
+2020 Land Rover Range Rover Velar P250 S,"1559 West Ogden Avenue Naperville, IL 60540","38,506 mi.","$37,896 $693 price drop",Santorini Black Metallic,Ebony/Ebony,Four-wheel Drive,21–27.0,Gasoline,Automatic,"Ingenium 2L I-4 gasoline direct injection, DOHC, variable valve",None reported,Yes,No
+2020 Land Rover Range Rover Velar P250 S,"1559 West Ogden Avenue Naperville, IL 60540","38,808 mi.","$39,562 $2,059 price drop",Fuji White,Ebony/Ebony,Four-wheel Drive,21–27.0,Gasoline,Automatic,"Ingenium 2L I-4 gasoline direct injection, DOHC, variable valve",None reported,Yes,No
+2024 Ford F-150 Raptor,"2055 Ogden Ave Naperville, IL 60540",0 mi.,"$82,545 ",Agate Black Metallic,Rb,Four-wheel Drive,15–18,Gasoline,10-Speed Automatic,3.5L V6 EcoBoost,,,
+2024 BMW X3 M AWD,"1035 N Clark St Chicago, IL 60610","5,492 mi.","$78,888 ",Carbon Black Metallic,Sakhir Orange,All-wheel Drive,15–20,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,None reported,Yes,No
+2006 Scion xA,"1561 N Fremont St Chicago, IL 60642","107,362 mi.","$5,500 ",Red,–,Front-wheel Drive,–,Gasoline,–,1.5L I4 16V MPFI DOHC,At least 1 accident or damage reported,No,Yes
+2024 Honda HR-V EX-L,"6720 W Grand Ave Chicago, IL 60707",5 mi.,"$32,005 MSRP $32,005",Platinum White Pearl,Bk,All-wheel Drive,25–30,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, i-VTEC variable valve co",,,
+2023 GMC Terrain SLT,"7400 W. Cermak North Riverside, IL 60546",10 mi.,"$33,905 MSRP $40,325",Ebony Twilight Metallic,Jet Black,All-wheel Drive,24–28,Gasoline,9-Speed Automatic,1.5L I4 16V GDI DOHC Turbo,,,
+2021 GMC Acadia SLE,,,,,,,,,,,,,
+2022 Audi RS 6 Avant 4.0T,,,,,,,,,,,,,
+2022 Audi RS 6 Avant 4.0T quattro,"401 W North Ave Northlake, IL 60164","1,895 mi.","$133,900 ",Sebring Black Crystal Effect,Black / Gray,All-wheel Drive,–,Gasoline,1-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,At least 1 accident or damage reported,Yes,Yes
+2015 Mercedes-Benz S-Class S 550,,"49,265 mi.","$33,963 ",,,,,,,,,,
+2015 Volkswagen Golf SportWagen TDI S 4-Door,"5630 West 120th St Alsip, IL 60803","204,989 mi.","$7,349 ",–,–,Front-wheel Drive,31–40,Diesel,"Auto, 6-Spd DSG Tptrnc SM","2L I-4 diesel direct injection, DOHC, intercooled turbo, diesel,",At least 1 accident or damage reported,No,No
+2016 BMW 435 Gran Coupe 435i xDrive,"530 W Grand Ave Elmhurst, IL 60126","158,872 mi.","$11,499 ",Gray,Black,All-wheel Drive,20–30,Gasoline,Automatic,Engine: 3.0L DOHC 24-Valve 6-Cylinder Turbocharged,None reported,Yes,No
+2024 Mercedes-Benz GLA 250 Base 4MATIC,"8430 West 159th Street Orland Park, IL 60462",53 mi.,"$51,225 MSRP $51,225",White,Black,All-wheel Drive,23–32,Gasoline,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,,,
+2023 BMW X1 xDrive28i,,,,,,,,,,,,,
+2021 BMW 430 i xDrive,"1400 Indianapolis Blvd Schererville, IN 46375","22,709 mi.","$39,980 ",Portimao Blue Metallic,Oyster,All-wheel Drive,24–33,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2023 Volkswagen Atlas 3.6 V6 SEL R-Line Black,"2211 Aurora Ave Naperville, IL 60540","10,837 mi.","$46,477 ",Opal White Pearl Effect,Titan Black,All-wheel Drive,18–23,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,No
+2023 BMW 540 i xDrive,"407 Skokie Hwy Lake Bluff, IL 60044","11,201 mi.","$62,899 $100 price drop",Carbon Black Metallic,Mocha,All-wheel Drive,22–29,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,None reported,Yes,Yes
+2023 BMW X5 M50i,"407 Skokie Hwy Lake Bluff, IL 60044","15,202 mi.","$73,999 ",White Metallic,Coffee,All-wheel Drive,16–22,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,At least 1 accident or damage reported,No,No
+2020 BMW M8 Base,"407 Skokie Hwy Lake Bluff, IL 60044","19,999 mi.","$74,995 ",Black Sapphire Metallic,Sakhir Orange,All-wheel Drive,15–21,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2023 BMW 530e 530e xDrive,"407 Skokie Hwy Lake Bluff, IL 60044","11,492 mi.","$47,999 $3,300 price drop",Gray Metallic,Beige,All-wheel Drive,–,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,None reported,No,No
+2023 BMW 530e 530e xDrive,,"11,654 mi.","$49,299 $3,300 price drop",,,,,,,,,,
+2019 RAM ProMaster 3500 High Roof,"14201 S. Cicero Ave Crestwood, IL 60445","90,180 mi.","$27,495 ",Patriot Blue Pearlcoat,Black,Front-wheel Drive,0–0,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",At least 1 accident or damage reported,No,No
+2012 Volkswagen Jetta SportWagen TDI w/Sunroof,"3128 W 147th St Posen, IL 60469","114,983 mi.","$7,299 $200 price drop",White,Black,Front-wheel Drive,29–39,Diesel,Automatic,2.0L TDI 16-valve I4 diesel engine,At least 1 accident or damage reported,No,No
+2007 Dodge Magnum SRT8,"150 South Church Street Addison, IL 60101","48,100 mi.","$42,754 ",Black,Dk/Lt Slate Gray,Rear-wheel Drive,14–18,Gasoline,Automatic,"HEMI 6.1L V-8 premium unleaded, engine with 425HP",,,
+2016 Ferrari California T,"217 E Ogden Ave Downers Grove, IL 60515","8,025 mi.","$142,166 ",Silver,Rosso,Rear-wheel Drive,16–23,Gasoline,7-Speed Manual,3.9L V8,None reported,No,No
+2016 McLaren 675LT Base,"217 E Ogden Ave Downers Grove, IL 60515","16,500 mi.","$225,800 $14,000 price drop",Onyx Black,Black,Rear-wheel Drive,16–22,Gasoline,7-Speed Manual Dual Clutch,3.8L V8 Twin Turbocharged,None reported,No,No
+2014 Chevrolet Impala Limited LS,"454 East North Avenue Lombard, IL 60148","145,000 mi.","$5,295 $200 price drop",Gray,Black,Front-wheel Drive,18–30,E85 Flex Fuel,6-Speed Automatic,3.6L V6 24V GDI DOHC Flexible Fuel,At least 1 accident or damage reported,No,No
+2004 Lexus RX 330 Base (A5),"454 East North Avenue Lombard, IL 60148","153,648 mi.","$7,495 ",Pearl White,Beige,All-wheel Drive,18–24,Gasoline,5-Speed Automatic,3.3L V6 24V MPFI DOHC,None reported,No,No
+2011 Mazda MX-5 Miata Sport,"1030 Republic Dr Addison, IL 60101","25,485 mi.","$17,250 ",True Red,Black,Rear-wheel Drive,21–28,Gasoline,Automatic,"2L I-4 DOHC, variable valve control, premium unleaded, engine wi",None reported,Yes,No
+2006 Mercedes-Benz CLS-Class CLS500,"5904 W 159th St Oak Forest, IL 60452","56,796 mi.","$13,980 $1,000 price drop",Granite Gray Metallic,Ash,Rear-wheel Drive,16–22,Gasoline,Automatic,"5L V-8 premium unleaded, engine with 302HP",None reported,No,No
+2004 Volvo V70,"367 S Rohlwing Rd Addison, IL 60101","93,800 mi.","$7,500 ",Silver Metallic,Black/Navy,Front-wheel Drive,20–28,Gasoline,Automatic,2.5L DOHC all-alloy turbocharged I5 engine w/intercooler,None reported,Yes,No
+2004 Acura RSX Base (M5),"367 S Rohlwing Rd Addison, IL 60101","113,575 mi.","$11,975 ",Desert Silver,Ebony,Front-wheel Drive,27–33,Gasoline,Manual,2.0L DOHC PGM-FI 16 valve i-VTEC 4-cyl engine,None reported,Yes,No
+2017 Mercedes-Benz CLS 550 Base 4MATIC,"1723 Ogden Ave Downers Grove, IL 60515","48,623 mi.","$32,982 ",Selenite Grey Metallic,Black,All-wheel Drive,17–0,Gasoline,Automatic,"4.7L V-8 gasoline direct injection, DOHC, variable valve control",At least 1 accident or damage reported,Yes,No
+2019 Nissan 370Z Base,"1723 Ogden Ave Downers Grove, IL 60515","20,183 mi.","$29,987 ",Magnetic Black Metallic,Charcoal,Rear-wheel Drive,19–0,Gasoline,Automatic,"VQ 3.7L V-6 DOHC, variable valve control, premium unleaded, engi",None reported,Yes,Yes
+2019 Audi RS 3 2.5T,"2150 Ogden Ave Downers Grove, IL 60515","19,900 mi.","$52,888 ",Daytona Gray Pearl Effect,Black / Gray,All-wheel Drive,19–28,Gasoline,7-Speed Automatic with Auto-Shift,2.5L I5 20V PDI DOHC Turbo,None reported,Yes,No
+2022 BMW M850 Gran Coupe i xDrive,"8760 W 159th St Orland Park, IL 60462","10,247 mi.","$69,990 ",Mineral White Metallic,Night Blue,All-wheel Drive,17–24,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2007 Honda S2000 Base,,"64,231 mi.","$28,995 ",Gray,Black,Rear-wheel Drive,20–24,Gasoline,Manual,"2.2L I-4 DOHC, VTEC variable valve control, premium unleaded, en",,,
+2021 BMW X5 PHEV xDrive45e,"11030 W 159th St Orland Park, IL 60467","51,236 mi.","$43,750 $100 price drop",Black Sapphire Metallic,Black,All-wheel Drive,–,Hybrid,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo Hybrid,None reported,Yes,No
+2021 Audi RS 6 Avant 4.0T,"2772 Skokie Valley Road Highland Park, IL 60035","21,309 mi.","$97,989 $990 price drop",Glacier White Metallic,Black/Red,All-wheel Drive,15–22,Gasoline,8-Speed Automatic with Tiptronic,"4L V-8 gasoline direct injection, DOHC, variable valve control,",None reported,No,No
+2016 Nissan 370Z NISMO Tech,"2895 Ogden Ave Lisle, IL 60532","4,731 mi.","$44,800 ",Solid Red,Gray,Rear-wheel Drive,18–26,Gasoline,6-Speed Manual,3.7L V6 24V MPFI DOHC,None reported,No,No
+2019 BMW M6 Gran Coupe Gran Coupe,"641 Estes Ave Schaumburg, IL 60193","31,010 mi.","$52,895 ",San Marino Blue Metallic,Black,Rear-wheel Drive,14–20,Gasoline,7-Speed Automatic with Auto-Shift,4.4L V8 32V GDI DOHC Twin Turbo,None reported,No,No
+2023 Lexus LC 500 Base,"4330 W Irving Park Rd Chicago, IL 60641","1,250 mi.","$95,000 ",Caviar,Black,Rear-wheel Drive,15–25,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,None reported,Yes,No
+2023 Ferrari Roma Base,"420 E. Ogden Ave. Hinsdale, IL 60521",251 mi.,"$269,999 ",Rosso Corsa,Nero,Rear-wheel Drive,17–22,Gasoline,8-Speed Automatic with Auto-Shift,3.9L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2024 Ford Bronco Badlands,,,,,,,,,,,,,
+2018 BMW 440 i,,,,,,,,,,,,,
+2020 Ford Shelby GT350 Base,"22W231 North Ave Glen Ellyn, IL 60137",876 mi.,"$103,995 ",Grabber Lime,Ebony,Rear-wheel Drive,14–21,Gasoline,6-Speed Manual,5.2L V8 32V MPFI DOHC,None reported,Yes,No
+2019 Ford Shelby GT350 Base,"1902 Ogden Avenue Lisle, IL 60532","1,832 mi.","$89,800 ",Red,Ebony w/Red Accents,Rear-wheel Drive,14–21,Gasoline,Manual,"5.2L V-8 DOHC, Ti-VCT variable valve control, premium unleaded,",None reported,Yes,Yes
+2005 Scion xA Base,"Juliana from Schaumburg, IL 60193","69,554 mi.","$5,000 ",Silver,Black,Front-wheel Drive,Gasoline,5-Speed M/T,108.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,JTKKT624550102915,None reported,Yes,No
+2013 Toyota Prius Two,"9604 Indianapolis Blvd Highland, IN 46322","109,016 mi.","$13,200 $198 price drop",Classic Silver Metallic,Misty Gray,Front-wheel Drive,51–48,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,At least 1 accident or damage reported,Yes,No
+2024 Ford Bronco Raptor,"9809 Indianapolis Blvd Highland, IN 46322",10 mi.,"$103,450 ",Shadow Black,Black,Four-wheel Drive,15–16,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,,,
+2013 Volkswagen Jetta SportWagen SE,"1155 W Dundee Rd Arlington Heights, IL 60004","122,175 mi.","$6,995 $232 price drop",–,–,Front-wheel Drive,24–31,Gasoline,Automatic,"2.5L I-5 DOHC, variable valve control, regular unleaded, engine",At least 1 accident or damage reported,No,No
+2007 Dodge Magnum SRT8,"27w110 North Ave West Chicago, IL 60185","36,253 mi.","$44,800 ",Bright Silver Metallic Clearcoat,Dark Slate Grey/Light Slate Grey,Rear-wheel Drive,13–18,Gasoline,5-Speed Shiftable Automatic,6.1L V8 425hp 420ft. lbs.,None reported,No,No
+2021 Mercedes-Benz Maybach GLS 600 4MATIC,"1000 W Golf Road Hoffman Estates, IL 60169",863 mi.,"$146,999 ",Iridium Silver Metallic,Black,All-wheel Drive,15–19,Gasoline,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2021 Toyota Highlander Hybrid XLE,"1951 N. Rand Road Palatine, IL 60074","46,251 mi.","$36,627 $297 price drop",Black,–,All-wheel Drive,35–35,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,None reported,Yes,Yes
+2004 Nissan 350Z,"1823 Centrepoint Circle Naperville, IL 60563","19,919 mi.","$22,500 $300 price drop",Red,Black,Rear-wheel Drive,20–26,Gasoline,6-Speed Manual,3.5L V6 24V MPFI DOHC,None reported,No,No
+2009 Cadillac DTS 1SD,"503 South Weber Road Bolingbrook, IL 60490","105,808 mi.","$7,995 ",Black Raven,Beige,Front-wheel Drive,15–23,Gasoline,Automatic,"Northstar 4.6L V-8 DOHC, regular unleaded, engine with 275HP",At least 1 accident or damage reported,Yes,Yes
+2019 Cadillac CT6 Sport,"1507 W. Ogden Ave. Naperville, IL 60540","35,569 mi.","$43,995 $1,000 price drop",Manhattan Noir Metallic,Black,All-wheel Drive,18–26,Gasoline,Automatic,"3L V-6 gasoline direct injection, DOHC, VVT variable valve contr",At least 1 accident or damage reported,No,No
+2021 Audi RS 6 Avant 4.0T quattro,"1527 Aurora Ave Naperville, IL 60540","30,107 mi.","$99,991 ",Daytona Gray Pearl Effect,Black / Gray,All-wheel Drive,15–22,Gasoline,8-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2020 Lincoln Nautilus Standard,"2055 Ogden Ave Naperville, IL 60540","19,445 mi.","$29,999 ",Red Carpet,Cappuccino,Front-wheel Drive,21–26,Gasoline,8-Speed Automatic,2.0L Turbocharged,None reported,Yes,Yes
+2018 Ford Shelby GT350 Base,"990 N Shore Dr Lake Bluff, IL 60044","1,001 mi.","$84,900 ",Gray,Ebony,Rear-wheel Drive,14–21,Gasoline,6-Speed Manual,5.2L V8 32V MPFI DOHC,None reported,Yes,No
+2006 Cadillac DTS Luxury,"1210 25th Ave Melrose Park, IL 60160","70,203 mi.","$6,995 ",Gray,Gray,Front-wheel Drive,23–23,Gasoline,Automatic 4-Speed,4.6L V8,None reported,No,No
+2008 Cadillac Escalade EXT Base,"5125 Church St Skokie, IL 60077","95,139 mi.","$20,988 ",Black Raven,Ebony,All-wheel Drive,12–18,Gasoline,6-Speed Automatic,6.2L V8 16V MPFI OHV,At least 1 accident or damage reported,Yes,No
+2024 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",10 mi.,"$86,965 ",Gray Metallic,Gray,AWD,1-Speed Automatic,Electric,W1KEG1CB3RF055398,RF055398,,,
+2011 Cadillac DTS Luxury Collection,"3128 W 147th St Posen, IL 60469","169,679 mi.","$6,799 $200 price drop",Brown,Silver,Front-wheel Drive,15–23,Gasoline,Automatic,"Engine, Northstar 4.6L DOHC V8 (275 HP [205 kW] @ 6000 rpm, 295",At least 1 accident or damage reported,No,No
+2006 Cadillac DTS Luxury III,"3128 W 147th St Posen, IL 60469","69,565 mi.","$8,499 $300 price drop",Tan,Beige,Front-wheel Drive,17–25,Gasoline,Automatic,"Engine, 4.6L DOHC V8 Northstar (275 HP [205.1 kW] @ 5200 rpm, 29",At least 1 accident or damage reported,No,No
+2011 Cadillac DTS Base,"1030 Republic Dr Addison, IL 60101","53,908 mi.","$14,950 ",White Diamond Tricoat,Shale w/Cocoa Accents,Front-wheel Drive,15–23,Gasoline,Automatic,"Northstar 4.6L V-8 DOHC, regular unleaded, engine with 275HP",At least 1 accident or damage reported,No,No
+2019 Nissan Pathfinder S,,"34,515 mi.","$19,997 $1,403 price drop",,,,,,,,,,
+2023 Hyundai Santa Fe SEL 2.4,"1866 Ogden Avenue Downers Grove, IL 60515","7,728 mi.","$33,060 MSRP $36,165",Portofino Gray,Gray,All-wheel Drive,22–25,Gasoline,8-Speed Automatic with SHIFTRONIC,"Smartstream 2.5L I-4 port/direct injection, DOHC, CVVT variable",,,
+2010 Cadillac DTS V8,"1543 Ogden Ave Downers Grove, IL 60515","102,646 mi.","$9,888 ",White,Black,Front-wheel Drive,–,Gasoline,4-Speed Automatic,4.6L V8 32V MPFI DOHC,None reported,No,No
+2009 Cadillac DTS Luxury,"6100 W. 159th Street Oak Forest, IL 60448","19,486 mi.","$19,900 ",Black,Black,Front-wheel Drive,15–23,Gasoline,4-Speed Automatic,4.6L V8 32V MPFI DOHC,None reported,Yes,Yes
+2018 BMW M2 Base,"2401 Warrenville Rd Downers Grove, IL 60515","57,619 mi.","$38,699 ",Alpine White,Black,Rear-wheel Drive,18–26,Gasoline,7-Speed Automatic with Auto-Shift,3.0L I6 24V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2011 Cadillac DTS Base,"2101 Ogden Ave Downers Grove, IL 60515","35,368 mi.","$14,000 $1,000 price drop",Black Raven,Ebony,Front-wheel Drive,15–23,Gasoline,Automatic,"Northstar 4.6L V-8 DOHC, regular unleaded, engine with 275HP",At least 1 accident or damage reported,Yes,No
+2024 Ford Bronco Sport Big Bend,"8100 West 159th Street Orland Park, IL 60462",10 mi.,"$33,085 MSRP $33,085",Eruption Green Metallic,Medium Dark Slate,Four-wheel Drive,25–28,Gasoline,8-Speed Automatic,1.5L I3 12V PDI DOHC Turbo,,,
+2008 Cadillac DTS W/1SC,,"41,984 mi.","$13,995 ",,,,,,,,,,
+2024 Audi Q8 e-tron Sportback S line Premium Plus,,,,,,,,,,,,,
+2022 Jeep Grand Wagoneer Series III 4x4,,,,,,,,,,,,,
+2009 Cadillac DTS 1SB,"1600 Hicks Rd Rolling Meadows, IL 60008","50,123 mi.","$9,900 ",Beige,TAN,Front-wheel Drive,15–23,Gasoline,"Automatic, 4-Spd w/Overdrive","V8, 4.6 Liter",At least 1 accident or damage reported,Yes,No
+2017 Toyota RAV4 Limited,"1911 N Rand Rd Palatine, IL 60074","128,807 mi.","$15,933 $990 price drop",White,Black,All-wheel Drive,22–29,Gasoline,6-Speed Automatic,2.5L I4 16V MPFI DOHC,At least 1 accident or damage reported,No,No
+2017 Volkswagen Golf SportWagen TSI S,"3325 W Montrose Ave Chicago, IL 60618","92,346 mi.","$12,788 $570 price drop",Dark Blue,Gray,All-wheel Drive,22–30,Gasoline,Automatic,"1.8L I-4 gasoline direct injection, DOHC, variable valve control",At least 1 accident or damage reported,Yes,Yes
+2024 Jeep Wagoneer L Series II,"5950 North Western Avenue Chicago, IL 60659",21 mi.,"$74,061 MSRP $79,635",Diamond Black,Black,Four-wheel Drive,16–23,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Twin Turbo,,,
+2024 Honda HR-V AWD Sport,"6720 W Grand Ave Chicago, IL 60707",5 mi.,"$30,005 MSRP $30,005",Urban Gray Pearl,Black,All-wheel Drive,25–30,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, i-VTEC variable valve co",,,
+2024 Jaguar XF R-Dynamic SE,,,,,,,,,,,,,
+2005 Chrysler Crossfire Base,"5630 West 120th St Alsip, IL 60803","159,898 mi.","$6,895 ",BLUE LIGHT,Gray,Rear-wheel Drive,21–25,Gasoline,Automatic,"3.2L V-6 premium unleaded, engine with 215HP",None reported,No,No
+2024 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",411 mi.,"$85,235 ",Polar White,Black,All-wheel Drive,1-Speed Automatic,Electric,W1KEG1CB7RF049412,RF049412,,,
+2015 Toyota Highlander Hybrid Limited,"14030 S Cicero Ave Crestwood, IL 60445","156,166 mi.","$15,960 $539 price drop",Blue,Ash,All-wheel Drive,27–28,Hybrid,Automatic,"3.5L V-6 DOHC, VVT-i variable valve control, regular unleaded, e",At least 1 accident or damage reported,No,No
+2024 Ford Mustang Mach-E Premium,"7301 Kingery Hwy Willowbrook, IL 60527",4 mi.,"$59,890 MSRP $59,890",Shadow Black,Black,All-wheel Drive,1-Speed Automatic,Electric,3FMTK3SU2RMA02413,RT02413,,,
+2005 Chrysler Crossfire Base,"870 S Fiene Dr. Addison, IL 60101","53,308 mi.","$9,485 ",Black,Black,Rear-wheel Drive,17–25,Gasoline,6-Speed Manual,3.2L V6 18V MPFI SOHC,None reported,No,No
+2005 Chrysler Crossfire Base,"1030 Republic Dr Addison, IL 60101","28,406 mi.","$17,550 ",Sapphire Silver Blue Metallic Clearcoat,Dark Slate Gray,Rear-wheel Drive,21–23,Gasoline,Automatic,"3.2L V-6 premium unleaded, engine with 215HP",None reported,No,No
+2014 Porsche Cayman S,"2150 Ogden Ave Downers Grove, IL 60515","23,892 mi.","$52,888 ",Black,Black,Rear-wheel Drive,20–28,Gasoline,7-Speed Automatic with Auto-Shift,3.4L H6 24V GDI DOHC,At least 1 accident or damage reported,No,No
+2017 Mercedes-Benz G 550 4x4 Squared Base,"1902 Ogden Avenue Lisle, IL 60532","49,500 mi.","$159,800 ",Black,designo Black w/Contrast Stitching,All-wheel Drive,11–11,Gasoline,Automatic,"4L V-8 gasoline direct injection, DOHC, variable valve control,",None reported,Yes,No
+2020 Ford Explorer XLT,"18800 South Oak Park Ave Tinley Park, IL 60477","30,003 mi.","$28,998 ",Black,Black,Four-wheel Drive,20–27,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2021 GMC Acadia SLT,"18800 South Oak Park Ave Tinley Park, IL 60477","23,781 mi.","$33,998 ",Purple,Dark Galvanized,All-wheel Drive,22–27,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2016 Ford Edge Titanium,"9700 Indianapolis Blvd Highland, IN 46322","70,999 mi.","$17,900 $500 price drop",Ingot Silver Metallic,Ebony,All-wheel Drive,20–28,Gasoline,Automatic,"EcoBoost 2L I-4 gasoline direct injection, DOHC, variable valve",None reported,No,No
+2016 Chevrolet Impala Limited Police,,"38,790 mi.","$12,599 $351 price drop",,,,,,,,,,
+2005 Chrysler Crossfire Limited,"2232 N Rand Rd Palatine, IL 60074","55,285 mi.","$11,500 $200 price drop",Blue,Gray,Rear-wheel Drive,17–25,Gasoline,5-Speed Automatic,3.2L V6 18V MPFI SOHC,None reported,No,No
+2024 Subaru WRX Premium,"2379 Aurora Avenue Naperville, IL 60540",7 mi.,"Not Priced MSRP $37,504",Sapphire Blue,–,All-wheel Drive,19–25,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,,,
+2022 Jaguar F-PACE S P250 AWD Automatic,,,,,,,,,,,,,
+2024 Cadillac XT6 Premium Luxury AWD,,,,,,,,,,,,,
+2024 RAM 2500 Laramie,"5950 North Western Avenue Chicago, IL 60659",28 mi.,"$63,735 MSRP $78,685 $2,494 price drop",Diamond Black,Black,Four-wheel Drive,–,Gasoline,8-Speed Automatic,6.4L V8 16V MPFI OHV,,,
+2016 Mercedes-Benz AMG GLA AMG GLA 45 4MATIC,"5125 Church St Skokie, IL 60077","61,399 mi.","$28,288 ",Midnight Black,Black,All-wheel Drive,22–29,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2024 Audi A5 Sportback S line Premium Plus,"7000 Golf Rd Morton Grove, IL 60053",13 mi.,"$56,455 ",–,–,All-wheel Drive,24–32,Hybrid,Automatic,Intercooled Turbo Gas/Electric I-4 2.0 L/121,,,
+2024 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",10 mi.,"$86,965 ",Gray Metallic,Gray,AWD,1-Speed Automatic,Electric,W1KEG1CBXRF055527,RF055527,,,
+2024 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",10 mi.,"$83,155 ",Graphite Gray Metallic,Black,AWD,1-Speed Automatic,Electric,W1KEG1CB7RF054710,RF054710,,,
+2005 Chrysler Crossfire Base,"1030 Republic Dr Addison, IL 60101","40,454 mi.","$16,750 ",Black Clearcoat,Dark Slate Gray,Rear-wheel Drive,21–23,Gasoline,Manual,"3.2L V-6 premium unleaded, engine with 215HP",None reported,No,No
+2009 Ford Shelby GT500 Base,"2150 Ogden Ave Downers Grove, IL 60515","29,911 mi.","$34,888 ",Torch Red Clearcoat,Charcoal Black,Rear-wheel Drive,14–20,Gasoline,6-Speed Manual,5.4L V8 32V MPFI DOHC Supercharged,None reported,No,No
+2024 Tesla Model Y Performance Dual Motor All-Wheel Drive,,4 mi.,"$51,350 ",Stealth Grey,Black and White Premium Interior,All-wheel Drive,Automatic,Electric,,,,,
+2023 Buick Enclave Essence,"100 W Golf Rd Schaumburg, IL 60195",5 mi.,"$41,500 ",Cherry Red Tintcoat,Whisper Beige,Front-wheel Drive,18–26,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,,,
+2024 Ford Maverick Lariat,"9809 Indianapolis Blvd Highland, IN 46322",10 mi.,"$39,920 ",Hot Pepper Red Metallic Tinted Clearcoat,Desert,All-wheel Drive,22–28,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Chevrolet Silverado 1500 WT,"9700 Indianapolis Blvd Highland, IN 46322",3 mi.,"$50,475 ",Black,Jet Black,Four-wheel Drive,15–20,Gasoline,Automatic,"EcoTec3 5.3L V-8 gasoline direct injection, variable valve contr",,,
+2016 McLaren 675LT Base,"27w110 North Ave West Chicago, IL 60185",852 mi.,"$349,800 ",Storm Grey,Carbon Black with McLaren Orange,Rear-wheel Drive,16–22,Gasoline,7-Speed Double Clutch,3.8L Twin Turbo V8 666hp 516ft. lbs.,None reported,No,No
+2024 Dodge Durango R/T,"4550 W. Lincoln Highway Route 30 Matteson, IL 60443",10 mi.,"$65,055 MSRP $65,055",DB Black Crystal Clearcoat,Black,All-wheel Drive,14–22,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,,,
+2008 Chrysler Crossfire Base,"19915 South La Grange Road Frankfort, IL 60423","39,690 mi.","$13,950 ",Black Clearcoat/Black Cloth Top,Dk Slate Gray/Cedar,Rear-wheel Drive,19–25,Gasoline,5-Speed Automatic,3.2L V6 SOHC 18V,None reported,No,No
+2024 Mercedes-Benz GLA 250 Base 4MATIC,"1000 W Golf Road Hoffman Estates, IL 60169",11 mi.,"$48,575 MSRP $48,575",Polar White,Beige,All-wheel Drive,23–32,Gasoline,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Acura MDX Technology Package,"1149 West Golf Road Hoffman Estates, IL 60169",11 mi.,"$59,000 MSRP $59,000",Liquid Carbon Metallic,Ebony,All-wheel Drive,19–25,Gasoline,Automatic,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",,,
+2024 Subaru Outback Limited,"1911 N Rand Rd Palatine, IL 60074","2,352 mi.","$39,757 ",Crystal Black Silica,Black,All-wheel Drive,26–32,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,,,
+2024 BMW X5 PHEV xDrive50e,"407 Skokie Hwy Lake Bluff, IL 60044","3,049 mi.","$84,999 ",Blue,Coffee,All-wheel Drive,–,Hybrid,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo Hybrid,None reported,Yes,Yes
+2024 Toyota Highlander XLE,,2 mi.,"$46,517 MSRP $46,517",,,,,,,,,,
+2012 Nissan NV Cargo S,,,,,,,,,,,,,
+2006 Chrysler Crossfire Limited,,,,,,,,,,,,,
+2024 Honda CR-V Hybrid Sport Touring,,,,,,,,,,,,,
+2020 Lexus RX 350 Base,"430 E. Ogden Ave. Westmont, IL 60559","34,996 mi.","$36,991 $2,374 price drop",Atomic Silver,Parchment,All-wheel Drive,19–26,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,None reported,No,No
+2006 Cadillac DTS w/1SC,"3128 W 147th St Posen, IL 60469","88,907 mi.","$5,799 $200 price drop",Blue,Black,Front-wheel Drive,17–25,Gasoline,Automatic,"Engine, 4.6L DOHC V8 Northstar (275 HP [205.1 kW] @ 5200 rpm, 29",None reported,No,No
+2007 Ford Shelby GT500 Base,"555 S IL Route 83 Elmhurst, IL 60126","40,794 mi.","$31,495 ",Gray,Black,Rear-wheel Drive,15–21,Gasoline,6-Speed Manual,5.4L V8 32V MPFI DOHC Supercharged,None reported,No,No
+2014 Lexus CT 200h Base,"404 E North Ave Lombard, IL 60148","99,068 mi.","$14,990 $900 price drop",Obsidian Black,Black,Front-wheel Drive,43–40,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,At least 1 accident or damage reported,No,No
+2018 Cadillac CT6 3.0L Twin Turbo Platinum,"100 Skokie Blvd Northbrook, IL 60062","37,457 mi.","$40,989 ",Radiant Silver Metallic,Jet Black,All-wheel Drive,18–26,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,None reported,Yes,No
+2016 Lexus CT 200h Base,"1543 Ogden Ave Downers Grove, IL 60515","173,645 mi.","$11,888 $2,000 price drop",White,Black,Front-wheel Drive,43–40,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,None reported,No,No
+2008 Ford E250 Base,"17651 Oak Park Ave Tinley Park, IL 60477","208,237 mi.","$4,999 ",Dark Blue Pearl,Medium Flint,Rear-wheel Drive,0–0,Gasoline,Automatic,Triton 4.6L V-8 engine with 225HP,At least 1 accident or damage reported,Yes,No
+2020 Mercedes-Benz CLA 250 Base 4MATIC,"250 E Golf Rd Schaumburg, IL 60173","19,168 mi.","$31,998 $1,000 price drop",Gray,Black,All-wheel Drive,23–33,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2022 BMW X7 M50i Sport Utility 4D,,,,,,,,,,,,,
+2024 Toyota bZ4X,"5540 Auto Court Matteson, IL 60443",4 mi.,"$52,724 ",Metal,Gray,All-wheel Drive,Automatic,Electric,JTMABACA8RA056087,704548,,,
+2024 Mercedes-Benz GLC 300 Base 4MATIC,"1000 W Golf Road Hoffman Estates, IL 60169",40 mi.,"$53,615 MSRP $53,615",Black,Beige,All-wheel Drive,–,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Mercedes-Benz GLE 450 4MATIC,,,,,,,,,,,,,
+2024 Mercedes-Benz GLE 450 4MATIC,"1569 W. Ogden Ave. Naperville, IL 60540",9 mi.,"$78,345 ",Polar White,Macchiato,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,,,
+2024 Subaru Crosstrek Premium,"2379 Aurora Avenue Naperville, IL 60540",7 mi.,"Not Priced MSRP $30,794",Crystal White Pearl,Black,All-wheel Drive,27–34,Gasoline,Automatic CVT,2.0L H4 16V GDI DOHC,,,
+2024 Land Rover Defender 110 P400 X-Dynamic SE,"1559 West Ogden Avenue Naperville, IL 60540",7 mi.,"$89,518 MSRP $89,518",Silicon Silver Premium Metallic,Light Oyster,Four-wheel Drive,18–23.0,Gasoline,Automatic,"3L I-6 gasoline direct injection, DOHC, variable valve control,",,,
+2013 Toyota RAV4 LE,"2363 Aurora Ave Naperville, IL 60540","160,103 mi.","$10,477 $510 price drop",Shoreline Blue Pearl,Ash,Front-wheel Drive,24–31,Gasoline,6-Speed Automatic,2.5L I4 16V MPFI DOHC,None reported,Yes,Yes
+2024 Toyota Corolla Hybrid LE,"6941 S. Western Ave Chicago, IL 60636",2 mi.,"$26,543 MSRP $27,043",CELESTITE,Black,Front-wheel Drive,53–46,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,,,
+2024 Honda Pilot EX-L,"5901 South La Grange Road Countryside, IL 60525",11 mi.,"$45,895 ",Crystal Black Pearl,Black,All-wheel Drive,19–25,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,,,
+2024 Audi A5 Sportback Premium Plus,"7000 Golf Rd Morton Grove, IL 60053",13 mi.,"$53,495 ",–,–,All-wheel Drive,26–35,Hybrid,Automatic,Intercooled Turbo Gas/Electric I-4 2.0 L/121,,,
+2024 Audi A4 45 S line Premium Plus,"7000 Golf Rd Morton Grove, IL 60053",13 mi.,"$53,485 ",–,–,All-wheel Drive,24–32,Hybrid,Automatic,Intercooled Turbo Gas/Electric I-4 2.0 L/121,,,
+2012 MINI Cooper Countryman S,"530 W Grand Ave Elmhurst, IL 60126","140,893 mi.","$6,999 ",Red,Black,Front-wheel Drive,26–32,Gasoline,Manual,1.6L OHC 16-valve I4 VVT twin-scroll turbocharged engine,At least 1 accident or damage reported,No,No
+2014 Ford Escape SE,"2038 Waukegan Rd Glenview, IL 60025","98,429 mi.","$9,595 $400 price drop",Ingot Silver Metallic,Medium Light Stone,Four-wheel Drive,22–30,Gasoline,6-Speed Automatic,1.6L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2016 Lexus CT 200h Base,"3160 Commercial Ave Northbrook, IL 60062","82,400 mi.","$18,995 ",White,Brown,Front-wheel Drive,43–40,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,At least 1 accident or damage reported,No,No
+2016 Lexus CT 200h F Sport,"454 East North Avenue Lombard, IL 60148","113,288 mi.","$14,995 ",Gray,Black,Front-wheel Drive,43–40,Hybrid,Automatic CVT,1.8L I4 16V MPFI DOHC Hybrid,At least 1 accident or damage reported,No,No
+2018 Subaru WRX STI Base,"2401 Warrenville Rd Downers Grove, IL 60515","62,804 mi.","$30,055 ",Pure Red,Black,All-wheel Drive,16–22,Gasoline,6-Speed Manual,2.5L H4 16V MPFI DOHC Turbo,None reported,Yes,No
+2024 Audi S5 Premium Plus,"2490 Skokie Valley Rd Highland Park, IL 60035",10 mi.,"$67,490 MSRP $67,490",Daytona Gray,Black,All-wheel Drive,20–29,Gasoline,Automatic,Intercooled Turbo Premium Unleaded V-6 3.0 L/183,,,
+2018 Volvo V60 T5 Dynamic,"4325 Lincoln Ave Lisle, IL 60532","46,701 mi.","$23,987 ",Onyx Black Metallic,Off Black,All-wheel Drive,22–33,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2024 Honda Accord Hybrid Touring,"9800 Indianapolis Blvd Highland, IN 46322",5 mi.,"$39,985 MSRP $39,985",Meteorite Gray Metallic,Black,Front-wheel Drive,46–41,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,,,
+2020 Karma Revero GT,"27w110 North Ave West Chicago, IL 60185","17,896 mi.","$66,800 $1,000 price drop",Bodega Bay Blue,Palisades,Rear-wheel Drive,71–69,Electric with Ga,1-Speed Direct-Drive Automatic,Range-Extended Electric 536hp 550ft. lbs.,None reported,No,No
+2024 Mercedes-Benz AMG G 63 4MATIC,"1000 W Golf Road Hoffman Estates, IL 60169",3 mi.,"$213,045 MSRP $213,045",Gray,Red,All-wheel Drive,–,Gasoline,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,,,
+2016 Mercedes-Benz GLE-Class GLE 350 4MATIC,"615 E Lake St Streamwood, IL 60107","89,031 mi.","$18,995 ",BLACK,BLACK,All-wheel Drive,17–22,Gasoline,7-Speed Automatic,3.5L V6 CYLINDER,None reported,No,No
+2023 Ford Escape ST-Line,"1540 West Ogden Avenue Naperville, IL 60540","12,489 mi.","$25,977 ",Carbonized Gray Metallic,Ebony,All-wheel Drive,26–32,Gasoline,Automatic,"EcoBoost 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",None reported,Yes,No
+2021 BMW X3 xDrive30i,"1250 W Division St Chicago, IL 60642","36,013 mi.","$33,367 ",Alpine White,Oyster,All-wheel Drive,23–29,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,No,No
+2022 Mercedes-Benz AMG CLA 45 Base 4MATIC,"1520 W North Ave Chicago, IL 60642","15,044 mi.","$53,893 $101 price drop",Digital White,Grey,All-wheel Drive,–,Gasoline,Automatic,2.0L I4 16V PDI DOHC Turbo,None reported,No,No
+2002 Acura CL 3.2 Type S,"JC from Chicago, IL 60612","73,000 mi.","$9,500 ",Red,Beige,Front-wheel Drive,Gasoline,Transmission w/Dual Shift Mode,260.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,19UYA42752A003976,None reported,Yes,No
+2024 Honda Accord Hybrid Sport-L,"5901 South La Grange Road Countryside, IL 60525",5 mi.,"$35,970 ",Crystal Black Pearl,Black,Front-wheel Drive,46–41,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,,,
+2024 Honda Accord Hybrid Sport,"5901 South La Grange Road Countryside, IL 60525",5 mi.,"$33,990 ",Solar Silver Metallic,Black,Front-wheel Drive,46–41,Hybrid,Automatic CVT,2.0L I4 16V GDI DOHC Hybrid,,,
+2024 Land Rover Defender P400 X,"336 E Ogden Ave Hinsdale, IL 60521",12 mi.,"$103,828 ",Carpathian Grey,Vintage Tan,Four-wheel Drive,18–23,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,,,
+2024 Hyundai Elantra Limited,"1509 S River Rd Des Plaines, IL 60018",11 mi.,"$27,189 ",Intense Blue,Black,Front-wheel Drive,31–40,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,,,
+2024 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",8 mi.,"$87,525 ",Gray Metallic,Brown / Black,All-wheel Drive,1-Speed Automatic,Electric,W1KEG1CBXRF051137,RF051137,,,
+2014 Chevrolet Impala Limited LTZ,"3128 W 147th St Posen, IL 60469","124,273 mi.","$8,999 ",White,Black,Front-wheel Drive,18–30,E85 Flex Fuel,Automatic,"Engine, 3.6L SIDI DOHC V6 VVT (300 hp [223.7 kW] @ 6500 rpm, 262",At least 1 accident or damage reported,No,No
+2012 MINI Cooper Countryman S,"1864 Techny Court Northbrook, IL 60062","67,029 mi.","$11,990 ",Oxford Green Metallic,Polar Beige,All-wheel Drive,25–31,Gasoline,Automatic,1.6L OHC 16-valve I4 VVT twin-scroll turbocharged engine,None reported,Yes,No
+2014 Volkswagen Jetta SportWagen DSG TDI,"1886 S Elmhurst Rd Mt Prospect, IL 60056","97,038 mi.","$11,480 ",Reflex Silver Metallic,Titan Black,Front-wheel Drive,29–39,Diesel,Automatic,"2L I-4 diesel direct injection, DOHC, intercooled turbo, diesel,",At least 1 accident or damage reported,Yes,No
+2020 BMW 745e xDrive iPerformance,"150 W Ogden Ave Westmont, IL 60559","41,567 mi.","$43,800 ",Black Sapphire Metallic,Black,All-wheel Drive,–,Hybrid,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo Hybrid,None reported,Yes,No
+2013 Volkswagen Jetta SportWagen TDI,"525 W Fullerton Ave Addison, IL 60101","152,360 mi.","$8,950 ",Candy White,Other,Front-wheel Drive,29–39,Diesel,6-Speed Automatic,"2L I-4 diesel direct injection, DOHC, intercooled turbo, diesel,",At least 1 accident or damage reported,No,No
+2017 Cadillac ATS 2.0L Turbo Luxury,"1030 Republic Dr Addison, IL 60101","40,182 mi.","$24,550 ",Black Raven,Jet Black w/Jet Black Accents,All-wheel Drive,22–30,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, variable valve control,",None reported,No,No
+2024 Land Rover Defender 110 X-Dynamic SE,"8031 W 159th St Tinley Park, IL 60477",918 mi.,"$87,540 ",Pangea Green,Ebony,Four-wheel Drive,18–23,Gasoline,Automatic,V6,,,
+2013 Volkswagen Jetta SportWagen TDI,,"115,770 mi.","$9,995 ",,,,,,,,,,
+2024 Mazda CX-50 2.5 S Select Package,"110 W. Golf Rd Schaumburg, IL 60195",7 mi.,"$32,095 MSRP $33,005 $910 price drop",Machine Gray Metallic,Black W/ Gray,All-wheel Drive,24–30,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,,,
+2024 Honda HR-V Sport,"5505 Auto Court Matteson, IL 60443",29 mi.,"$29,550 MSRP $29,550",Red,–,All-wheel Drive,25–30,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,,,
+1998 Toyota Celica GT,"2232 N Rand Rd Palatine, IL 60074","72,647 mi.","$14,990 ",Blue,Red,FWD,–,Gasoline,5-Speed Manual,2.0L,,,
+2023 Ferrari 296 GTB Base,"990 N Shore Dr Lake Bluff, IL 60044",314 mi.,"$464,900 ",Red,Nero,Rear-wheel Drive,–,Hybrid,8-Speed Automatic with Auto-Shift,3.0L V6 24V GDI DOHC Twin Turbo Hybrid,None reported,Yes,No
+2024 BMW 330 i xDrive,"1035 N Clark St Chicago, IL 60610",6 mi.,"$53,845 ",Gray Metallic,Black,All-wheel Drive,24–33,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2019 Volkswagen Golf SportWagen 1.8T S,,,,,,,,,,,,,
+2020 Lexus RX 350L Base,"3325 W Montrose Ave Chicago, IL 60618","86,986 mi.","$31,951 ",Obsidian,Gray,All-wheel Drive,18–25,Gasoline,Automatic,"3.5L V-6 port/direct injection, DOHC, VVT-iW variable valve cont",None reported,Yes,Yes
+2024 Nissan Pathfinder SV,,,,,,,,,,,,,
+2024 Honda HR-V EX-L,"5901 South La Grange Road Countryside, IL 60525",5 mi.,"$31,550 ",Modern Steel Metallic,Gray,All-wheel Drive,25–30,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,,,
+2024 Honda Civic Touring,"1533 S River Rd Des Plaines, IL 60018",4 mi.,"$30,524 $500 price drop",Platinum White Pearl,Gray,Front-wheel Drive,31–38,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,,,
+2000 BMW M Roadster,"870 S Fiene Dr. Addison, IL 60101","171,566 mi.","$12,985 $1,000 price drop",Black,Black,Rear-wheel Drive,19–26,Gasoline,5-Speed Manual,3.2L I6 24V MPFI DOHC,At least 1 accident or damage reported,No,No
+2016 Volkswagen Golf SportWagen TSI SE,"870 S Fiene Dr. Addison, IL 60101","145,302 mi.","$9,495 $490 price drop",Silver,Black,Front-wheel Drive,25–35,Gasoline,6-Speed Automatic,1.8L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2006 INFINITI G35 G35 Sedan 4D,"1455 Bernard Drive Addison, IL 60101","121,847 mi.","$7,900 ",TAN,TAN,Rear-wheel Drive,18–23,Gasoline,Automatic,"VQ 3.5L V-6 DOHC, variable valve control, premium unleaded, engi",None reported,No,No
+2024 Ford Explorer XLT,,10 mi.,"$52,090 MSRP $52,090",,,,,,,,,,
+2024 Lincoln Nautilus Reserve,"1333 Park Ave West Highland Park, IL 60035",6 mi.,"$57,645 MSRP $57,645",Infinite Black Metallic,Graphite,All-wheel Drive,–,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2018 Lexus GX 460 Base,,,,,,,,,,,,,
+2017 Volkswagen Golf SportWagen TSI S,"18800 South Oak Park Ave Tinley Park, IL 60477","30,163 mi.","$18,998 ",Reflex Silver Metallic,Titan Black,FWD,25–34,Gasoline,6-Speed Automatic,1.8L I4 16V GDI DOHC Turbo,,,
+2024 Buick Envista Preferred FWD,,13 mi.,"$26,105 ",,,,,,,,,,
+2021 Nissan Kicks S,"9604 Indianapolis Blvd Highland, IN 46322","61,775 mi.","$17,500 $200 price drop",Fresh Powder,Charcoal,Front-wheel Drive,31–36,Gasoline,Automatic CVT,1.6L I4 16V MPFI DOHC,At least 1 accident or damage reported,Yes,No
+2017 Volkswagen Golf SportWagen TSI SEL,,,,,,,,,,,,,
+2020 Ferrari 488 Pista Base,"27w110 North Ave West Chicago, IL 60185","3,393 mi.","$729,800 ",Extra Campiona Pearl White,Nero / Rosso FX,Rear-wheel Drive,15–20,Gasoline,7-Speed Double Clutch,3.9L Twin Turbo V8 711hp 567ft. lbs.,None reported,No,No
+2019 Karma Revero Sedan,"27w110 North Ave West Chicago, IL 60185","4,199 mi.","$55,800 $1,000 price drop",Surf White,Palisades Sport,Rear-wheel Drive,59–61,Electric with Ga,1-Speed Direct-Drive Automatic,Range-Extended Electric 403hp 981ft. lbs.,None reported,Yes,No
+2016 McLaren 675LT Base,"1561 N Fremont St Chicago, IL 60642","6,305 mi.","$224,133 $35,847 price drop",McLaren Orange,Carbon Black,Rear-wheel Drive,–,Gasoline,7-Speed Automatic with Auto-Shift,3.8L V8 32V MPFI DOHC Twin Turbo,At least 1 accident or damage reported,No,No
+2013 Honda Civic LX,"7373 N Cicero Ave Lincolnwood, IL 60712","89,669 mi.","$10,500 $2,500 price drop",Taffeta White,Beige,Front-wheel Drive,28–39,Gasoline,Compact 5-Speed Automatic,"1.8L I-4 i-VTEC variable valve control, regular unleaded, engine",At least 1 accident or damage reported,Yes,No
+2006 Lexus RX 330 Base,,"198,927 mi.","$6,999 ",,,,,,,,,,
+2020 Honda Pilot EX-L,,"44,956 mi.","$26,933 ",,,,,,,,,,
+2024 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",159 mi.,"$86,095 ",Black,Gray,All-wheel Drive,1-Speed Automatic,Electric,W1KEG1CB3RF047110,RF047110,,,
+2023 Lucid Air Touring,"1850 Holste Rd Northbrook, IL 60062","8,770 mi.","$79,438 ",Quantum Gray Metallic,Lucid Black & Ceramic,All-wheel Drive,1-Speed Automatic,Electric Motor,50EA1TEA7PA003448,UN3919,None reported,Yes,No
+2018 Volkswagen Golf SportWagen TSI S,,"104,365 mi.","$15,395 $100 price drop",,,,,,,,,,
+2024 Audi Q8 55 Prestige,,,,,,,,,,,,,
+2024 Audi Q7 45 Premium Plus,"2490 Skokie Valley Rd Highland Park, IL 60035",16 mi.,"$68,125 MSRP $68,125",Black,Black,All-wheel Drive,19–25,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/121,,,
+2024 Audi Q7 45 Premium,"2490 Skokie Valley Rd Highland Park, IL 60035",4 mi.,"$63,545 MSRP $63,545",Blue,Gray,All-wheel Drive,19–25,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/121,,,
+2019 Hyundai Santa Fe XL Limited Ultimate,"2110 Ogden Ave Lisle, IL 60532","26,334 mi.","$25,415 ",Iron Frost,Gray,Front-wheel Drive,18–23,Gasoline,6-Speed Automatic,3.3L V6 24V GDI DOHC,At least 1 accident or damage reported,Yes,No
+2019 Cadillac XT4 Luxury,"250 E Golf Rd Schaumburg, IL 60173","35,128 mi.","$26,998 $1,000 price drop",White,Gray,All-wheel Drive,22–29,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2024 Ford Bronco Outer Banks,"9809 Indianapolis Blvd Highland, IN 46322",10 mi.,"$51,455 ",Velocity Blue Metallic,Roast,Four-wheel Drive,20–21,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,,,
+2024 Toyota Corolla Cross LE,"5540 Auto Court Matteson, IL 60443",4 mi.,"$30,134 ",Wind Chill Pearl,Black,All-wheel Drive,–,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC,,,
+2018 Ferrari GTC4Lusso V8,"27w110 North Ave West Chicago, IL 60185","10,527 mi.","$199,800 $17,000 price drop",Rosso Scuderia,Nero,Rear-wheel Drive,15–21,Gasoline,7-Speed Double Clutch,3.9L Twin Turbo V8 602hp 561ft. lbs.,None reported,No,No
+2024 Mercedes-Benz Sprinter 2500 High Roof,"407 Skokie Hwy Lake Bluff, IL 60044",29 mi.,"$71,245 ",Jet Black,Black,Rear-wheel Drive,–,Diesel,9-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,,,
+2023 BMW 760 760i xDrive,"407 Skokie Hwy Lake Bluff, IL 60044","6,181 mi.","$97,899 $6,600 price drop",Black Sapphire Metallic,Tartufo,All-wheel Drive,18–26,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,None reported,No,No
+2022 Chevrolet Blazer RS,"1515 W Ogden Ave Naperville, IL 60540","21,623 mi.","$32,386 $350 price drop",Black,Jet Black,Front-wheel Drive,19–27,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,No
+2016 Kia K900 Luxury 5.0L,"198 Industry Avenue Frankfort, IL 60423","112,083 mi.","$14,994 ",Aurora Black Pearl,Brown,Rear-wheel Drive,15–23,Gasoline,8-Speed Automatic,5.0L V8 32V GDI DOHC,At least 1 accident or damage reported,Yes,No
+2017 BMW 440 i xDrive,"6800 W 79th St Burbank, IL 60459","77,707 mi.","$26,980 ",Black Sapphire Metallic,Black,All-wheel Drive,0–0,Gasoline,8-Speed Automatic,3.0L STRAIGHT 6 CYLINDER,At least 1 accident or damage reported,No,No
+2024 Audi RS 5 2.9T,"7000 Golf Rd Morton Grove, IL 60053",13 mi.,"$86,285 ",–,–,All-wheel Drive,18–25,Gasoline,Automatic,Twin Turbo Premium Unleaded V-6 2.9 L/177,,,
+2024 Ford Maverick Lariat,,,,,,,,,,,,,
+2003 Lexus LS 430 Base,,"202,797 mi.","$4,995 ",,,,,,,,,,
+2024 Audi S5 3.0T Premium,"276 Ogden Ave Westmont, IL 60559",20 mi.,"$71,515 ",Mythos Black Metallic,Magma Red,All-wheel Drive,21–29,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Turbo,,,
+2019 BMW 440 i xDrive,,,,,,,,,,,,,
+2003 Nissan 350Z Touring,"870 S Fiene Dr. Addison, IL 60101","116,387 mi.","$12,985 ",Chrome Silver Metallic,Charcoal,Rear-wheel Drive,20–26,Gasoline,6-Speed Manual,3.5L V6 24V MPFI DOHC,At least 1 accident or damage reported,No,No
+2017 Lexus NX 300h Base,"333 W Rand Rd. Mt Prospect, IL 60056","91,588 mi.","$25,000 ",Eminent White,Black,All-wheel Drive,33–30,Gasoline,Automatic,"2.5L I-4 DOHC, VVT-i variable valve control, regular unleaded, e",None reported,No,No
+2022 Nissan Rogue SV,"1601 Ogden Ave. Downers Grove, IL 60515","17,648 mi.","$23,809 $1,188 price drop",Caspian Blue Metallic,Charcoal,All-wheel Drive,28–35,Gasoline,CVT with Xtronic,"VC-Turbo 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",None reported,Yes,No
+2015 Audi A4 2.0T Premium,"1543 Ogden Ave Downers Grove, IL 60515","177,313 mi.","$9,888 ",White,Black,All-wheel Drive,22–31,E85 Flex Fuel,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,At least 1 accident or damage reported,No,No
+2024 Ford Explorer ST,"8100 West 159th Street Orland Park, IL 60462",10 mi.,"$61,990 MSRP $62,525",Agate Black Metallic,Ebony,Four-wheel Drive,–,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,,,
+2016 Buick Encore Base,"9604 Indianapolis Blvd Highland, IN 46322","61,870 mi.","$13,126 ",Riverrock Metallic,Ebony,Front-wheel Drive,28–34,Gasoline,6-Speed Automatic,1.4L I4 16V MPFI DOHC Turbo,At least 1 accident or damage reported,Yes,No
+2024 Chevrolet Suburban LS,"9700 Indianapolis Blvd Highland, IN 46322",4 mi.,"$65,015 ",Sterling Gray Metallic,Jet Black,Four-wheel Drive,15–19,Gasoline,Automatic,"EcoTec3 5.3L V-8 gasoline direct injection, variable valve contr",,,
+2024 Honda Passport TrailSport,"9800 Indianapolis Blvd Highland, IN 46322",5 mi.,"$47,360 MSRP $47,360",Radiant Red Metallic II,Black,All-wheel Drive,19–24,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,,,
+2004 Lexus RX 330,,"146,911 mi.","$8,934 ",,,,,,,,,,
+2024 Ford Mustang GT Premium,,"3,025 mi.","$53,500 $600 price drop",Shadow Black,Carmine,Rear-wheel Drive,–,Gasoline,10-Speed Automatic,5.0L V8 32V PDI DOHC,,,
+2024 Acura MDX Technology Package,"1149 West Golf Road Hoffman Estates, IL 60169",13 mi.,"$59,000 MSRP $59,000",Platinum White Pearl,Ebony,All-wheel Drive,19–25,Gasoline,Automatic,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",,,
+2023 Ford Escape PHEV,"330 E Roosevelt Rd West Chicago, IL 60185",6 mi.,"$42,290 MSRP $39,997",Iconic Silver Metallic,Ebony,Front-wheel Drive,–,Hybrid,Automatic CVT,2.5L I4 16V MPFI DOHC Hybrid,,,
+2010 Mitsubishi Galant FE,,,,,,,,,,,,,
+2024 Honda Odyssey EX-L,"1111 N Clark St Chicago, IL 60610",7 mi.,"$38,705 MSRP $42,705",Modern Steel Metallic,Gray,Front-wheel Drive,19–28,Gasoline,10-Speed Automatic,3.5L V6 24V GDI SOHC,,,
+2022 Lucid Air Grand Touring,"4257 W. North Ave. Chicago, IL 60639","17,233 mi.","$75,995 ",Stellar White,–,All-wheel Drive,1-Speed Automatic,Electric,50EA1GBA5NA002307,N21752,None reported,Yes,No
+2024 Honda Pilot Elite,"5901 South La Grange Road Countryside, IL 60525",5 mi.,"$52,480 ",Modern Steel Metallic,–,All-wheel Drive,19–25,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,,,
+2022 BMW M850 Gran Coupe i xDrive,"9510 Joliet Rd Hodgkins, IL 60525","8,995 mi.","$71,971 $1,000 price drop",Alpine White,Fiona Red,All-wheel Drive,17–24,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2013 BMW 128 128i Coupe,"13840 South Pulaski Road Crestwood, IL 60445","77,783 mi.","$8,995 ",Pearl White,Black,Rear-wheel Drive,18–28,Gasoline,Automatic,"3L I-6 DOHC, Double VANOS variable valve control, premium unlead",At least 1 accident or damage reported,No,No
+1995 Toyota Celica GT,"3128 W 147th St Posen, IL 60469","81,004 mi.","$4,999 ",Black,Black,Front-wheel Drive,0–0,Gasoline,Automatic,2.2L I4,At least 1 accident or damage reported,No,No
+2020 Polestar 1 Coupe,"217 E Ogden Ave Downers Grove, IL 60515","17,684 mi.","$90,000 $9,800 price drop",Midnight Metallic,Charcoal,All-wheel Drive,0–0,Gasoline,Automatic with Geartronic,2.0L 4-Cylinder,None reported,No,No
+2023 Audi A6 45 Premium,"1866 Ogden Avenue Downers Grove, IL 60515","21,043 mi.","$42,595 $400 price drop",Brilliant Black,Black,All-wheel Drive,24–31,Gasoline,7-Speed Automatic,"2L I-4 gasoline direct injection, DOHC, variable valve control,",At least 1 accident or damage reported,Yes,No
+2024 Honda CR-V EX,"17220 Torrence Ave Lansing, IL 60438",6 mi.,"$34,860 ",Crystal Black Pearl,Gray,All-wheel Drive,27–32,Gasoline,CVT,1.5L I4 DOHC 16V,,,
+2023 BMW M850 Gran Coupe i xDrive,"2150 Ogden Ave Downers Grove, IL 60515","11,494 mi.","$84,888 ",Pure,Black,All-wheel Drive,17–24,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2017 Volkswagen Tiguan Limited 2.0T S,"8505 W 159th St Tinley Park, IL 60487","81,301 mi.","$12,499 $500 price drop",Deep Black Pearl Effect,Black,Front-wheel Drive,20–24,Gasoline,6-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2024 Audi Q7 45 Premium,"2490 Skokie Valley Rd Highland Park, IL 60035",10 mi.,"$65,295 MSRP $65,295",Blue,Black,All-wheel Drive,19–25,Gasoline,Automatic,Intercooled Turbo Premium Unleaded I-4 2.0 L/121,,,
+2024 Audi S5 Premium Plus,"2490 Skokie Valley Rd Highland Park, IL 60035",15 mi.,"$66,170 MSRP $66,170",Black,Magma Red,All-wheel Drive,20–29,Gasoline,Automatic,Intercooled Turbo Premium Unleaded V-6 3.0 L/183,,,
+2020 Ferrari 488 Pista Base,"641 Estes Ave Schaumburg, IL 60193","1,723 mi.","$569,895 ",Rosso Scuderia,Nero,Rear-wheel Drive,15–20,Gasoline,7-Speed Automatic with Auto-Shift,3.9L V8 32V GDI DOHC Twin Turbo,None reported,No,No
+2024 Ford Maverick Lariat,"9809 Indianapolis Blvd Highland, IN 46322",10 mi.,"$40,145 ",Cactus Green / Gray,Desert,All-wheel Drive,22–28,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Mercedes-Benz Sprinter 3500XD 170 WB High Roof Cargo,"1000 W Golf Road Hoffman Estates, IL 60169",7 mi.,"$71,955 MSRP $71,955",Arctic White,Black,Rear-wheel Drive,–,Diesel,9-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,,,
+2024 BMW M850 Gran Coupe i xDrive,"407 Skokie Hwy Lake Bluff, IL 60044","3,209 mi.","$102,999 ",Black Sapphire Metallic,Fiona Red,All-wheel Drive,17–24,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,None reported,Yes,Yes
+2024 Subaru Impreza Base,"2379 Aurora Avenue Naperville, IL 60540",7 mi.,"Not Priced MSRP $25,057",Sapphire Blue Pearl,Black,All-wheel Drive,–,Gasoline,Automatic CVT,2.0L H4 16V GDI DOHC,,,
+2009 Hyundai Genesis 4.6,"4580 N Elston Ave Chicago, IL 60630","117,103 mi.","$8,985 $1,000 price drop",Titanium Gray Metallic,Jet Black,Rear-wheel Drive,17–25,Gasoline,6-Speed Automatic,4.6L V8 32V MPFI DOHC,At least 1 accident or damage reported,No,No
+2025 Honda Pilot EX-L,"6600 N Western Ave Chicago, IL 60645",10 mi.,"$47,150 ",Platinum,Nh-883p/Black,All-wheel Drive,19–25,Gasoline,Automatic,Premium Unleaded V-6 3.5 L/212,,,
+2024 Kia Carnival SX Prestige,"7050 W Ogden Ave Berwyn, IL 60402",70 mi.,"$49,815 MSRP $49,815",Ceramic Silver,Gray,Front-wheel Drive,19–26,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,,,
+2024 Audi A5 Sportback S line Premium Plus,"7000 Golf Rd Morton Grove, IL 60053",12 mi.,"$58,840 ",–,–,All-wheel Drive,24–32,Hybrid,Automatic,Intercooled Turbo Gas/Electric I-4 2.0 L/121,,,
+2024 Honda HR-V EX-L,"300 W Grand Ave Elmhurst, IL 60126",3 mi.,"$31,550 ",Modern Steel Metallic,Black,All-wheel Drive,25–30,Gasoline,Variable,Regular Unleaded I-4 2.0 L/122,,,
+2014 Chevrolet Impala Limited LS,"276 Ogden Ave Westmont, IL 60559","74,634 mi.","$12,383 ",Silver Ice Metallic,Ebony,Front-wheel Drive,18–30,E85 Flex Fuel,6-Speed Automatic,3.6L V6 24V GDI DOHC Flexible Fuel,None reported,No,No
+2010 Pontiac G6 w/1SB,"3128 W 147th St Posen, IL 60469","146,839 mi.","$4,999 ",Charcoal,Gray,Front-wheel Drive,22–30,E85 Flex Fuel,Automatic,2.4L I4,At least 1 accident or damage reported,No,No
+2004 Lexus GS 300,"60 Shore Dr Burr Ridge, IL 60527","125,217 mi.","$7,990 ",Black,–,Rear-wheel Drive,18–25,Gasoline,5-Speed Automatic,3.0L I6 24V MPFI DOHC,None reported,No,No
+2014 BMW i3 Base,"1543 Ogden Ave Downers Grove, IL 60515","92,202 mi.","$7,777 $1,111 price drop",White,Tera Dalbergia Brown,Rear-wheel Drive,1-Speed Automatic,Electric,WBY1Z2C53EV284164,D-1667,None reported,No,No
+2014 Ford Focus SE,"1233 Ogden Ave Downers Grove, IL 60515","102,539 mi.","$6,999 $491 price drop",White,Black,Front-wheel Drive,37–37,E85 Flex Fuel,Automatic 6-Speed,2.0L I4,At least 1 accident or damage reported,No,No
+2024 Honda Civic EX-L,"4475 Lincoln Ave Lisle, IL 60532",5 mi.,"$29,745 MSRP $29,745",Gray,Black,FWD,31–39,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,,,
+2023 Subaru Crosstrek Limited,"18800 South Oak Park Ave Tinley Park, IL 60477","22,264 mi.","$29,998 ",Magnetite Gray Metallic,Black,All-wheel Drive,27–34,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,None reported,Yes,Yes
+2018 Cadillac XT5 Luxury,"2110 Ogden Ave Lisle, IL 60532","37,665 mi.","$23,673 $300 price drop",Radiant Silver Metallic,Cirrus,Front-wheel Drive,19–26,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,No,No
+2024 Chevrolet Silverado 1500 RST,"9700 Indianapolis Blvd Highland, IN 46322",3 mi.,"$56,664 $6,291 price drop",Black,Jet Black,Four-wheel Drive,15–20,Gasoline,Automatic,"TurboMax 2.7L I-4 gasoline direct injection, DOHC, variable valv",,,
+2019 RAM ProMaster 1500 Base,"6N509 Virginia Road Roselle, IL 60172","40,401 mi.","$19,995 ",Bright White Clearcoat,Black,Front-wheel Drive,0–0,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",At least 1 accident or damage reported,No,No
+2006 Pontiac G6 GT,"19915 South La Grange Road Frankfort, IL 60423","62,690 mi.","$9,900 ",Crimson Red,Light Taupe,Front-wheel Drive,21–29,Gasoline,4-Speed Automatic with Overdrive,3.5L V6 SFI,At least 1 accident or damage reported,Yes,No
+2021 Dodge Challenger SRT Hellcat,"1565 West Ogden Avenue Naperville, IL 60540","7,439 mi.","$60,477 $1,000 price drop",Indigo Blue,Ruby Red/Black,Rear-wheel Drive,13–22,Gasoline,Automatic,"HEMI 6.2L V-8 intercooled supercharger, premium unleaded, engine",None reported,Yes,No
+2024 Lincoln Nautilus Premiere,"1564 West Ogden Avenue Naperville, IL 60540",9 mi.,"$56,260 MSRP $57,260",White Platinum Tri-Coat Metallic,Black Onyx,All-wheel Drive,–,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 BMW 330 i xDrive,,,,,,,,,,,,,
+2011 Ford E250 Cargo,,"145,189 mi.","$9,995 ",,,,,,,,,,
+2024 Subaru Outback Limited XT,,,,,,,,,,,,,
+2004 Jaguar XJ8 Base,,,,,,,,,,,,,
+2024 Honda HR-V EX-L,"5901 South La Grange Road Countryside, IL 60525",5 mi.,"$31,550 ",Lunar Silver Metallic,Gray,All-wheel Drive,25–30,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,,,
+2024 Mazda CX-90 Preferred Plus,"740 N York Rd Elmhurst, IL 60126","3,308 mi.","$40,900 $500 price drop",Rhodium White Metallic,Black,All-wheel Drive,24–28,Gasoline,8-Speed Automatic,3.3L,None reported,No,No
+2023 Chevrolet Blazer RS,"300 Roosevelt Rd Glen Ellyn, IL 60137","24,266 mi.","$39,995 $405 price drop",Iridescent Pearl Tricoat,Jet Black/Red Accents,All-wheel Drive,19–26,Gasoline,9-Speed Automatic with Overdrive,"3.6L V-6 gasoline direct injection, DOHC, VVT variable valve con",None reported,Yes,No
+2024 Chevrolet Silverado 1500 LT,,,,,,,,,,,,,
+1991 Dodge Stealth R/T Turbo,"22W231 North Ave Glen Ellyn, IL 60137","1,200 mi.","$49,995 ",Pearl White,Red,All-wheel Drive,–,Gasoline,5-Speed Manual,3.0L V6 24V DOHC Twin Turbo,None reported,No,No
+2024 BMW 760 760i xDrive,"11030 W 159th St Orland Park, IL 60467",6 mi.,"$145,360 ",Aventurin Red Metallic,Black,All-wheel Drive,18–25,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,,,
+2024 Volvo XC40 Recharge Pure Electric Twin Core,,5 mi.,"$57,300 MSRP $57,300",,,,,,,,,,
+2023 Ford F-150 Lariat,,,,,,,,,,,,,
+2016 Mercedes-Benz AMG SL AMG SL 63,"27w110 North Ave West Chicago, IL 60185","49,318 mi.","$66,800 ",designo Diamond White Metallic,Black,Rear-wheel Drive,16–25,Gasoline,7-Speed Double Clutch,5.5L Twin Turbo V8 577hp 664ft. lbs.,At least 1 accident or damage reported,No,No
+2024 Acura MDX Technology Package,"1149 West Golf Road Hoffman Estates, IL 60169",11 mi.,"$59,000 MSRP $59,000",Liquid Carbon Metallic,Espresso,All-wheel Drive,19–25,Gasoline,Automatic,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",,,
+2024 Jeep Wrangler 4-Door Sahara 4x4,,50 mi.,"$56,335 MSRP $60,835",,,,,,,,,,
+2024 Ford Ranger XLT,,,,,,,,,,,,,
+2024 Lincoln Nautilus Premiere,"1564 West Ogden Avenue Naperville, IL 60540",16 mi.,"$60,455 MSRP $61,455",Diamond Red,Truffle,All-wheel Drive,–,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2023 Audi Q5 Sportback S line Premium w/ Convenience,"1523 W North Ave Chicago, IL 60642","12,817 mi.","$39,793 $1,051 price drop",Daytona Gray Pearl Effect,Black,All-wheel Drive,22–29,Gasoline,Automatic,2.0L 4-Cyl Engine,At least 1 accident or damage reported,Yes,No
+2004 INFINITI G35 Base,"Yug from Chicago, IL 60614","47,600 mi.","$19,500 ",Gray,Black,Rear-wheel Drive,Gasoline,6-Speed M/T,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,JNKCV54E04M805673,None reported,Yes,No
+2021 Chrysler Pacifica Hybrid Touring L,"5859 South La Grange Road Countryside, IL 60525","68,829 mi.","$23,998 $236 price drop",Velvet Red Pearlcoat,Alloy,Front-wheel Drive,–,Hybrid,Automatic CVT,3.6L V6 24V MPFI DOHC Hybrid,None reported,Yes,No
+2024 Nissan Pathfinder Rock Creek,,,,,,,,,,,,,
+2024 Volvo S90 Recharge Plug-In Hybrid T8 Plus,"770 Frontage Rd Northfield, IL 60093",0 mi.,"$69,275 MSRP $69,275",Crystal White,Charcoal,All-wheel Drive,–,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,,,
+2009 Dodge Caliber SXT,"17W434 East Roosevelt Rd Oakbrook Terrace, IL 60181","74,153 mi.","$6,490 $200 price drop",Deep Water Blue Pearlcoat,Dark Slate Gray,Front-wheel Drive,23–27,Gasoline,Automatic,"2L I-4 DOHC, variable valve control, regular unleaded, engine wi",None reported,Yes,No
+2015 BMW 328d xDrive,"3160 Commercial Ave Northbrook, IL 60062","105,130 mi.","$18,495 $500 price drop",Black,Brown,All-wheel Drive,31–43,Diesel,8-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,None reported,No,No
+2006 Nissan 350Z,"454 East North Avenue Lombard, IL 60148","127,487 mi.","$10,595 ",Silverstone Metallic,Carbon,Rear-wheel Drive,19–25,Gasoline,5-Speed Automatic,3.5L V6 24V MPFI DOHC,At least 1 accident or damage reported,No,No
+2024 Genesis G90 3.5T e-SC,"1866 Ogden Avenue Downers Grove, IL 60515",2 mi.,"$101,605 MSRP $101,605",Uyuni White,Black,AWD,17–24,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,,,
+2023 Mazda CX-50 2.5 S Premium Plus Package,"2020 Ogden Avenue Downers Grove, IL 60515","10,837 mi.","$31,195 $200 price drop",Polymetal Gray Metallic,Black,All-wheel Drive,24–30,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,None reported,Yes,No
+2024 Chevrolet Silverado 1500 LT,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$44,704 $500 price drop",Lakeshore Blue Metallic,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,,,
+2024 Lincoln Nautilus Reserve,,,,,,,,,,,,,
+2019 BMW X1 xDrive28i,"250 E Golf Rd Schaumburg, IL 60173","43,404 mi.","$24,998 $1,000 price drop",Silver,Black,All-wheel Drive,22–31,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,No
+2024 Jeep Grand Cherokee Altitude,"1155 W Dundee Rd Arlington Heights, IL 60004",12 mi.,"$40,142 MSRP $49,575 $9,433 price drop",Bright White Clearcoat,Global Black,Four-wheel Drive,19–26,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",,,
+2005 Dodge Neon SRT-4 Sedan 4D,,,,,,,,,,,,,
+2017 Mercedes-Benz AMG CLA 45 AMG CLA 45 4MATIC,,,,,,,,,,,,,
+2020 Mercedes-Benz GLE 350 Base 4MATIC,"1349 Indianapolis Blvd Schererville, IN 46375","32,902 mi.","$44,606 $200 price drop",Gray Metallic,Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,Yes
+2023 Ford Bronco,"330 E Roosevelt Rd West Chicago, IL 60185",10 mi.,"$47,545 MSRP $45,475",Carbonized Gray Metallic,Gray,Four-wheel Drive,–,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,,,
+2023 Ford Bronco,"330 E Roosevelt Rd West Chicago, IL 60185",10 mi.,"$57,910 MSRP $55,607",Oxford White,Dark Gray,Four-wheel Drive,–,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,,,
+2006 Toyota Highlander Hybrid Limited,"5050 Dempster Street Skokie, IL 60077","122,848 mi.","$8,495 ",Millennium Silver Metallic,Tan,All-wheel Drive,31–25,Hybrid,Automatic,"3.3L V-6 DOHC, variable valve control, regular unleaded, engine",At least 1 accident or damage reported,Yes,No
+2020 Audi Q5 45 Premium Plus,"200 W Grand Ave Elmhurst, IL 60126","25,318 mi.","$28,293 $200 price drop",Glacier White Metallic,Black,All-wheel Drive,22–28,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, variable valve control,",None reported,No,No
+2024 Volvo XC90 B6 Plus Bright Theme 6-Seater,"770 Frontage Rd Northfield, IL 60093",0 mi.,"$67,915 MSRP $67,915",Denim Blue,Blond,All-wheel Drive,20–26,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Mercedes-Benz GLE 350 Base 4MATIC,,,,,,,,,,,,,
+2020 INFINITI QX50 ESSENTIAL,"415 Ogden Ave Clarendon Hills, IL 60514","11,944 mi.","$32,423 ",Graphite Shadow,Graphite,All-wheel Drive,22–28,Gasoline,Automatic CVT,2.0L I4 16V PDI DOHC Turbo,At least 1 accident or damage reported,Yes,No
+2015 GMC Sierra 1500 Base,"2000 Frontage Rd Glencoe, IL 60022","83,346 mi.","$24,998 $1,000 price drop",Black,Gray,Four-wheel Drive,17–22,E85 Flex Fuel,6-Speed Automatic,4.3L V6 12V GDI OHV Flexible Fuel,None reported,Yes,No
+2016 BMW X1 xDrive 28i,"3160 Commercial Ave Northbrook, IL 60062","55,317 mi.","$18,495 $500 price drop",Blue,Black,All-wheel Drive,22–32,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2012 Ford Shelby GT500 Base,"870 S Fiene Dr. Addison, IL 60101","40,858 mi.","$41,985 ",Red,Black,Rear-wheel Drive,15–23,Gasoline,6-Speed Manual,5.4L V8 32V MPFI DOHC Supercharged,None reported,No,No
+2024 Nissan Sentra SR,"8550 W 159th St Orland Park, IL 60462",9 mi.,"$24,997 ",Gun Metallic,Sport,Front-wheel Drive,30–38,Gasoline,Automatic CVT,2.0L I4 16V GDI DOHC,,,
+2010 Ford Shelby GT500 Base,"22W231 North Ave Glen Ellyn, IL 60137","10,190 mi.","$47,995 $2,000 price drop",Black,Charcoal Black / Silver,Rear-wheel Drive,14–22,Gasoline,6-Speed Manual,5.4L V8 32V MPFI DOHC Supercharged,None reported,Yes,No
+2024 Chevrolet Corvette Stingray w/2LT,,4 mi.,"$104,300 ",,,,,,,,,,
+2016 Aston Martin Vanquish Carbon,,,,,,,,,,,,,
+2012 Ford Shelby GT500 Base,"1600 Hicks Rd Rolling Meadows, IL 60008","18,450 mi.","$39,900 ",SILVER,BLACK,Rear-wheel Drive,15–23,Gasoline,"Manual, 6-Spd","V8, Supercharged, 5.4 Liter",At least 1 accident or damage reported,No,No
+2018 Chrysler Pacifica Limited,"1515 W Ogden Ave Naperville, IL 60540","102,401 mi.","$18,504 $904 price drop",Billet Silver Metallic Clearcoat,Black,Front-wheel Drive,19–28,E85 Flex Fuel,9-Speed Automatic,3.6L V6 24V MPFI DOHC Flexible Fuel,None reported,No,No
+2020 Jaguar F-PACE S P380 AWD Automatic,"1559 West Ogden Avenue Naperville, IL 60540","27,094 mi.","$37,989 $1,005 price drop",–,–,All-wheel Drive,18–23.0,Gasoline,Automatic,"3L V-6 gasoline direct injection, DOHC, variable valve control,",None reported,Yes,No
+2023 Ferrari 296 GTB Base,,638 mi.,"$449,900 ",,,,,,,,,,
+2024 Land Rover Defender 110 P400 X-Dynamic SE,"1559 West Ogden Avenue Naperville, IL 60540",10 mi.,"$85,988 MSRP $85,988",Gondwana Stone Metallic,Ebony,Four-wheel Drive,18–23.0,Gasoline,Automatic,"3L I-6 gasoline direct injection, DOHC, variable valve control,",,,
+2020 Mercedes-Benz GLE 350 Base 4MATIC,"1565 West Ogden Avenue Naperville, IL 60540","26,142 mi.","$38,977 $500 price drop",Iridium Silver Metallic,Black,All-wheel Drive,19–26,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, variable valve control,",At least 1 accident or damage reported,No,No
+2024 Cadillac XT6 Sport AWD,,,,,,,,,,,,,
+2008 Lexus LS 600h L Base,,,,,,,,,,,,,
+1991 Dodge Stealth R/T,,,,,,,,,,,,,
+2005 Dodge Neon SRT-4,"594 W Lake St Elmhurst, IL 60126","90,119 mi.","$13,995 $1,000 price drop",Red,Black,Front-wheel Drive,22–30,Gasoline,5-Speed Manual,2.4L I4 16V MPFI DOHC Turbo,At least 1 accident or damage reported,No,No
+2021 Lincoln Aviator Reserve AWD,"1610 N Waukegan Rd Glenview, IL 60025","26,708 mi.","$49,782 $347 price drop",Black,Ebony,All-wheel Drive,17–24,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,None reported,Yes,Yes
+2024 Tesla Model Y Long Range Dual Motor All-Wheel Drive,,19 mi.,"$46,990 $1,500 price drop",Stealth Grey,All Black Premium Interior,All-wheel Drive,Automatic,Electric,,,,,
+2014 Porsche Boxster S,,"18,941 mi.","$56,888 ",,,,,,,,,,
+2023 Chevrolet Colorado Z71,,,,,,,,,,,,,
+2016 Audi A4 2.0T Premium,"17225 Torrence Ave Lansing, IL 60438","69,053 mi.","$12,800 ",White,Beige / Brown,All-wheel Drive,21–30,E85 Flex Fuel,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,At least 1 accident or damage reported,No,No
+2024 Honda CR-V Hybrid Sport Touring,"17220 Torrence Ave Lansing, IL 60438",6 mi.,"$42,005 ",Radiant Red Metallic,Black,All-wheel Drive,40–34,Hybrid,eCVT,2.0L I4 DOHC 16V,,,
+2024 Audi Q8 55 Premium Plus,,,,,,,,,,,,,
+2009 Buick LaCrosse CXL,,,,,,,,,,,,,
+2010 Ford Shelby GT500 Base,"1600 Hicks Rd Rolling Meadows, IL 60008","57,635 mi.","$34,990 ",Blue,Black,Rear-wheel Drive,14–22,Gasoline,"Manual, 6-Spd w/Overdrive","V8, Supercharged, 5.4L",None reported,No,No
+2024 Mazda CX-50 2.5 S Select Package,"110 W. Golf Rd Schaumburg, IL 60195",55 mi.,"$31,095 MSRP $31,785 $690 price drop",Ingot Blue Metallic,Black W/ Gray,All-wheel Drive,24–30,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,,,
+2023 Subaru Ascent Touring 7-Passenger,"1911 N Rand Rd Palatine, IL 60074","4,201 mi.","$50,612 ",Crystal White Pearl,Black,All-wheel Drive,19–25,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,,,
+2011 Lexus IS 250C Base,"Tim from Naperville, IL 60540","88,600 mi.","$15,250 ",Gray,Black,Rear-wheel Drive,Gasoline,A/T,204.0HP 2.5L V6 Cylinder Engine Gasoline Fuel,JTHFF2C28B2515125,None reported,Yes,No
+2024 Land Rover Defender 110 P300,"1559 West Ogden Avenue Naperville, IL 60540",8 mi.,"$77,318 MSRP $77,318",Santorini Black Metallic,Vintage Tan,Four-wheel Drive,17–20.0,Gasoline,Automatic,"Ingenium 2L I-4 gasoline direct injection, DOHC, variable valve",,,
+2021 Audi A7 e 55 quattro Premium Plus,"1527 Aurora Ave Naperville, IL 60540","21,817 mi.","$50,991 ",Mythos Black Metallic,Black,All-wheel Drive,–,Hybrid,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo Hybrid,,,
+2024 Subaru Forester Limited,"2379 Aurora Avenue Naperville, IL 60540",7 mi.,"Not Priced MSRP $37,860",Horizon Blue Pearl,Gray,All-wheel Drive,26–33,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,,,
+2024 Hyundai Kona EV SEL,"9121 S Cicero Ave Oak Lawn, IL 60453",13 mi.,"$38,490 MSRP $38,490",Abyss Black Pearl,Black,Front-wheel Drive,Automatic,Electric,KM8HC3A65RU005775,25765,,,
+2020 Hyundai Palisade SEL,,,,,,,,,,,,,
+2020 Cadillac CT6 Luxury,"6201 South La Grange Road Hodgkins, IL 60525","31,186 mi.","$37,299 ",Red Horizon Tintcoat,Shara Beige,All-wheel Drive,18–27,Gasoline,10-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,No
+2024 Aston Martin DB12 Base,,,,,,,,,,,,,
+2012 Dodge Caliber SXT,"17W434 East Roosevelt Rd Oakbrook Terrace, IL 60181","93,277 mi.","$6,990 ",Tungsten Metallic Clearcoat,Dark Slate Gray,Front-wheel Drive,23–27,Gasoline,Automatic,"2L I-4 DOHC, variable valve control, regular unleaded, engine wi",At least 1 accident or damage reported,Yes,Yes
+2023 Ford F-150 XL,"7301 Kingery Hwy Willowbrook, IL 60527",8 mi.,"$46,252 MSRP $52,425 $500 price drop",Iconic Silver Metallic,Black,Four-wheel Drive,22,–,10-Speed Automatic,5.0L V8 32V PDI DOHC,,,
+2021 Ford Expedition Max King Ranch,"7301 Kingery Hwy Willowbrook, IL 60527","49,217 mi.","$52,488 $1,100 price drop",Star White,Ebony,Four-wheel Drive,16–21,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,None reported,Yes,No
+2024 Chrysler Pacifica Touring-L,,,,,,,,,,,,,
+2024 Jeep Grand Cherokee Limited,"2800 Patriot Blvd Glenview, IL 60026",7 mi.,"$51,810 MSRP $57,310 $400 price drop",Velvet Red Pearlcoat,Global Black,Four-wheel Drive,19–26,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,,,
+2022 Chevrolet Blazer RS,"300 Roosevelt Rd Glen Ellyn, IL 60137","14,871 mi.","$38,995 ",Black,Jet Black,All-wheel Drive,19–26,Gasoline,9-Speed Automatic with Overdrive,"3.6L V-6 gasoline direct injection, DOHC, VVT variable valve con",None reported,Yes,No
+2004 Mazda RX-8 6 Speed Manual,"24W445 Lake Street Roselle, IL 60172","94,006 mi.","$8,997 ",Velocity Red Mica,Red,Rear-wheel Drive,18–22,Gasoline,Manual,"RENESIS 1.3L Rotary premium unleaded, engine with 238HP",None reported,Yes,Yes
+2022 Nissan Kicks SR,"9604 Indianapolis Blvd Highland, IN 46322","42,039 mi.","$19,000 $500 price drop",Scarlet Ember,Charcoal,Front-wheel Drive,31–36,Gasoline,Automatic CVT,1.6L I4 16V MPFI DOHC,At least 1 accident or damage reported,Yes,No
+2019 Mercedes-Benz AMG E 53 Base 4MATIC,"1000 W Golf Road Hoffman Estates, IL 60169","79,156 mi.","$37,999 ",Polar White,Black,All-wheel Drive,21–28,Gasoline,9-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,None reported,Yes,No
+2024 Mercedes-Benz GLB 250 Base 4MATIC,"1000 W Golf Road Hoffman Estates, IL 60169",21 mi.,"$52,190 MSRP $52,190",Blue Metallic,Black,All-wheel Drive,22–30,Gasoline,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Mercedes-Benz Sprinter 2500 High Roof,"407 Skokie Hwy Lake Bluff, IL 60044",72 mi.,"$62,018 ",Arctic White,Black,Rear-wheel Drive,–,Diesel,9-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,,,
+2024 BMW X7 xDrive40i,"407 Skokie Hwy Lake Bluff, IL 60044",14 mi.,"$94,720 ",Carbon Black Metallic,Silverstone,All-wheel Drive,21–25,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,,,
+2024 Cadillac XT4 Premium Luxury,"1507 W. Ogden Ave. Naperville, IL 60540",1 mi.,"$53,890 MSRP $53,890",Stellar Black Metallic,–,All-wheel Drive,23–28,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, variable valve control,",,,
+2010 Mazda Mazda5 Touring,"2363 Aurora Ave Naperville, IL 60540","144,531 mi.","$7,000 ",Copper Red Mica,Sand,Front-wheel Drive,21–27,Gasoline,5-Speed Automatic,2.3L I4 16V MPFI DOHC,,,
+2024 Lincoln Nautilus Reserve,"1564 West Ogden Avenue Naperville, IL 60540",21 mi.,"$66,970 MSRP $67,970",Infinite Black Metallic,Black Onyx,All-wheel Drive,–,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Volvo XC90 B6 Plus Bright Theme 6-Seater,,,,,,,,,,,,,
+2024 Hyundai Kona EV Limited,"5631 South La Grange Road Countryside, IL 60525",0 mi.,"$43,260 MSRP $43,260",White / Black,–,FWD,NOT SPECIFIED,Electric,KM8HE3A68RU006607,240499,,,
+2023 Subaru WRX Premium,"6191 Joliet Rd Countryside, IL 60525",6 mi.,"$32,806 ",Magnetite Gray Metallic,Black,All-wheel Drive,19–26,Gasoline,6-Speed Manual,2.4L H4 16V GDI DOHC Turbo,,,
+2023 Ferrari Portofino M Base,,,,,,,,,,,,,
+2024 Subaru Forester Wilderness,"125 West Grand Avenue Bensenville, IL 60106",5 mi.,"$38,972 ",Autumn Green Metallic,Gray,All-wheel Drive,25–28,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,,,
+2015 Nissan 370Z Touring Sport,"125 West Grand Avenue Bensenville, IL 60106","36,538 mi.","$26,916 $1,014 price drop",Pearl White,Black,Rear-wheel Drive,18–25,Gasoline,7-Speed Automatic,3.7L V6 24V MPFI DOHC,None reported,No,No
+2015 Porsche Cayenne E-Hybrid S,"3160 Commercial Ave Northbrook, IL 60062","71,357 mi.","$25,495 $500 price drop",Gray,Black,All-wheel Drive,–,Hybrid,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged Hybrid,At least 1 accident or damage reported,No,No
+2014 Mercedes-Benz E-Class S 4MATIC,"2411 E Oakton Street Arlington Heights, IL 60005","58,766 mi.","$38,000 ",Gray,Black,All-wheel Drive,16–23,Gasoline,Automatic,"AMG 5.5L V-8 gasoline direct injection, DOHC, variable valve con",At least 1 accident or damage reported,Yes,No
+2021 Jeep Grand Cherokee Limited,"2800 Patriot Blvd Glenview, IL 60026","35,400 mi.","$31,900 $700 price drop",Diamond Black,Light Frost Beige / Black,Four-wheel Drive,18–25,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,Yes,Yes
+2024 Audi Q7 55 Premium Plus,"2490 Skokie Valley Rd Highland Park, IL 60035",9 mi.,"$75,475 MSRP $75,475",Satellite Silver,Black,All-wheel Drive,19–24,Hybrid,Automatic,Intercooled Turbo Gas/Electric V-6 3.0 L/183,,,
+2024 Audi Q7 55 Premium Plus,"2490 Skokie Valley Rd Highland Park, IL 60035",10 mi.,"$76,195 MSRP $76,195",Satellite Silver,Black,All-wheel Drive,19–24,Hybrid,Automatic,Intercooled Turbo Gas/Electric V-6 3.0 L/183,,,
+2021 Mercedes-Benz Maybach GLS 600 4MATIC,"2772 Skokie Valley Road Highland Park, IL 60035","17,824 mi.","$132,989 $1,760 price drop",Silver,Mahagony/Macchiato Beige,All-wheel Drive,15–19,Gasoline,9-Speed Automatic,"4L V-8 gasoline direct injection, DOHC, variable valve control,",None reported,Yes,No
+2000 Honda S2000 Base,"562 W 5th Ave Naperville, IL 60563","46,084 mi.","$29,500 $300 price drop",Berlina Black,Tan,Rear-wheel Drive,20–23,Gasoline,Manual,"2L I-4 DOHC, VTEC variable valve control, premium unleaded, engi",None reported,No,No
+2018 Chevrolet Traverse Premier,,,,,,,,,,,,,
+2012 Volkswagen Touareg TDI Lux,,"152,833 mi.","$7,995 $1,000 price drop",,,,,,,,,,
+2024 Subaru Forester Limited,,,,,,,,,,,,,
+2024 Jeep Grand Cherokee L Altitude,"1565 West Ogden Avenue Naperville, IL 60540",10 mi.,"$43,439 MSRP $52,170 $200 price drop",Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,18–25,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",,,
+2024 Chevrolet Tahoe LT,"1515 W Ogden Ave Naperville, IL 60540",3 mi.,"$69,995 $2,550 price drop",Sterling Gray Metallic,Black,Four-wheel Drive,15–20,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,,,
+2017 Audi A3 e-tron 1.4T Premium,"4330 W Irving Park Rd Chicago, IL 60641","43,937 mi.","$17,995 ",Mythos Black Metallic,Black,Front-wheel Drive,–,Hybrid,6-Speed Automatic with Auto-Shift,1.4L I4 16V GDI DOHC Turbo Hybrid,None reported,No,No
+2024 Hyundai Venue Limited,"6750 W Grand Ave Chicago, IL 60707",11 mi.,"$24,495 MSRP $25,145",Red,Black,Front-wheel Drive,–,Gasoline,IVT,1.6L I4 16V MPFI DOHC,,,
+2015 Hyundai Genesis 3.8,"5050 Dempster Street Skokie, IL 60077","144,169 mi.","$12,995 ",Manhattan Brown,Tan,All-wheel Drive,16–29,Gasoline,Automatic,"Lambda 3.8L V-6 gasoline direct injection, DOHC, D-CVVT variable",At least 1 accident or damage reported,No,No
+2022 Jeep Compass High Altitude,,,,,,,,,,,,,
+2021 Jeep Grand Cherokee L Limited,"5859 South La Grange Road Countryside, IL 60525","12,039 mi.","$37,404 $256 price drop",Velvet Red Pearlcoat,Global Black,Four-wheel Drive,18–25,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,Yes,No
+2024 Hyundai Kona EV SEL,"750 N York Road Elmhurst, IL 60126",3 mi.,"$38,070 ",Abyss Black Pearl,Gray,Front-wheel Drive,Automatic,Electric,KM8HC3A6XRU005416,H17083,,,
+2005 Dodge Neon SRT-4,"594 W Lake St Elmhurst, IL 60126","56,228 mi.","$17,495 $500 price drop",Red,Black,Front-wheel Drive,22–30,Gasoline,5-Speed Manual,2.4L I4 16V MPFI DOHC Turbo,At least 1 accident or damage reported,No,No
+2019 Cadillac Escalade ESV Luxury,"1543 Ogden Ave Downers Grove, IL 60515","184,745 mi.","$25,888 $1,000 price drop",Black,Black,Four-wheel Drive,14–21,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,At least 1 accident or damage reported,No,No
+2021 Nissan Murano S Intelligent AWD,"1601 Ogden Ave. Downers Grove, IL 60515","16,596 mi.","$21,997 $1,899 price drop",Gun Metallic,Graphite,All-wheel Drive,20–28,Gasoline,CVT with Xtronic,"3.5L V-6 DOHC, variable valve control, regular unleaded, engine",None reported,Yes,No
+2016 BMW M235 i,"1543 Ogden Ave Downers Grove, IL 60515","111,166 mi.","$18,888 $1,000 price drop",White,Coral Red / Black,Rear-wheel Drive,20–31,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,None reported,No,No
+2017 BMW X5 eDrive xDrive40e,"Moe from Lemont, IL 60439","74,255 mi.","$30,999 ",Blue,Brown,All-wheel Drive,Plug-In Hybrid,Transmission w/Dual Shift Mode,313.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,5UXKT0C33H0V96611,None reported,Yes,No
+2018 Cadillac CT6 3.6L Premium Luxury,,"97,000 mi.","$20,000 ",,,,,,,,,,
+2024 Chevrolet Silverado 1500 LT,"414 E North Ave Glendale Heights, IL 60139",4 mi.,"$46,538 $1,250 price drop",Summit White,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,,,
+2024 Jeep Grand Cherokee L Altitude,"1155 W Dundee Rd Arlington Heights, IL 60004",9 mi.,"$39,316 MSRP $48,935 $9,619 price drop",Bright White Clearcoat,Global Black,Four-wheel Drive,18–25,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",,,
+2024 Chevrolet Silverado 1500 RST,"9700 Indianapolis Blvd Highland, IN 46322",16 mi.,"$85,978 ",Glacier Blue Metallic,Jet Black,Four-wheel Drive,15–20,Gasoline,Automatic,"TurboMax 2.7L I-4 gasoline direct injection, DOHC, variable valv",,,
+2024 Ford Bronco Outer Banks,,,,,,,,,,,,,
+2017 Acura NSX Coupe,"27w110 North Ave West Chicago, IL 60185","10,897 mi.","$149,800 ",Curva Red,Red,All-wheel Drive,21–22,Gas/Electric Hyb,9-Speed Double Clutch,3.5L Hybrid Twin Turbo V6 573hp 476ft. lbs.,None reported,No,No
+2022 Lincoln Navigator Reserve,"1565 West Ogden Avenue Naperville, IL 60540","93,845 mi.","$55,477 $1,200 price drop",Infinite Black Metallic Clearcoat,Black Onyx,Four-wheel Drive,0–0,Gasoline,Automatic,"EcoBoost 3.5L V-6 port/direct injection, DOHC, variable valve co",None reported,Yes,No
+2024 Genesis G90 3.5T e-SC AWD,"2720 South Michigan Avenue Chicago, IL 60616",14 mi.,"$100,475 MSRP $101,475 $1,000 price drop",Vik Black,Black Monotone,All-wheel Drive,17–24,Gasoline,8-Speed Automatic,"3.5L V-6 port/direct injection, DOHC, variable valve control, tw",,,
+2024 Hyundai Venue SEL,"2720 South Michigan Avenue Chicago, IL 60616",10 mi.,"$23,269 MSRP $23,825",Ultimate Red,Black,Front-wheel Drive,29–33,Gasoline,IVT,"Smartstream 1.6L I-4 DOHC, CVVT variable valve control, regular",,,
+2020 Audi Q8 55 Premium Plus,,,,,,,,,,,,,
+2020 Genesis G90 3.3T Premium,"4257 W. North Ave. Chicago, IL 60639","41,673 mi.","$37,495 ",Himalayan Gray,Havana,All-wheel Drive,17–25,Gasoline,8-Speed Automatic,3.3L V6 24V GDI DOHC Twin Turbo,None reported,Yes,No
+2023 Volkswagen Arteon 2.0T SEL Premium R-Line,"1033 Chicago Ave Evanston, IL 60202",11 mi.,"–  $52,829 MSRP¹ $4,803 seller discount $48,026 Seller price ¹MSRP excludes destination & handling",Deep Black Pearl Effect,Titan Black,All-wheel Drive,22–31,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,,,
+2022 Nissan Rogue SL,"2038 Waukegan Rd Glenview, IL 60025","26,457 mi.","$26,295 $300 price drop",Black,Charcoal,All-wheel Drive,28–34,Gasoline,Automatic CVT,1.5L I3 12V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,No
+2019 Audi A5 Sportback 2.0T quattro Premium,,"55,026 mi.","$22,888 $1,000 price drop",,,,,,,,,,
+2014 Nissan 370Z Touring,,,,,,,,,,,,,
+2024 Hyundai Kona EV SEL,"8101 W 159th St Tinley Park, IL 60477",5 mi.,"$30,990 MSRP $38,490",Abyss Black Pearl,Gray,Front-wheel Drive,Automatic,Electric,KM8HC3A68RU005415,45939,,,
+2024 Chevrolet Silverado 1500 RST,"414 E North Ave Glendale Heights, IL 60139",0 mi.,"$49,185 $2,500 price drop",Sterling Gray Metallic,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,,,
+2020 Hyundai Elantra GT Base,,,,,,,,,,,,,
+2022 Ford Shelby GT500 Base,,,,,,,,,,,,,
+2024 Ford Bronco Big Bend,"9809 Indianapolis Blvd Highland, IN 46322",10 mi.,"$42,420 ",Carbonized Gray Metallic,Dark Gray,Four-wheel Drive,20–21,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,,,
+2016 Nissan 370Z Base,"1600 Hicks Rd Rolling Meadows, IL 60008","59,686 mi.","$23,990 ",BLUE,BLACK,Rear-wheel Drive,18–26,Gasoline,"Manual, 6-Spd","V6, 3.7 Liter",At least 1 accident or damage reported,No,No
+2017 Nissan Versa Note SV,,,,,,,,,,,,,
+2013 Honda Odyssey EX-L,,,,,,,,,,,,,
+2017 Jeep Renegade Altitude,"1565 West Ogden Avenue Naperville, IL 60540","97,431 mi.","$11,977 $900 price drop",Omaha Orange,Black,Four-wheel Drive,21–29,Gasoline,Automatic,"Tigershark MultiAir 2.4L I-4 variable valve control, regular unl",At least 1 accident or damage reported,Yes,No
+2024 Mercedes-Benz S-Class S 580 4MATIC,"407 Skokie Hwy Lake Bluff, IL 60044",20 mi.,"$143,635 ",Olive Metallic,Black,All-wheel Drive,–,Gasoline,Automatic,4.0L V8 32V GDI DOHC Twin Turbo,,,
+2024 Mercedes-Benz Sprinter 2500 High Roof,"407 Skokie Hwy Lake Bluff, IL 60044",20 mi.,"$81,906 ",Iridium Silver,Black,–,–,Diesel,9-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,,,
+2023 Chevrolet Colorado LT,"5859 South La Grange Road Countryside, IL 60525","1,043 mi.","$39,231 $207 price drop",Black,Black,Four-wheel Drive,19–23,Gasoline,8-Speed Automatic,2.7L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2017 Honda Odyssey EX-L,,,,,,,,,,,,,
+2020 Lotus Evora GT Base,,,,,,,,,,,,,
+2023 Hyundai Sonata Hybrid Limited,,2 mi.,"$36,856 ",,,,,,,,,,
+2020 Land Rover Range Rover Velar S,"336 E Ogden Ave Hinsdale, IL 60521","37,665 mi.","$37,897 $300 price drop",Eiger Grey,Ebony / Ebony,Four-wheel Drive,21–27,Gasoline,Automatic,I4,None reported,Yes,No
+2021 Lincoln Aviator Reserve AWD,"750 N York Road Elmhurst, IL 60126","44,588 mi.","$41,900 ",Blue,Sandstone,All-wheel Drive,17–24,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,None reported,Yes,No
+2024 Honda Odyssey Elite,,,,,,,,,,,,,
+2014 Nissan 370Z Base,,,,,,,,,,,,,
+2020 INFINITI QX60 Pure,"1601 Ogden Ave. Downers Grove, IL 60515","33,911 mi.","$24,746 ",Liquid Platinum,Graphite,All-wheel Drive,19–26,Gasoline,CVT,"VQ 3.5L V-6 gasoline direct injection, DOHC, VVEL variable valve",None reported,Yes,No
+2020 INFINITI QX60 Luxe,"1601 Ogden Ave. Downers Grove, IL 60515","53,297 mi.","$26,508 ",Majestic White,Wheat,All-wheel Drive,19–26,Gasoline,CVT,"VQ 3.5L V-6 gasoline direct injection, DOHC, VVEL variable valve",At least 1 accident or damage reported,No,No
+2023 Chevrolet Blazer 2LT,"300 Roosevelt Rd Glen Ellyn, IL 60137","16,260 mi.","$31,754 $845 price drop",Summit White,Jet Black,All-wheel Drive,22–27,Gasoline,9-Speed Automatic with Overdrive,"2L I-4 gasoline direct injection, DOHC, VVT variable valve contr",None reported,Yes,No
+2024 Ford Escape PHEV,,,,,,,,,,,,,
+2024 Ford Escape Active,"9809 Indianapolis Blvd Highland, IN 46322",10 mi.,"$29,935 ",White,Ebony,Front-wheel Drive,27–34,Gasoline,8-Speed Automatic,1.5L I3 12V PDI DOHC Turbo,,,
+2021 Toyota RAV4 XLE,"9604 Indianapolis Blvd Highland, IN 46322","58,605 mi.","$25,476 $1,524 price drop",White,–,Front-wheel Drive,28–35,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,None reported,Yes,No
+2024 Mazda CX-50 2.5 S Select Package,"110 W. Golf Rd Schaumburg, IL 60195",6 mi.,"$31,695 MSRP $32,555 $860 price drop",Soul Red Crystal Metallic,Black W/ Gray,All-wheel Drive,24–30,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,,,
+2020 Ford EcoSport SE,,,,,,,,,,,,,
+2022 Subaru Outback Touring,"1911 N Rand Rd Palatine, IL 60074","6,146 mi.","$30,933 ",Crystal Black Silica,Java Brown,All-wheel Drive,26–33,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,None reported,Yes,No
+2024 Mercedes-Benz GLE 350 Base 4MATIC,"1349 Indianapolis Blvd Schererville, IN 46375",2 mi.,"$79,980 ",Black,–,All-wheel Drive,20–27,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Nissan Pathfinder Rock Creek,"5750 S La Grange Rd Countryside, IL 60525",6 mi.,"$45,970 MSRP $45,970",Black,Charcoal,Four-wheel Drive,20–23,Gasoline,9-Speed Automatic,3.5L V6 24V GDI DOHC,,,
+2018 Ferrari GTC4Lusso V12,"420 E. Ogden Ave. Hinsdale, IL 60521","5,894 mi.","$247,999 ",Nero Daytona Metallic,Terra Bruciata,All-wheel Drive,12–17,Gasoline,7-Speed Automatic with Auto-Shift,6.3L V12 48V GDI DOHC,None reported,No,No
+2024 Volvo S90 Recharge Plug-In Hybrid T8 Ultimate,"770 Frontage Rd Northfield, IL 60093",0 mi.,"$72,595 MSRP $72,595",Platinum Gray,Charcoal,All-wheel Drive,–,Hybrid,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo Hybrid,,,
+2007 Chevrolet Cobalt LT,,,,,,,,,,,,,
+2023 Ford Bronco Sport Heritage,"7301 Kingery Hwy Willowbrook, IL 60527",6 mi.,"$33,862 MSRP $36,315 $1,133 price drop",Cactus Green / Gray,Navy Pier,Four-wheel Drive,25–28,Gasoline,8-Speed Automatic,1.5L I3 12V PDI DOHC Turbo,,,
+2024 Jeep Compass Latitude,"2800 Patriot Blvd Glenview, IL 60026",9 mi.,"$34,636 MSRP $36,930 $1,294 price drop",Silver Zynith,Black,Four-wheel Drive,24–32,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2022 Nissan Pathfinder SV 4WD,"1601 Ogden Ave. Downers Grove, IL 60515","21,074 mi.","$30,414 $1,880 price drop",Super Black,Charcoal,Four-wheel Drive,21–27,Gasoline,9-Speed Automatic,"3.5L V-6 gasoline direct injection, DOHC, variable valve control",None reported,Yes,No
+2017 RAM 3500 Tradesman,,,,,,,,,,,,,
+2024 Chevrolet Malibu FWD RS,"601 Ogden Ave Lisle, IL 60532",19 mi.,"$24,496 MSRP $27,595",Mosaic Black Metallic,Jet Black,Front-wheel Drive,27–35,Gasoline,Automatic,"ECOTEC 1.5L I-4 gasoline direct injection, DOHC, VVT variable va",,,
+2024 Chevrolet Silverado 1500 RST,"414 E North Ave Glendale Heights, IL 60139",0 mi.,"$52,740 $2,500 price drop",Sterling Gray Metallic,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,5.3L V8 16V GDI OHV,,,
+2024 Acura MDX Standard,,,,,,,,,,,,,
+2024 Jaguar XF R-Dynamic SE,,,,,,,,,,,,,
+2024 Acura MDX Advance Package,"1149 West Golf Road Hoffman Estates, IL 60169","2,060 mi.","$65,450 MSRP $65,450",Fathom Blue Pearl,–,All-wheel Drive,19–25,Gasoline,Automatic,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",,,
+2023 Mazda CX-30 2.5 Turbo Premium Package,,"7,175 mi.","$31,495 $2,703 price drop",,,,,,,,,,
+2021 Honda Civic Type R Touring,,,,,,,,,,,,,
+2014 Cadillac CTS 3.6L Premium,,,,,,,,,,,,,
+2014 smart ForTwo Passion,"101 N Wolf Rd Hillside, IL 60162","58,293 mi.","$11,599 ",White,Black,Rear-wheel Drive,34–38,Gasoline,5-Speed Automatic with Auto-Shift,1.0L I3 12V MPFI DOHC,None reported,Yes,No
+2022 Dodge Challenger SRT Hellcat,"200 W Grand Ave Elmhurst, IL 60126","3,828 mi.","$74,987 $502 price drop",Pitch Black Clearcoat,Black,Rear-wheel Drive,13–22,Gasoline,Automatic,"HEMI 6.2L V-8 intercooled supercharger, engine with 717HP",None reported,Yes,No
+2017 GMC Acadia SLT-1,,"96,128 mi.","$15,707 $249 price drop",,,,,,,,,,
+2014 Cadillac XTS Vsport Premium,"14030 S Cicero Ave Crestwood, IL 60445","131,038 mi.","$12,995 ",Sapphire Blue Metallic,Black,All-wheel Drive,16–24,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, variable valve control",None reported,No,No
+2024 Jeep Compass Limited,,,,,,,,,,,,,
+2024 Jeep Grand Cherokee Laredo,"2800 Patriot Blvd Glenview, IL 60026",10 mi.,"$44,175 MSRP $49,175 $400 price drop",Baltic Gray,Global Black,Four-wheel Drive,19–26,Gasoline,8-Speed Automatic,3.6L V6 OHV,,,
+2016 Dodge Grand Caravan SXT,"3201 167th St Hazel Crest, IL 60429","70,659 mi.","$29,999 $5,000 price drop",Bright White Clearcoat,Tan,Front-wheel Drive,17–25,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, VVT variable valve control, regular unl",None reported,Yes,No
+2016 Nissan Rogue SV,"1601 Ogden Ave. Downers Grove, IL 60515","53,627 mi.","$13,997 $1,899 price drop",Arctic Blue Metallic,–,Front-wheel Drive,26–33,Gasoline,CVT with Xtronic,"2.5L I-4 DOHC, variable valve control, regular unleaded, engine",At least 1 accident or damage reported,No,No
+2023 Ferrari Roma Base,"8760 W 159th St Orland Park, IL 60462",228 mi.,"$253,990 ",Giallo Modena,Terra Bruciata,Rear-wheel Drive,17–22,Gasoline,8-Speed Automatic with Auto-Shift,3.9L V8 32V GDI DOHC Twin Turbo,None reported,Yes,No
+2024 Hyundai Palisade SEL,"1020 E Golf Rd Schaumburg, IL 60173",12 mi.,"$43,575 MSRP $43,575",Silver,Black,All-wheel Drive,19–24,Gasoline,8-Speed Automatic,3.8L V6 24V GDI DOHC,,,
+2013 Lamborghini Gallardo LP560-4,"641 Estes Ave Schaumburg, IL 60193","8,479 mi.","$147,895 ",Nero Noctis,Nero Perseus,All-wheel Drive,20,Gasoline,6-Speed Automatic,5.2L V10 40V GDI DOHC,None reported,No,No
+2021 Dodge Durango SXT,,,,,,,,,,,,,
+2023 Mercedes-Benz AMG E 63 S 4MATIC,"27w110 North Ave West Chicago, IL 60185",140 mi.,"$145,800 ",Black,Black w/ Silver Stitching,All-wheel Drive,16–24,Gasoline,9-Speed Shiftable Automatic,4.0L Twin Turbo V8 603hp 627ft. lbs.,None reported,Yes,No
+2024 Kia Forte LX,"1400 E Dundee Rd Palatine, IL 60074",15 mi.,"$19,618 MSRP $21,440",Aurora Black,Black,Front-wheel Drive,30–41,Gasoline,Automatic,"2L I-4 DOHC, D-CVVT variable valve control, regular unleaded, en",,,
+2024 Chevrolet Corvette Stingray w/2LT,"151 E. Lake Cook Dr. Palatine, IL 60074",60 mi.,"$93,715 $2,595 price drop",Rip Tide Blue,Natural,Rear-wheel Drive,16–24,Gasoline,8-Speed Automatic with Auto-Shift,6.2L V8 16V GDI OHV,,,
+2024 Lincoln Nautilus Reserve,"1564 West Ogden Avenue Naperville, IL 60540",11 mi.,"$66,720 MSRP $67,720",White Platinum Tri-Coat Metallic,Black Onyx,All-wheel Drive,–,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2023 BMW iX M60,"407 Skokie Hwy Lake Bluff, IL 60044","6,728 mi.","$88,999 $900 price drop",Storm Bay Metallic,Black,All-wheel Drive,1-Speed Automatic,Electric,WB533CF05PCM88041,B230658,None reported,No,No
+2016 INFINITI Q70 3.7X,,,,,,,,,,,,,
+2024 Hyundai Tucson Limited,,,,,,,,,,,,,
+2024 Subaru Forester Premium,"6191 Joliet Rd Countryside, IL 60525",10 mi.,"$33,655 ",Crystal White Pearl,Gray,All-wheel Drive,26–33,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,,,
+2024 Subaru Legacy,"6191 Joliet Rd Countryside, IL 60525",6 mi.,"$33,362 ",Magnetite Gray Metallic,Gray,All-wheel Drive,27–35,Gasoline,Automatic CVT,2.5L H4 16V GDI DOHC,,,
+2022 Chrysler 300 Touring,"200 W Grand Ave Elmhurst, IL 60126","3,605 mi.","$27,315 ",Bright White Clearcoat,Black,Rear-wheel Drive,19–30,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",None reported,Yes,No
+2018 Nissan Versa Note SV,"2000 Frontage Rd Glencoe, IL 60022","119,619 mi.","$12,599 ",Black,Black,Front-wheel Drive,31–39,Gasoline,Automatic CVT,1.6L I4 16V MPFI DOHC,At least 1 accident or damage reported,Yes,No
+2023 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",288 mi.,"$85,650 ",Gray Metallic,Black,All-wheel Drive,1-Speed Automatic,Electric,4JGGM1CB0PA018116,PA018116,,,
+2015 BMW X5 xDrive35i,"1543 Ogden Ave Downers Grove, IL 60515","99,491 mi.","$18,888 $1,000 price drop",Black,Black,All-wheel Drive,18–27,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2023 Nissan Pathfinder S 4WD,"1601 Ogden Ave. Downers Grove, IL 60515","22,519 mi.","$30,557 $1,441 price drop",Gun Metallic,Charcoal,Four-wheel Drive,21–27,Gasoline,9-Speed Automatic,"3.5L V-6 gasoline direct injection, DOHC, variable valve control",None reported,Yes,No
+2020 Honda CR-V AWD EX,,,,,,,,,,,,,
+2020 Toyota Yaris Sedan LE,"250 E Golf Rd Schaumburg, IL 60173","38,357 mi.","$19,998 ",Gray,Black,Front-wheel Drive,32–40,Gasoline,6-Speed Automatic,1.5L I4 16V GDI DOHC,None reported,Yes,No
+2020 Maserati Levante Base,,,,,,,,,,,,,
+2019 Chevrolet Blazer RS,"9700 Indianapolis Blvd Highland, IN 46322","71,132 mi.","$26,700 $1,800 price drop",Summit White,Jet Black,All-wheel Drive,18–25,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, VVT variable valve con",None reported,No,No
+2024 Acura MDX Technology Package,"1149 West Golf Road Hoffman Estates, IL 60169",15 mi.,"$59,000 MSRP $59,000",Liquid Carbon Metallic,Ebony,All-wheel Drive,19–25,Gasoline,Automatic,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",,,
+2019 Land Rover Range Rover Sport HSE Dynamic,"1565 West Ogden Avenue Naperville, IL 60540","65,888 mi.","$38,977 $1,000 price drop",Narvik Black,Ivory/Ebony/Ebony/Ivory/Ebony,Four-wheel Drive,17–23,Gasoline,Automatic,"3L V-6 gasoline direct injection, DOHC, variable valve control,",None reported,No,No
+2024 Mercedes-Benz GLB 250 Base 4MATIC,"1569 W. Ogden Ave. Naperville, IL 60540",17 mi.,"$51,325 ",Polar White,Macchiato Beige,All-wheel Drive,22–30,Gasoline,8-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Jeep Grand Cherokee Limited,"1565 West Ogden Avenue Naperville, IL 60540",9 mi.,"$44,185 MSRP $52,810 $500 price drop",Baltic Gray Metallic Clearcoat,B6x7,Four-wheel Drive,19–26,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",,,
+2024 Ford Transit-250 148 WB Medium Roof Cargo,"330 E Roosevelt Rd West Chicago, IL 60185",12 mi.,"$59,815 MSRP $59,815 $2,500 price drop",Oxford White,Dark Palazzo Gray,All-wheel Drive,–,E85 Flex Fuel,Automatic,3.5L V6 24V PDI DOHC Flexible Fuel,,,
+2023 GMC Sierra 1500 AT4,,,,,,,,,,,,,
+2022 Honda CR-V Hybrid EX,,,,,,,,,,,,,
+2017 Audi A4 2.0T Premium Plus,,,,,,,,,,,,,
+2022 Honda HR-V EX-L,,,,,,,,,,,,,
+2019 Maserati Quattroporte S Q4,"301 Waukegan Rd Glenview, IL 60025","15,257 mi.","$43,999 $6,000 price drop",Bianco,Nero,All-wheel Drive,16–23,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,None reported,Yes,No
+2022 RAM 2500 Big Horn Crew Cab 4x4 6'4' Box,"200 W Grand Ave Elmhurst, IL 60126","4,446 mi.","$52,947 ",Billet Silver Metallic Clearcoat,Diesel Gray/Black,Four-wheel Drive,0–0,Diesel,Automatic,"Cummins 6.7L I-6 diesel direct injection, VVT intercooled turbo,",None reported,Yes,No
+2011 Volkswagen GTI 2-Door,"1620 Waukegan Rd Glenview, IL 60025","47,259 mi.","$12,995 ",Gray,–,Front-wheel Drive,24–33,Gasoline,6-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2009 INFINITI G37 x,"3128 W 147th St Posen, IL 60469","133,369 mi.","$6,999 ",Gray,Black,All-wheel Drive,17–25,Gasoline,Automatic,3.7L DOHC 24-valve V6 aluminum engine -inc: variable valve event,At least 1 accident or damage reported,No,No
+2022 Porsche Taycan Cross Turismo Turbo S,"150 W Ogden Ave Westmont, IL 60559","3,700 mi.","$129,800 ",Gentian Blue Metallic,Basalt Black,All-wheel Drive,2-Speed Automatic,Electric,WP0BC2Y15NSA74201,UM6444,None reported,No,No
+2021 Ford F-150 XLT,"1815 W. Ogden Ave Downers Grove, IL 60515","15,601 mi.","$45,900 ",Agate Black Metallic,Black,Four-wheel Drive,19–22,Gasoline,10-Speed Automatic,2.7L V6 24V PDI DOHC Twin Turbo,None reported,Yes,Yes
+2022 Nissan Frontier PRO-4X,,"20,398 mi.","$29,898 $100 price drop",,,,,,,,,,
+2014 Jeep Grand Cherokee Summit,"2311 Ogden Ave Downers Grove, IL 60515","96,277 mi.","$17,068 ",Bright White Clearcoat,Black,Four-wheel Drive,17–24,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,At least 1 accident or damage reported,Yes,Yes
+2024 Ford Explorer ST,"8100 West 159th Street Orland Park, IL 60462",10 mi.,"$61,990 MSRP $63,020",Stone Blue Metallic,Ebony,Four-wheel Drive,–,Gasoline,10-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,,,
+2024 Chevrolet Silverado 1500 LT,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$51,085 $3,559 price drop",Radiant Red,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,5.3L V8 16V GDI OHV,,,
+2022 Volkswagen Taos 1.5T S,"18800 South Oak Park Ave Tinley Park, IL 60477","13,146 mi.","$25,998 ",Pure White,Gray / Black,All-wheel Drive,25–32,Gasoline,7-Speed Automatic with Auto-Shift,1.5L I4 16V GDI DOHC Turbo,None reported,Yes,Yes
+2020 Chevrolet Traverse LT Cloth,"2110 Ogden Ave Lisle, IL 60532","114,955 mi.","$18,896 $100 price drop",Mosaic Black Metallic,Jet Black,All-wheel Drive,17–25,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,No,No
+2019 Toyota Yaris Sedan L,"2275 Aurora Ave Naperville, IL 60540","36,857 mi.","$16,533 $331 price drop",Chromium,Gray,Front-wheel Drive,32–40,Gasoline,6-Speed Automatic,1.5L I4 16V GDI DOHC,None reported,Yes,No
+2012 Lexus LS 460 Base,"6540 95th St Oak Lawn, IL 60453","84,595 mi.","$20,998 ",Silver,Gray,Rear-wheel Drive,16–24,Gasoline,8-Speed Automatic,4.6L V8 32V PDI DOHC,At least 1 accident or damage reported,Yes,No
+2020 Cadillac XT6 Premium Luxury AWD,"5859 South La Grange Road Countryside, IL 60525","46,001 mi.","$33,971 $382 price drop",Crystal White Tri-Coat,Dark Auburn,All-wheel Drive,17–24,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,Yes,Yes
+2024 Audi S4 Premium Plus,"7000 Golf Rd Morton Grove, IL 60053",9 mi.,"$62,990 ",–,–,All-wheel Drive,21–29,Gasoline,Automatic,Intercooled Turbo Premium Unleaded V-6 3.0 L/183,,,
+2023 Ferrari Portofino M Base,,,,,,,,,,,,,
+2016 Mercedes-Benz AMG G AMG G 63 4MATIC,"555 Executive Dr Willowbrook, IL 60527","59,386 mi.","$71,995 $4,000 price drop",Palladium Silver Metallic,Designo Black,All-wheel Drive,12–14,Gasoline,7-Speed Automatic,5.5L V8 32V GDI DOHC Twin Turbo,At least 1 accident or damage reported,No,No
+2024 Jeep Grand Cherokee L Overland,"2800 Patriot Blvd Glenview, IL 60026",13 mi.,"$59,385 MSRP $65,385 $400 price drop",Baltic Gray,Global Black,Four-wheel Drive,18–25,Gasoline,8-Speed Automatic,3.6L V6 OHV,,,
+2021 Lexus RC 300 F Sport,,,,,,,,,,,,,
+2024 Jeep Wrangler 4xe High Altitude,,,,,,,,,,,,,
+2021 INFINITI Q50 3.0t LUXE,"18800 South Oak Park Ave Tinley Park, IL 60477","28,700 mi.","$29,998 ",Midnight Black,Stone,All-wheel Drive,19–27,Gasoline,7-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,At least 1 accident or damage reported,Yes,Yes
+2016 BMW X5 xDrive50i,"2110 Ogden Ave Lisle, IL 60532","94,937 mi.","$22,491 $300 price drop",Alpine White,Black,All-wheel Drive,15–21,Gasoline,8-Speed Automatic,4.4L V8 32V GDI DOHC Twin Turbo,At least 1 accident or damage reported,No,No
+2022 Lexus NX 250 Base,,"8,497 mi.","$41,995 ",,,,,,,,,,
+2024 Ford F-250 XL,,,,,,,,,,,,,
+2024 Mercedes-Benz Sprinter 2500 144 WB,"1000 W Golf Road Hoffman Estates, IL 60169",11 mi.,"$81,743 MSRP $81,743",Brilliant Blue,Black,–,–,Diesel,9-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,,,
+2023 BMW X5 M Base,,"14,260 mi.","$97,800 ",,,,,,,,,,
+2018 Ford F-150 XLT,"1 Sherwood Terrace Lake Bluff, IL 60044","93,515 mi.","$27,966 ",White,Medium Earth Gray,Four-wheel Drive,–,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,None reported,No,No
+2018 Ferrari GTC4Lusso T,"990 N Shore Dr Lake Bluff, IL 60044","7,543 mi.","$199,900 ",Black,Black,Rear-wheel Drive,15–21,Gasoline,7-Speed Automatic with Auto-Shift,3.9L V8 32V GDI DOHC Twin Turbo,None reported,No,No
+2017 Chevrolet Silverado 1500 LT,"1515 W Ogden Ave Naperville, IL 60540","142,124 mi.","$22,508 $1,182 price drop",Siren Red Tintcoat,Black,Four-wheel Drive,22,Gasoline,6-Speed Electronically Controlled Automatic with O,5.3L V8 16V GDI OHV,None reported,No,No
+2024 Chevrolet Silverado 2500 WT,"1 Sherwood Terrace Lake Bluff, IL 60044",9 mi.,"$50,654 $1,000 price drop",Summit White,Black,Four-wheel Drive,–,Gasoline,10-Speed Automatic,6.6L V8 16V GDI OHV,,,
+2017 Cadillac CT6 3.6L Premium Luxury,"4580 N Elston Ave Chicago, IL 60630","92,377 mi.","$21,985 ",Phantom Gray Metallic,Light Platinum / Jet Black,All-wheel Drive,18–27,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,At least 1 accident or damage reported,No,No
+2024 Hyundai Venue SEL,"6750 W Grand Ave Chicago, IL 60707",10 mi.,"$23,269 MSRP $23,825",Lunar White,Gray,Front-wheel Drive,–,Gasoline,IVT,1.6L I4 16V MPFI DOHC,,,
+2021 Toyota Corolla LE,,"67,826 mi.","$18,795 $213 price drop",,,,,,,,,,
+2022 Mercedes-Benz AMG GLE 63 S,,,,,,,,,,,,,
+2019 Mercedes-Benz AMG GT Base,"1850 Holste Rd Northbrook, IL 60062","30,685 mi.","$84,800 ",designo Diamond White Metallic,Black,All-wheel Drive,15–20,Gasoline,9-Speed Automatic,V8,None reported,No,No
+2004 Volvo S80 T6,"Steve from Elk Grove Village, IL 60007","188,000 mi.","$4,000 ",White,Beige,Front-wheel Drive,Gasoline,A/T,194.0HP 2.9L Straight 6 Cylinder Engine Gasoline Fuel,YV1TS92D641342221,At least 1 accident or damage reported,Yes,No
+2017 Jaguar F-PACE S,"545 E. North Ave. Carol Stream, IL 60188","48,994 mi.","$26,995 ",Ammonite Grey,Brogue / Jet,All-wheel Drive,18–23,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Supercharged,None reported,No,No
+2018 Jaguar F-PACE 30t Premium,"2110 Ogden Ave Lisle, IL 60532","65,410 mi.","$21,492 $250 price drop",Narvik Black,Ebony,All-wheel Drive,22–27,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,No,No
+2017 RAM 1500 Express,"2110 Ogden Ave Lisle, IL 60532","51,315 mi.","$24,976 $969 price drop",True Blue Pearlcoat,Diesel Gray,Four-wheel Drive,16–23,Gasoline,8-Speed Automatic,5.7L V8 16V MPFI OHV,At least 1 accident or damage reported,Yes,No
+2023 Jeep Renegade Trailhawk,"208 W Golf Rd Schaumburg, IL 60195","4,551 mi.","$23,430 $1,702 price drop",Black Clearcoat,Black,Four-wheel Drive,22–27,Gasoline,9-Speed 948TE Automatic,"1.3L I-4 gasoline direct injection, Multiair variable valve cont",,,
+2024 Land Rover Range Rover Sport Dynamic SE,,,,,,,,,,,,,
+2024 Acura Integra A-SPEC,,12 mi.,"$35,595 MSRP $35,595",Apex Blue Pearl,Ebony,Front-wheel Drive,29–36,Gasoline,Automatic,"1.5L I-4 gasoline direct injection, DOHC, VTEC variable valve co",,,
+2016 BMW ALPINA B6 Gran Coupe Base,"James from Naperville, IL 60565","47,700 mi.","$47,999 ",Black,Black,All-wheel Drive,Gasoline,A/T,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,WBA6D6C58GGK18310,None reported,Yes,No
+2021 Mercedes-Benz AMG G 63 Base,,"34,434 mi.","$166,489 ",,,,,,,,,,
+2020 Jeep Wrangler Unlimited Sahara,,,,,,,,,,,,,
+2024 Jeep Wrangler Sport S,"1565 West Ogden Avenue Naperville, IL 60540","1,024 mi.","$41,977 $1,000 price drop",Black Clearcoat,Black,Four-wheel Drive,20–21,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, intercooled turbo, premi",None reported,Yes,No
+2024 Genesis G90 3.5T e-SC AWD,"2720 South Michigan Avenue Chicago, IL 60616",26 mi.,"$101,605 MSRP $101,605",Vik Black,Black Monotone,All-wheel Drive,17–24,Gasoline,8-Speed Automatic,"3.5L V-6 port/direct injection, DOHC, variable valve control, tw",,,
+2017 Cadillac CT6 3.6L Standard,,,,,,,,,,,,,
+2017 Cadillac CT6 3.6L Platinum,"7373 N Cicero Ave Lincolnwood, IL 60712","70,849 mi.","$35,501 ",Crystal White Tricoat,Jet Black,All-wheel Drive,18–27,Gasoline,8-Speed Automatic,"3.6L V-6 gasoline direct injection, DOHC, VVT variable valve con",At least 1 accident or damage reported,Yes,No
+2024 Genesis G90 3.5T e-SC,,,,,,,,,,,,,
+2017 Cadillac CT6 3.6L Luxury,"1030 Republic Dr Addison, IL 60101","19,702 mi.","$33,950 ",Radiant Silver Metallic,Light Platinum w/Jet Black Accents,All-wheel Drive,18–27,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, VVT variable valve con",None reported,No,No
+2016 Lexus RC 300 Base,,,,,,,,,,,,,
+2024 Genesis G90 3.5T e-SC,"1866 Ogden Avenue Downers Grove, IL 60515",2 mi.,"$101,705 MSRP $101,705",Uyuni White,Black,All-wheel Drive,17–24,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,,,
+2023 Nissan Maxima 3.5 Platinum,"1601 Ogden Ave. Downers Grove, IL 60515","8,894 mi.","$36,207 $580 price drop",Super Black,Cashmere,Front-wheel Drive,20–30,Gasoline,CVT with Xtronic,"VQ 3.5L V-6 gasoline direct injection, DOHC, CVTCS variable valv",None reported,Yes,No
+2016 Cadillac CT6 3.6L Luxury,"1644 Ogden Ave Downers Grove, IL 60515","57,119 mi.","$24,985 ",Dark Emerald Metallic,Gray,All-wheel Drive,18–27,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, VVT variable valve con",None reported,Yes,No
+2014 Audi A8 L 3.0T,,,,,,,,,,,,,
+2024 Chevrolet Silverado 1500 Custom Trail Boss,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$48,218 $500 price drop",Red,Jet Black,Four-wheel Drive,16–17,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,,,
+2024 Ford Bronco Outer Banks,"9809 Indianapolis Blvd Highland, IN 46322",10 mi.,"$51,660 ",Velocity Blue Metallic,Roast,Four-wheel Drive,20–21,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,,,
+2024 Kia Forte GT-Line,"1400 E Dundee Rd Palatine, IL 60074",163 mi.,"$21,775 MSRP $23,710",Currant Red,Black,Front-wheel Drive,28–39,Gasoline,Automatic,"2L I-4 DOHC, D-CVVT variable valve control, regular unleaded, en",,,
+2018 Cadillac CT6 3.0L Twin Turbo Platinum,,"70,088 mi.","$36,641 ",,,,,,,,,,
+2024 Acura MDX Technology Package,,,,,,,,,,,,,
+2020 Cadillac CT6 Luxury,,,,,,,,,,,,,
+2024 Mercedes-Benz C-Class C 300 4MATIC,"1569 W. Ogden Ave. Naperville, IL 60540",440 mi.,"$52,055 ",Graphite Gray Metallic,Sienna Brown,All-wheel Drive,23–33,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Chevrolet Equinox 1LT,"1 Sherwood Terrace Lake Bluff, IL 60044",7 mi.,"$32,660 $1,000 price drop",Mosaic Black Metallic,Jet Black,All-wheel Drive,24–30,Gasoline,6-Speed Automatic,1.5L I4 16V GDI DOHC Turbo,,,
+2024 Jeep Grand Cherokee Altitude,"1565 West Ogden Avenue Naperville, IL 60540",9 mi.,"$39,803 MSRP $47,530",Silver Zynith,Global Black,Four-wheel Drive,19–26,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",,,
+2024 Audi Q3 S line Premium Plus 45 TFSI quattro,"1523 W North Ave Chicago, IL 60642",3 mi.,"$45,355 ",MYTHOS BLACK,BLACK INT,All-wheel Drive,20–28,Gasoline,Automatic,2.0L 4-Cyl Engine,,,
+1997 Jaguar Vanden Plas Base,,,,,,,,,,,,,
+2024 Subaru Crosstrek Wilderness,,,,,,,,,,,,,
+2024 Subaru Crosstrek Premium,"6191 Joliet Rd Countryside, IL 60525",10 mi.,"$28,782 ",Crystal White Pearl,Black,All-wheel Drive,27–34,Gasoline,Automatic CVT,2.0L H4 16V GDI DOHC,,,
+2023 Subaru WRX Limited,"6191 Joliet Rd Countryside, IL 60525",6 mi.,"$36,857 ",Crystal Black Silica,Black,All-wheel Drive,19–26,Gasoline,6-Speed Manual,2.4L H4 16V GDI DOHC Turbo,,,
+2013 Ford F-350 King Ranch,,"140,615 mi.","$33,995 ",–,–,Four-wheel Drive,0–0,Diesel,Auto HD 6-Spd SelectShift,"Powerstroke 6.7L V-8 diesel direct injection, intercooled turbo,",,,
+2023 Honda Civic Type R Base,,,,,,,,,,,,,
+2018 Audi Q7 3.0T Prestige,,,,,,,,,,,,,
+2024 Mercedes-Benz EQE 350 Base 4MATIC,"200 E Ogden Ave Westmont, IL 60559",6 mi.,"$83,575 ",Polar White,Black,All-wheel Drive,1-Speed Automatic,Electric,W1KEG1CB9RF050495,RF050495,,,
+2023 Honda Civic Type R Base,"2000 Frontage Rd Glencoe, IL 60022","7,780 mi.","$51,998 ",Blue,Red,Front-wheel Drive,22–28,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,,,
+2023 Ford F-150 XLT,,,,,,,,,,,,,
+2018 Cadillac CT6 3.0L Twin Turbo Platinum,"8425 159th St Tinley Park, IL 60487","50,995 mi.","$39,950 ",Crystal White Tri-Coat,Very Light Cashmere,All-wheel Drive,18–26,Gasoline,8-Speed Automatic,3.0L V6 24V GDI DOHC Twin Turbo,None reported,No,No
+2018 Cadillac CT6 3.6L Premium Luxury,"8425 159th St Tinley Park, IL 60487","74,484 mi.","$28,550 $400 price drop",Stone Gray Metallic,Light Platinum,All-wheel Drive,18–27,Gasoline,8-Speed Automatic,3.6L V6 24V GDI DOHC,At least 1 accident or damage reported,No,No
+2023 Chevrolet Trailblazer LT,"18800 South Oak Park Ave Tinley Park, IL 60477","1,438 mi.","$26,998 ",White,Black,Front-wheel Drive,29–31,Gasoline,Automatic CVT,1.2L I3 12V GDI DOHC Turbo,,,
+2024 Subaru Outback Onyx Edition XT,,,,,,,,,,,,,
+2018 Honda Civic Type R Touring,,,,,,,,,,,,,
+2016 Cadillac CT6 3.0L Twin Turbo Platinum,,,,,,,,,,,,,
+2018 Cadillac CT6 2.0L Turbo Luxury,,"70,885 mi.","$26,495 $500 price drop",,,,,,,,,,
+2022 BMW X5 M Base,"Ryan from Chicago, IL 60622","21,500 mi.","$89,500 ",White,Black,All-wheel Drive,Gasoline,8-Speed A/T,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,5YMJU0C08N9J30087,None reported,Yes,Yes
+2014 Volkswagen Touareg X,"3325 W Montrose Ave Chicago, IL 60618","133,204 mi.","$10,788 $483 price drop",Pure White,Cornsilk Beige,All-wheel Drive,17–23,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, variable valve control",At least 1 accident or damage reported,Yes,No
+2024 Hyundai Venue SEL,,,,,,,,,,,,,
+2023 Toyota Highlander LE,,,,,,,,,,,,,
+2006 Mazda RX-8 Base,"594 W Lake St Elmhurst, IL 60126","57,950 mi.","$11,995 ",Phantom Blue Mica,Black,Rear-wheel Drive,18–25,Gasoline,6-Speed Automatic,1.3L Rotary MPFI OHV,None reported,No,No
+2022 Jeep Wrangler Unlimited Sport,,,,,,,,,,,,,
+2023 Honda Civic Type R Base,,,,,,,,,,,,,
+2015 BMW 435 Gran Coupe i xDrive,,,,,,,,,,,,,
+2016 Audi Q3 2.0T Prestige,,,,,,,,,,,,,
+2012 Volkswagen GTI 2-Door,,,,,,,,,,,,,
+2024 Hyundai Tucson Limited,,,,,,,,,,,,,
+2024 Nissan Kicks SV,,,,,,,,,,,,,
+2021 Chevrolet Tahoe LT,,,,,,,,,,,,,
+2024 Nissan Kicks SV,,,,,,,,,,,,,
+2021 Ford Explorer ST,,,,,,,,,,,,,
+2013 Volkswagen Touareg TDI Lux,,,,,,,,,,,,,
+2024 Mercedes-Benz Sprinter 2500 Standard Roof,"407 Skokie Hwy Lake Bluff, IL 60044",10 mi.,"$61,576 ",Arctic White,Black,Rear-wheel Drive,–,Diesel,9-Speed Automatic,2.0L I4 16V DDI DOHC Turbo Diesel,,,
+2021 Chevrolet Blazer 2LT,,"34,190 mi.","$26,867 ",,,,,,,,,,
+2024 Volkswagen Atlas 2.0T SE,,,,,,,,,,,,,
+2015 BMW 435 Gran Coupe i,"7601 Skokie Blvd Skokie, IL 60077","86,232 mi.","$16,491 $500 price drop",Alpine White,Black,Rear-wheel Drive,21–32,Gasoline,8-Speed Automatic,"3L I-6 gasoline direct injection, DOHC, variable valve control,",None reported,No,No
+2019 Toyota Highlander Hybrid Limited,"6900 Dempster St Morton Grove, IL 60053","46,592 mi.","$33,433 $102 price drop",Blizzard Pearl,Saddle Tan,All-wheel Drive,29–27,Hybrid,Automatic CVT,3.5L V6 24V PDI DOHC Hybrid,At least 1 accident or damage reported,Yes,No
+2024 Chevrolet Silverado 1500 RST,"9510 Joliet Rd Hodgkins, IL 60525",10 mi.,"$59,807 MSRP $62,955 $648 price drop",Black,Black,Four-wheel Drive,18–21,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,,,
+2017 Volkswagen Tiguan 2.0T Sport,,"80,832 mi.","$14,350 ",,,,,,,,,,
+2017 Ferrari California T,"420 E. Ogden Ave. Hinsdale, IL 60521","13,140 mi.","$154,999 ",Nero DS 1250,Nero,Rear-wheel Drive,16–23,Gasoline,7-Speed Automatic with Auto-Shift,3.9L V8 32V GDI DOHC Twin Turbo,None reported,No,No
+2013 Cadillac XTS Luxury,"530 W Grand Ave Elmhurst, IL 60126","113,994 mi.","$11,999 ",Pewter,Red,All-wheel Drive,17–26,Gasoline,Automatic,"Engine, 3.6L SIDI DOHC V6 VVT (304 hp [224 kW @ 6800 rpm, 264 lb",None reported,No,No
+2024 Honda Civic Sport,"300 W Grand Ave Elmhurst, IL 60126",3 mi.,"$27,100 ",Sonic Gray Pearl,Black,Front-wheel Drive,30–37,Gasoline,Variable,Regular Unleaded I-4 2.0 L/122,,,
+2010 Volkswagen GTI 4-Door,"555 S IL Route 83 Elmhurst, IL 60126","111,102 mi.","$8,595 $300 price drop",Gray,Titan Black,Front-wheel Drive,21–31,Gasoline,6-Speed Manual,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,No
+2013 Volkswagen GTI 4-Door,"404 E North Ave Lombard, IL 60148","96,481 mi.","$13,990 ",United Gray Metallic,Interlagos,Front-wheel Drive,24–33,Gasoline,6-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2015 Subaru XV Crosstrek Hybrid Base,"350 S Lalonde Ave ADDISON, IL 60101","118,886 mi.","$11,945 ",Ice Silver Metallic,Black,All-wheel Drive,0–0,Hybrid,CVT,2.0L 4 CYLINDER,At least 1 accident or damage reported,No,No
+2018 Ford Fiesta SE 4dr Hatchback,"1233 Ogden Ave Downers Grove, IL 60515","59,453 mi.","$10,490 $260 price drop",White,Black,Front-wheel Drive,37–37,Gasoline,Automatic 6-Speed,1.6L I4,None reported,No,No
+2024 Nissan Armada SL,"8550 W 159th St Orland Park, IL 60462",2 mi.,"$62,697 ",Aspen White,Charcoal,Four-wheel Drive,13–18,Gasoline,7-Speed Automatic,5.6L V8 32V GDI DOHC,,,
+2019 Lincoln Navigator Standard,"2110 Ogden Ave Lisle, IL 60532","82,234 mi.","$31,616 $250 price drop",Silver Jade Metallic,Ebony,Four-wheel Drive,16–21,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,At least 1 accident or damage reported,No,No
+2024 Lexus NX 450h+ F SPORT Handling,"350 E Golf Rd Schaumburg, IL 60173",437 mi.,"$64,777 $3,200 price drop",Ultra White,Black,All-wheel Drive,0–0,Gasoline,Automatic,"2.5L I-4 port/direct injection, DOHC, variable valve control, pr",None reported,Yes,No
+2015 Cadillac XTS Base,"452 W Fifth Avenue Naperville, IL 60563","196,479 mi.","$5,999 ",Black Raven,Jet Black,Front-wheel Drive,18–0,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, variable valve control",At least 1 accident or damage reported,No,No
+2024 Chevrolet Tahoe LT,,2 mi.,"$69,995 $1,525 price drop",,,,,,,,,,
+2016 Ford Explorer XLT,"4400 South Archer Avenue Chicago, IL 60632","125,376 mi.","$16,995 ",Shadow Black,Black,Four-wheel Drive,16–23,Gasoline,Automatic,"3.5L V-6 DOHC, variable valve control, regular unleaded, engine",At least 1 accident or damage reported,No,No
+2020 Genesis G90 5.0 Ultimate,"7373 N Cicero Ave Lincolnwood, IL 60712","23,094 mi.","$48,501 ",Gold Coast Silver,Havana/Dark Brown,All-wheel Drive,15–23,Gasoline,8-Speed Automatic with SHIFTRONIC,"Tau 5L V-8 gasoline direct injection, DOHC, D-CVVT variable valv",None reported,Yes,Yes
+2021 Cadillac XT5 Sport,"6201 South La Grange Road Hodgkins, IL 60525","24,952 mi.","$36,497 $301 price drop",Stellar Black Metallic,Black,All-wheel Drive,18–26,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,At least 1 accident or damage reported,Yes,No
+2018 Mercedes-Benz AMG E 63 S 4MATIC,"5240 Golf Road Skokie, IL 60077","49,852 mi.","$57,372 $600 price drop",Black,Black,All-wheel Drive,19–25,Gasoline,Automatic,"AMG 4L V-8 gasoline direct injection, DOHC, variable valve contr",None reported,No,No
+2021 Jeep Grand Cherokee Limited,"200 W Grand Ave Elmhurst, IL 60126","84,443 mi.","$27,495 $432 price drop",Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive,14–22,Gasoline,Automatic,"HEMI 5.7L V-8 VVT variable valve control, regular unleaded, engi",None reported,Yes,No
+2004 Lexus LS 430 Base (A6),"7585 S Madison St Unit A Burr Ridge, IL 60527","95,135 mi.","$10,995 ",White,Beige,Rear-wheel Drive,18–25,Gasoline,6-Speed Automatic,4.3L V8 32V MPFI DOHC,At least 1 accident or damage reported,No,No
+2014 Cadillac XTS Luxury,"404 E North Ave Lombard, IL 60148","140,584 mi.","$11,490 ",Graphite Metallic,Jet Black,Front-wheel Drive,18–28,Gasoline,6-Speed Automatic,3.6L V6 24V GDI DOHC,At least 1 accident or damage reported,Yes,No
+2023 Toyota GR86 Base,"725 W Roosevelt Rd Lombard, IL 60148","5,990 mi.","$34,995 ",Pavement,Black,Rear-wheel Drive,21–31,Gasoline,6-Speed Automatic,2.4L H4 16V PDI DOHC,None reported,Yes,No
+2020 Buick Encore GX Select,"2311 Ogden Ave Downers Grove, IL 60515","25,751 mi.","$20,281 $109 price drop",Ebony Twilight Metallic,Whisper Beige,Front-wheel Drive,26–30,Gasoline,Automatic CVT,1.3L I3 12V MPFI DOHC Turbo,At least 1 accident or damage reported,Yes,No
+2014 Cadillac XTS Luxury,"8425 159th St Tinley Park, IL 60487","79,319 mi.","$16,950 ",Radiant Silver Metallic,Medium Titanium / Jet Black,Front-wheel Drive,18–28,Gasoline,6-Speed Automatic,3.6L V6 24V GDI DOHC,None reported,No,No
+2021 Chevrolet Trailblazer LS,"18800 South Oak Park Ave Tinley Park, IL 60477","41,832 mi.","$21,998 ",Gray,Black,Front-wheel Drive,28–31,Gasoline,Automatic CVT,1.2L I3 12V GDI DOHC Turbo,,,
+2023 Ford Bronco Black Diamond,"21315 Central Avenue Matteson, IL 60443",5 mi.,"$47,075 MSRP $48,620",Shadow Black,Dark Space Gray,Four-wheel Drive,16–18,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,,,
+2007 Hummer H2 Base,"19915 South La Grange Road Frankfort, IL 60423","77,534 mi.","$27,950 $6,600 price drop",Black,Ebony,Four-wheel Drive,0–0,Gasoline,4-Speed Automatic HD with Overdrive,Vortec 6.0L V8 SFI,None reported,No,No
+2020 Mercedes-Benz GLC 300 4MATIC Coupe,"1349 Indianapolis Blvd Schererville, IN 46375","37,443 mi.","$42,437 $1,890 price drop",Graphite Gray Metallic,Black,All-wheel Drive,21–28,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2006 Suzuki Reno,"452 W Fifth Avenue Naperville, IL 60563","49,970 mi.","$4,999 ",Sunburst Metallic,Gray,Front-wheel Drive,22–0,Gasoline,Automatic,"2L I-4 DOHC, regular unleaded, engine with 126HP",At least 1 accident or damage reported,Yes,No
+2024 Volkswagen Jetta 1.5T SEL,"2211 Aurora Ave Naperville, IL 60540",5 mi.,"–  $31,031 MSRP¹ $1,052 seller discount $29,979 Seller price ¹MSRP excludes destination & handling",Deep Black Pearl Effect,Titan Black,FWD,29–40,Gasoline,8-Speed Automatic,1.5L I4 16V GDI DOHC Turbo,,,
+2023 Buick Envision Preferred,"9301 South Cicero Ave. Oak Lawn, IL 60453",4 mi.,"$32,890 $1,000 price drop",Cinnabar Metallic,Ebony,All-wheel Drive,22–29,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2023 Buick Envision Avenir,,,,,,,,,,,,,
+2024 Subaru Outback Onyx Edition XT,"6191 Joliet Rd Countryside, IL 60525",6 mi.,"$38,642 ",Crystal Black Silica,Gray,All-wheel Drive,22–29,Gasoline,Automatic CVT,2.4L H4 16V GDI DOHC Turbo,,,
+2021 Volkswagen ID.4 Pro S,,,,,,,,,,,,,
+2011 Mercedes-Benz R-Class 4MATIC,"13840 South Pulaski Road Crestwood, IL 60445","197,454 mi.","$7,995 ",Pearl White,Almond Beige,All-wheel Drive,15–19,Gasoline,Automatic,"3.5L V-6 DOHC, variable valve control, premium unleaded, engine",At least 1 accident or damage reported,No,No
+2013 Cadillac XTS Luxury,,,,,,,,,,,,,
+2018 Buick Encore Preferred,"333 W Rand Rd. Mt Prospect, IL 60056","39,152 mi.","$16,000 ",Graphite Gray Metallic,Shale,Front-wheel Drive,25–33,Gasoline,Automatic,"ECOTEC 1.4L I-4 DOHC, VVT variable valve control, intercooled tu",None reported,No,No
+2022 Subaru Forester Touring,,,,,,,,,,,,,
+2014 Audi A6 3.0 TDI Premium Plus quattro,"1543 Ogden Ave Downers Grove, IL 60515","136,573 mi.","$16,888 $2,000 price drop",Gray,Black,All-wheel Drive,24–38,Diesel,8-Speed Automatic,3.0L V6 24V DDI DOHC Turbo Diesel,At least 1 accident or damage reported,No,No
+2019 Hyundai Tucson Limited,"8585 W 159th St Tinley Park, IL 60487","39,827 mi.","$22,333 ",Gemstone Red,Black,All-wheel Drive,21–26,Gasoline,6-Speed Automatic,2.4L I4 16V GDI DOHC,,,
+2008 Volvo XC70 3.2,"2150 Ogden Ave Downers Grove, IL 60515","169,871 mi.","$5,888 ",–,–,All-wheel Drive,15–22,Gasoline,6-Speed Automatic,3.2L I6 24V MPFI DOHC,At least 1 accident or damage reported,No,No
+2024 Chevrolet Silverado 1500 LT,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$51,296 $2,500 price drop",Sterling Gray Metallic,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,5.3L V8 16V GDI OHV,,,
+2024 Chevrolet Malibu RS,"414 E North Ave Glendale Heights, IL 60139","2,144 mi.","$23,840 ",Summit White,Jet Black,Front-wheel Drive,27–35,Gasoline,Automatic CVT,1.5L I4 16V GDI DOHC Turbo,,,
+2024 Chrysler Pacifica Touring L,"1155 W Dundee Rd Arlington Heights, IL 60004",10 mi.,"$44,024 MSRP $48,795 $4,771 price drop",Diamond Black Crystal Pearlcoat,Black,Front-wheel Drive,19–28,Gasoline,Automatic,"3.6L V-6 DOHC, VVT variable valve control, regular unleaded, eng",,,
+2020 Mercedes-Benz AMG GT 63 S 4-Door,,"37,181 mi.","$119,895 ",,,,,,,,,,
+2014 Mercedes-Benz CLS-Class CLS 63 AMG,,,,,,,,,,,,,
+2005 Mitsubishi Montero Limited,"Thomas from Naperville, IL 60565","133,400 mi.","$7,500 ",Blue,Black,Four-wheel Drive,Gasoline,A/T,215.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,JA4MW51SX5J002685,At least 1 accident or damage reported,Yes,No
+2006 Mitsubishi Montero Limited,"Thomas from Naperville, IL 60565","139,000 mi.","$7,500 ",Gray,Black,Four-wheel Drive,Gasoline,A/T,215.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,JA4MW51S96J000685,At least 1 accident or damage reported,Yes,No
+2019 Buick Encore Preferred,"1301 Indianapolis Blvd Schereville, IN 46375","26,920 mi.","$17,890 $1,093 price drop",Quicksilver Metallic,Ebony,All-wheel Drive,24–29,Gasoline,6-Speed Automatic,1.4L I4 16V MPFI DOHC Turbo,None reported,Yes,Yes
+2021 Mercedes-Benz AMG E 63 S 4MATIC,"4257 W. North Ave. Chicago, IL 60639","17,491 mi.","$86,495 ",designo Brilliant Blue Magno,Titanium Grey,All-wheel Drive,16–23,Gasoline,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,At least 1 accident or damage reported,No,No
+2014 Cadillac XTS Luxury,"7158 Harlem Ave Bridgeview, IL 60455","108,426 mi.","$13,314 ",Radiant Silver Metallic,Black,All-wheel Drive,17–26,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, variable valve control",At least 1 accident or damage reported,No,No
+2024 Chrysler Pacifica Touring L,"7601 Skokie Blvd Skokie, IL 60077",5 mi.,"$43,196 MSRP $49,990",Bright White Clearcoat,Black,Front-wheel Drive,19–28,Gasoline,9-Speed 948TE Automatic,3.6L V6 24V VVT,,,
+2021 Ford Explorer ST,,"28,618 mi.","$38,970 ",,,,,,,,,,
+2019 Audi e-tron Premium Plus,"5240 Golf Road Skokie, IL 60077","25,535 mi.","$27,372 ",Florett Silver Metallic,Black,All-wheel Drive,Automatic,Electric Motor,WA1LAAGE1KB009714,Y1034,At least 1 accident or damage reported,No,No
+2024 Lexus NX 450h+ F SPORT Handling,"500 E. Ogden Ave. Westmont, IL 60559",982 mi.,"$64,970 $915 price drop",Atomic Silver,Red,All-wheel Drive,–,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,None reported,Yes,No
+2021 Hyundai Kona EV Ultimate,"1529 Rand Road Des Plaines, IL 60016","23,022 mi.","$24,477 $500 price drop",Lunar White,Black,Front-wheel Drive,1-Speed Automatic,Electric,KM8K53AG2MU131805,GU1307,None reported,Yes,No
+2023 Ford Bronco Sport Badlands,"7301 Kingery Hwy Willowbrook, IL 60527",6 mi.,"$40,428 MSRP $43,680 $1,200 price drop",Shadow Black,Ebony,Four-wheel Drive,21–26,Gasoline,8-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2020 Nissan Kicks SV,"1985 River Oaks Dr Calumet City, IL 60409","61,436 mi.","$15,790 $100 price drop",Brilliant Silver Metallic,Charcoal,Front-wheel Drive,31–36,Gasoline,Automatic CVT,1.6L I4 16V MPFI DOHC,None reported,Yes,No
+2024 Hyundai Kona N Line,"1866 Ogden Avenue Downers Grove, IL 60515",15 mi.,"$31,975 MSRP $33,815",Abyss Black Pearl,Black,All-wheel Drive,24–29,Gasoline,8-Speed Automatic,"Gamma Gen 2 1.6L I-4 gasoline direct injection, DOHC, variable v",,,
+2014 Cadillac XTS Luxury,,,,,,,,,,,,,
+2023 Dodge Challenger SXT,"414 E North Ave Glendale Heights, IL 60139","14,839 mi.","$27,486 $2,504 price drop",White Knuckle Clearcoat,Black,Rear-wheel Drive,19–30,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,Yes,No
+2024 Chevrolet Silverado 1500 LT,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$50,032 $500 price drop",Radiant Red,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,5.3L V8 16V GDI OHV,,,
+2015 Audi S8 4.0T,,,,,,,,,,,,,
+2022 Toyota Camry SE,"4550 W. Lincoln Highway Route 30 Matteson, IL 60443","60,013 mi.","$21,881 $1,000 price drop",Midnight Black Metallic,Black,Front-wheel Drive,28–39,Gasoline,8-Speed Automatic,2.5L I4 16V PDI DOHC,At least 1 accident or damage reported,Yes,No
+2024 Subaru Forester Wilderness,,,,,,,,,,,,,
+2021 Hyundai Sonata Limited,"1565 West Ogden Avenue Naperville, IL 60540","105,586 mi.","$16,477 $1,000 price drop",Calypso Red,Dark Gray,Front-wheel Drive,27–37,Gasoline,Automatic,"Smartstream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",None reported,Yes,No
+2024 Mazda CX-50 2.5 S Premium Package,"2363 Aurora Ave Naperville, IL 60540",15 mi.,"$35,810 MSRP $35,810 $175 price drop",Jet Black Mica,Black W/ Gray,All-wheel Drive,24–30,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC,,,
+2024 GMC HUMMER EV SUV 2X,"6900 McCormick Blvd Lincolnwood, IL 60712",10 mi.,"$94,185 $20,300 price drop",Void Black,Lunar Horizon (Jet Black/Light Grey),Four-wheel Drive,Automatic,Electric Motor,1GKB0NDE1RU105104,M24098,,,
+2023 Chevrolet Suburban High Country,"8200 S Harlem Ave Bridgeview, IL 60455","14,447 mi.","$75,899 $4,091 price drop",Black,Jet Black,Four-wheel Drive,14–18,Gasoline,10-Speed Automatic,6.2L V8 16V GDI OHV,None reported,Yes,No
+2023 Nissan Sentra SV,,"17,465 mi.","$22,488 ",,,,,,,,,,
+2024 Lincoln Aviator Reserve AWD,,,,,,,,,,,,,
+2016 BMW M235 i xDrive,"555 Executive Dr Willowbrook, IL 60527","72,226 mi.","$22,995 $2,000 price drop",Mineral Gray Metallic,Coral Red / Black,All-wheel Drive,20–30,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,At least 1 accident or damage reported,No,No
+2012 Acura TSX,"3128 W 147th St Posen, IL 60469","151,068 mi.","$8,999 ",Gray,Black,Front-wheel Drive,22–31,Gasoline,Automatic,2.4L DOHC 16-valve i-VTEC I4 engine,None reported,No,No
+2023 BMW X1 xDrive28i,,,,,,,,,,,,,
+2002 Aston Martin DB7 Vantage 2dr Cpe Manual,,,,,,,,,,,,,
+2018 Acura MDX 3.5L,"1543 Ogden Ave Downers Grove, IL 60515","140,481 mi.","$17,777 $1,111 price drop",Black,Ebony,All-wheel Drive,18–26,Gasoline,9-Speed Automatic,3.5L V6 24V GDI SOHC,At least 1 accident or damage reported,No,No
+2011 Lexus IS 250 Base,"3201 167th St Hazel Crest, IL 60429","127,163 mi.","$10,949 ",Cerulean Blue Metallic,Ecru,All-wheel Drive,20–27,Gasoline,Automatic,"2.5L V-6 gasoline direct injection, DOHC, VVT-i variable valve c",None reported,Yes,No
+2024 Chevrolet Silverado 1500 Custom Trail Boss,,,,,,,,,,,,,
+2016 Acura MDX 3.5L,,,,,,,,,,,,,
+2023 Jeep Renegade Trailhawk,"208 W Golf Rd Schaumburg, IL 60195","2,001 mi.","$23,430 $1,702 price drop",Black Clearcoat,Black,Four-wheel Drive,22–27,Gasoline,9-Speed 948TE Automatic,"1.3L I-4 gasoline direct injection, Multiair variable valve cont",,,
+2024 Acura RDX Base,"1149 West Golf Road Hoffman Estates, IL 60169",12 mi.,"$51,950 MSRP $51,950",Majestic Black Pearl,Ebony,All-wheel Drive,21–26,Gasoline,Automatic,"2L I-4 gasoline direct injection, DOHC, VTEC variable valve cont",,,
+2023 Ford Explorer XLT,"2055 Ogden Ave Naperville, IL 60540","1,948 mi.","$45,340 ",Agate Black Metallic,Ebony,Four-wheel Drive,20–27,Gasoline,10-Speed Automatic,2.3L EcoBoost I-4,,,
+2012 INFINITI M37x Base,,,,,,,,,,,,,
+2014 Jeep Patriot Sport,"1550 W Ogden Ave Naperville, IL 60540","73,231 mi.","$11,248 ",Maximum Steel Metallic Clearcoat,Dark Slate Gray,Front-wheel Drive,21–28,Gasoline,Automatic,"2.4L I-4 DOHC, variable valve control, regular unleaded, engine",At least 1 accident or damage reported,No,No
+2023 Buick Envision Avenir,,4 mi.,"$32,890 $1,000 price drop",,,,,,,,,,
+2023 Buick Envision Preferred,"9301 South Cicero Ave. Oak Lawn, IL 60453",4 mi.,"$43,405 $1,000 price drop",White Frost Tri-Coat,Ebony,All-wheel Drive,22–29,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2023 Buick Envision Essence,,,,,,,,,,,,,
+2013 Lexus LS 460 Base,"276 Ogden Ave Westmont, IL 60559","125,888 mi.","$21,149 ",Obsidian Black,Black,All-wheel Drive,16–23,Gasoline,8-Speed Automatic,4.6L V8 32V PDI DOHC,At least 1 accident or damage reported,Yes,No
+2007 MINI Cooper S Base,"Jason from Mount Prospect, IL 60056","64,000 mi.","$8,250 ",Silver,Black,Front-wheel Drive,Gasoline,6-Speed M/T,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,WMWMF73537TT85060,None reported,Yes,No
+2018 Lexus LS 500 F Sport,"2150 Ogden Ave Downers Grove, IL 60515","32,279 mi.","$47,888 $2,000 price drop",Caviar,Black,All-wheel Drive,18–27,Gasoline,10-Speed Automatic,3.5L V6 24V PDI DOHC Twin Turbo,None reported,No,No
+2024 Chevrolet Blazer EV RS,"18033 S Halsted St Homewood, IL 60430",3 mi.,"$47,590 ",Radiant Red,Black,All-wheel Drive,1-Speed Automatic,Electric,3GNKDCRJ0RS215398,24612,,,
+2024 Chevrolet Blazer EV 2LT,"18033 S Halsted St Homewood, IL 60430",3 mi.,"$44,195 ",Summit White,Black,All-wheel Drive,1-Speed Automatic,Electric,3GNKDBRJ5RS215438,24613,,,
+2021 GMC Sierra 1500 SLE,"18800 South Oak Park Ave Tinley Park, IL 60477","36,562 mi.","$34,998 $1,000 price drop",Gray,Black,Four-wheel Drive,18–21,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,At least 1 accident or damage reported,Yes,Yes
+2014 Jeep Wrangler Unlimited Sahara,"2110 Ogden Ave Lisle, IL 60532","79,032 mi.","$19,865 ",Billet Clearcoat Metallic,Black,Four-wheel Drive,16–21,Gasoline,5-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,No,No
+2018 Dodge Durango GT,"9700 Indianapolis Blvd Highland, IN 46322","86,855 mi.","$22,500 $300 price drop",Granite Clearcoat,Black,All-wheel Drive,18–25,Gasoline,Automatic,"Pentastar 3.6L V-6 DOHC, variable valve control, regular unleade",None reported,No,No
+2024 Acura RDX Advance Package,,,,,,,,,,,,,
+2024 Mercedes-Benz GLC 300 Base 4MATIC,"1569 W. Ogden Ave. Naperville, IL 60540",7 mi.,"$56,475 ",Starling Blue Metallic,Macchiato Beige,All-wheel Drive,–,Gasoline,Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Mazda CX-50 2.5 Turbo Premium Package,"2363 Aurora Ave Naperville, IL 60540",19 mi.,"$43,820 MSRP $43,820",Machine Gray Metallic,Black W/ Brown,All-wheel Drive,23–29,Gasoline,6-Speed Automatic,2.5L I4 16V GDI DOHC Turbo,,,
+2023 Chevrolet Colorado WT,"1565 West Ogden Avenue Naperville, IL 60540","1,495 mi.","$27,977 $500 price drop",Summit White,Black,Rear-wheel Drive,18–25,Gasoline,Automatic,"2.7L I-4 gasoline direct injection, DOHC, variable valve control",None reported,Yes,No
+2005 Ford Freestyle SE,"300 Lake Street Maywood, IL 60153","147,728 mi.","$3,660 $895 price drop",Titanium Green Clearcoat Metallic,Shale,Front-wheel Drive,20–25,Gasoline,CVT,"Duratec 3L V-6 DOHC, regular unleaded, engine with 203HP",At least 1 accident or damage reported,Yes,No
+2023 RAM ProMaster 3500 High Roof,"4630 95th Street Oak Lawn, IL 60453",10 mi.,"$57,813 $3,000 price drop",Bright White Clearcoat,Black,Front-wheel Drive,–,Gasoline,9-Speed Automatic,3.6L V6 24V MPFI DOHC,,,
+2008 Mitsubishi Lancer ES,,,,,,,,,,,,,
+2024 Lexus NX 450h+ Luxury,,,,,,,,,,,,,
+2008 BMW 335 xi,"1455 Bernard Drive Addison, IL 60101","145,869 mi.","$8,900 $1,600 price drop",GRAY,BLACK,All-wheel Drive,17–25,Gasoline,"Automatic, 6-Spd w/Overdrive & Steptronic","3L I-6 gasoline direct injection, DOHC, Double VANOS variable va",None reported,No,No
+2020 Mercedes-Benz AMG A 35 Base,"2150 Ogden Ave Downers Grove, IL 60515","28,059 mi.","$39,888 $2,000 price drop",Metallic,Black,All-wheel Drive,24–31,Gasoline,7-Speed Automatic with Auto-Shift,2.0L I4 16V GDI DOHC Turbo,None reported,Yes,No
+2024 Kia K5 GT-Line,,,,,,,,,,,,,
+2020 Jaguar E-PACE SE,,,,,,,,,,,,,
+2024 Chevrolet Silverado 1500 RST,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$49,199 $500 price drop",Black,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,,,
+2018 Honda HR-V EX-L w/Navigation,"601 Ogden Ave Lisle, IL 60532","54,203 mi.","$21,499 ",Aegean Blue Metallic,–,All-wheel Drive,27–31,Gasoline,Automatic,"1.8L I-4 variable valve control, regular unleaded, engine with 1",At least 1 accident or damage reported,No,No
+2024 Chevrolet Silverado 1500 WT,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$41,954 $500 price drop",Summit White,Jet Black,Four-wheel Drive,18–21,Gasoline,Automatic,5.3L V8 16V GDI OHV,,,
+2023 Ford Escape PHEV,"1333 Park Ave West Highland Park, IL 60035",6 mi.,"$41,995 MSRP $41,995 $4,000 price drop",Agate Black Metallic,–,Front-wheel Drive,–,Hybrid,Automatic CVT,2.5L I4 16V MPFI DOHC Hybrid,,,
+2016 Chevrolet Silverado 1500 LT,"2110 Ogden Ave Lisle, IL 60532","76,556 mi.","$24,456 $300 price drop",Silver Ice Metallic,Jet Black,Four-wheel Drive,17–22,Gasoline,6-Speed Automatic,5.3L V8 16V GDI OHV,At least 1 accident or damage reported,Yes,No
+2020 Hyundai Elantra SEL,"9850 Indianapolis Blvd Highland, IN 46322","65,379 mi.","$18,195 $100 price drop",Red,Gray,Front-wheel Drive,30–40,Gasoline,Automatic CVT,2.0L I4 16V MPFI DOHC,At least 1 accident or damage reported,Yes,No
+2024 Honda Pilot Touring,"5505 Auto Court Matteson, IL 60443",75 mi.,"$50,980 MSRP $50,980",Alabaster Silver Metallic,Gray,All-wheel Drive,19–25,Gasoline,10-Speed Automatic,3.5L V6 24V GDI DOHC,,,
+2024 Nissan Versa 1.6 SR,"700 W Higgins Rd Hoffman Estates, IL 60169",0 mi.,"$21,944 ",Gray Sky Pearl,Gray,Front-wheel Drive,32–40,Gasoline,Automatic CVT,1.6L I4 16V MPFI DOHC,,,
+2024 GMC Terrain SLT,"1585 Ogden Ave Naperville, IL 60540",3 mi.,"$30,000 MSRP $35,385",Ebony Twilight Metallic,Jet Black,Front-wheel Drive,24–29,Gasoline,Automatic,"1.5L I-4 gasoline direct injection, DOHC, variable valve control",,,
+2024 GMC Terrain AWD AT4,"1585 Ogden Ave Naperville, IL 60540",3 mi.,"$31,000 MSRP $37,385 $4,135 price drop",Sterling Metallic,Jet Black,All-wheel Drive,23–28,Gasoline,Automatic,"1.5L I-4 gasoline direct injection, DOHC, variable valve control",,,
+2024 Chevrolet Tahoe Z71,"1515 W Ogden Ave Naperville, IL 60540",2 mi.,"$70,995 $1,695 price drop",Summit White,Black,Four-wheel Drive,15–20,Gasoline,10-Speed Automatic,5.3L V8 16V GDI OHV,,,
+2001 Oldsmobile Silhouette GL,,,,,,,,,,,,,
+2023 Honda Passport TrailSport,,"3,780 mi.","$36,933 $300 price drop",,,,,,,,,,
+2021 Honda HR-V EX,,,,,,,,,,,,,
+2018 Hyundai Elantra GT Base,,,,,,,,,,,,,
+2023 Lucid Air Pure,"150 W Ogden Ave Westmont, IL 60559","3,590 mi.","$71,800 $2,000 price drop",Blue,Black Graphite,Rear-wheel Drive,1-Speed Automatic,Electric,50EA1PFA0PA002292,UM6398,None reported,No,No
+2017 BMW 650 i xDrive,,,,,,,,,,,,,
+2024 Chevrolet Malibu 1LS,,,,,,,,,,,,,
+2024 Chevrolet Silverado 1500 Custom Trail Boss,,,,,,,,,,,,,
+2024 Chevrolet Silverado 1500 LT Trail Boss,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$53,594 $2,500 price drop",Summit White,Jet Black,Four-wheel Drive,16–17,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,,,
+2024 RAM 2500 Power Wagon,,,,,,,,,,,,,
+2020 Subaru WRX STI Base,,,,,,,,,,,,,
+2014 Volkswagen Jetta SportWagen 2.5L S,,,,,,,,,,,,,
+2020 Toyota RAV4 Hybrid LE,"2110 Ogden Ave Lisle, IL 60532","98,196 mi.","$22,659 $250 price drop",Magnetic Gray Metallic,Black,All-wheel Drive,41–38,Hybrid,Automatic CVT,2.5L I4 16V PDI DOHC Hybrid,None reported,No,No
+2019 Toyota Highlander SE,"2110 Ogden Ave Lisle, IL 60532","88,905 mi.","$24,747 $225 price drop",Predawn Gray Mica,Black,All-wheel Drive,20–26,Gasoline,8-Speed Automatic,3.5L V6 24V PDI DOHC,At least 1 accident or damage reported,Yes,No
+2024 Kia Forte GT-Line,"1400 E Dundee Rd Palatine, IL 60074",11 mi.,"$24,273 MSRP $26,340",Snow White Pearl,Black,Front-wheel Drive,28–39,Gasoline,Automatic,"2L I-4 DOHC, D-CVVT variable valve control, regular unleaded, en",,,
+2024 Chevrolet Blazer RS,"1 Sherwood Terrace Lake Bluff, IL 60044","4,135 mi.","$43,797 $1,500 price drop",Black,Jet Black / Red,All-wheel Drive,18–26,Gasoline,9-Speed Automatic,3.6L V6 24V GDI DOHC,,,
+2021 Volkswagen Atlas Cross Sport 3.6L V6 SEL,"1507 W. Ogden Ave. Naperville, IL 60540","24,989 mi.","$35,995 ",–,–,All-wheel Drive,17–23,Gasoline,Automatic,"3.6L V-6 gasoline direct injection, DOHC, variable valve control",None reported,No,No
+2018 BMW M550 i Xdrive,"3325 W Montrose Ave Chicago, IL 60618","103,183 mi.","$27,970 ",Carbon Black Metallic,Mocha,All-wheel Drive,16–25,Gasoline,Automatic,"4.4L V-8 gasoline direct injection, DOHC, Double VANOS variable",None reported,Yes,Yes
+2023 Buick Envision Avenir,,3 mi.,"$42,805 $1,000 price drop",,,,,,,,,,
+2021 Polestar 2 Launch Edition,,"13,323 mi.","$26,980 ",,,,,,,,,,
+2024 Lincoln Nautilus Premiere,,,,,,,,,,,,,
+2005 Jaguar X-Type 3.0L,"3128 W 147th St Posen, IL 60469","60,456 mi.","$7,999 ",Blue,Beige,All-wheel Drive,18–28,Gasoline,Automatic,3.0L DOHC SMPI 24-valve V6 engine,None reported,No,No
+2024 Ford Explorer XLT,"7301 Kingery Hwy Willowbrook, IL 60527",4 mi.,"$50,197 MSRP $52,310 $2,113 price drop",Stone Blue Metallic,Ebony,Four-wheel Drive,–,Gasoline,10-Speed Automatic,2.3L I4 16V GDI DOHC Turbo,,,
+2019 Mercedes-Benz AMG GT 63 4-Door,,,,,,,,,,,,,
+2022 Porsche Taycan Cross Turismo Turbo S,,,,,,,,,,,,,
+2023 Nissan ARIYA PLATINUM+,"8550 W 159th St Orland Park, IL 60462",2 mi.,"$60,997 $1,403 price drop",2 Tone Gray / Black Roof,Blue Gray,All-wheel Drive,1-Speed Automatic,Electric,JN1DF0CD1PM710562,84135,,,
+2019 Volkswagen Tiguan 2.0T SE,"ashok from Wheeling, IL 60090","39,560 mi.","$20,500 ",Silver,Black,All-wheel Drive,Gasoline,A/T,184.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,3VV2B7AX8KM026323,None reported,Yes,No
+2013 Volvo XC90 3.2,"2110 Ogden Ave Lisle, IL 60532","102,432 mi.","$11,401 $100 price drop",Caspian Blue Metallic,Off Black,All-wheel Drive,16–23,Gasoline,6-Speed Automatic,3.2L I6 24V MPFI DOHC,None reported,No,No
+2024 Hyundai Tucson Hybrid Limited,,,,,,,,,,,,,
+2009 Mitsubishi Eclipse GT,"88 E Dundee Rd Buffalo Grove, IL 60089","82,296 mi.","$8,750 ",Rave Red Pearl,Dark Charcoal,Front-wheel Drive,16–25,Gasoline,5-Speed Automatic,3.8L V6 24V MPFI SOHC,At least 1 accident or damage reported,No,No
+2014 Lexus LS 460 Base,"27W333 North Ave IL West Chicago, IL 60185","103,247 mi.","$25,995 ",White,Tan,Rear-wheel Drive,16–24,Gasoline,8-Speed Automatic,4.6L V8 32V PDI DOHC,At least 1 accident or damage reported,No,No
+2021 Cadillac XT4 Premium Luxury,,"22,283 mi.","$29,790 $145 price drop",Twilight Blue Metallic,Sedona,All-wheel Drive,22–29,Gasoline,9-Speed Automatic,2.0L I4 16V GDI DOHC Turbo,,,
+2024 Alfa Romeo Tonale Ti EAWD,,,,,,,,,,,,,
+2016 Subaru WRX STI Base,,,,,,,,,,,,,
+2017 Buick Regal Turbo GS,,,,,,,,,,,,,
+2022 Dodge Durango SXT,"5859 South La Grange Road Countryside, IL 60525","18,836 mi.","$32,167 $732 price drop",DB Black Crystal Clearcoat,Black,All-wheel Drive,18–25,Gasoline,8-Speed Automatic,3.6L V6 24V MPFI DOHC,None reported,Yes,No
+2024 Lincoln Nautilus Reserve,,,,,,,,,,,,,
+2022 Polestar 2 Long Range Dual Motor,"1529 Rand Road Des Plaines, IL 60016","31,892 mi.","$28,985 ",Void,Slate,All-wheel Drive,1-Speed Automatic,Electric,LPSED3KA1NL056058,GU1218,None reported,Yes,No
+2022 Audi e-tron Premium Plus,,,,,,,,,,,,,
+2022 Polestar 2 Long Range Dual Motor,"1529 Rand Road Des Plaines, IL 60016","25,406 mi.","$27,477 $1,001 price drop",Magnesium,Slate,All-wheel Drive,1-Speed Automatic,Electric,LPSED3KA4NL055762,GU1293,None reported,No,No
+1988 Chevrolet C10/K10 Base,,,,,,,,,,,,,
+2017 Porsche 718 Boxster S,"1850 Holste Rd Northbrook, IL 60062","14,527 mi.","$56,759 $3,041 price drop",White,Black,Rear-wheel Drive,20–26,Gasoline,7-Speed Porsche Doppelkupplung (PDK),2.5L H4 Turbocharged DOHC 16V LEV3-ULEV125 350hp,None reported,No,No
+2019 Porsche 718 Boxster GTS,"1850 Holste Rd Northbrook, IL 60062","7,261 mi.","$75,975 $3,825 price drop",Carmine Red,Black,Rear-wheel Drive,19–25,Gasoline,6-Speed Manual,2.5L 4-Cylinder Turbocharged DOHC,At least 1 accident or damage reported,No,No
+2022 Toyota Supra A91-CF Edition,"303 W Roosevelt Rd Lombard, IL 60148","12,924 mi.","$59,140 $429 price drop",White,Red,Rear-wheel Drive,22–30,Gasoline,8-Speed Automatic,3.0L I6 24V GDI DOHC Turbo,None reported,Yes,No
+2024 Chevrolet Malibu 1LS,,,,,,,,,,,,,
+2008 BMW 135 i,"Eric from Glen Ellyn, IL 60137","107,000 mi.","$9,000 ",Black,Beige,Rear-wheel Drive,Gasoline,A/T,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,WBAUN93568VF56536,At least 1 accident or damage reported,Yes,No
+2024 Kia Telluride SX-Prestige,"8821 W 159th St Orland Hills, IL 60487",12 mi.,"$51,660 ",Dark Moss,Black,All-wheel Drive,18–24,Gasoline,8-Speed Automatic,3.8L V6 DOHC,,,
+2024 Chevrolet Silverado 1500 Custom Trail Boss,"414 E North Ave Glendale Heights, IL 60139",2 mi.,"$48,695 $3,390 price drop",Glacier Blue Metallic,Jet Black,Four-wheel Drive,16–17,Gasoline,Automatic,2.7L I4 16V GDI DOHC Turbo,,,
+2024 Chevrolet Silverado 2500 WT,"300 Roosevelt Rd Glen Ellyn, IL 60137",6 mi.,"$52,965 ",Summit White,Jet Black,Four-wheel Drive,0–0,Gasoline,10-Speed Automatic,"6.6L V-8 gasoline direct injection, variable valve control, regu",,,
+2023 BMW X6 M SUV,"27w110 North Ave West Chicago, IL 60185","8,810 mi.","$99,800 $5,000 price drop",Donington Grey Metallic,Black,All-wheel Drive,13–18,Gasoline,8-Speed Shiftable Automatic w/Sport Transmission,4.4L Twin Turbo V8 600hp 553ft. lbs.,None reported,Yes,No
+2020 Mercedes-Benz AMG GT 63 4-Door,"1000 W Golf Road Hoffman Estates, IL 60169","27,265 mi.","$99,999 $2,000 price drop",Jupiter Red,Black,All-wheel Drive,15–20,Gasoline,9-Speed Automatic,4.0L V8 32V GDI DOHC Twin Turbo,None reported,No,No
+2013 Toyota Sienna XLE,"1911 N Rand Rd Palatine, IL 60074","85,820 mi.","$16,933 $490 price drop",Gray,Gray,Front-wheel Drive,18–25,Gasoline,6-Speed Automatic,3.5L V6 24V MPFI DOHC,At least 1 accident or damage reported,Yes,No
