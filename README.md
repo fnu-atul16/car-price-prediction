@@ -130,3 +130,21 @@ df["Actual_price"] = df["Actual_price"].fillna(
 # 3️⃣ Final fallback: drop remaining NaN values
 df = df.dropna(subset=["Actual_price"]).reset_index(drop=True)
 
+### 4 Fuel Type Cleaning (Handling Missing Values)
+**Model-wise Fuel Type Propagation**
+- Cars with the same `model` usually have the same fuel type
+- Missing values were filled using:
+  - Forward fill within the same model
+  - Backward fill if needed
+
+**Default Fuel Type Filling**
+- After model-wise filling, remaining missing values were filled with **Gasoline**
+- Reason:
+  - The majority of passenger vehicles in the US market are gasoline-powered
+
+#### ✅ Result
+- `Fuel type` column is now fully cleaned
+- No missing values remain
+- Column is consistent and reliable for analysis
+
+
