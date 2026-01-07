@@ -131,6 +131,7 @@ df["Actual_price"] = df["Actual_price"].fillna(
 df = df.dropna(subset=["Actual_price"]).reset_index(drop=True)
 
 ### 4 Fuel Type Cleaning (Handling Missing Values)
+```
 **Model-wise Fuel Type Propagation**
 - Cars with the same `model` usually have the same fuel type
 - Missing values were filled using:
